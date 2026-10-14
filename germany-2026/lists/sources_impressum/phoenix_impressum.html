@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <base href="/">
+    
+	<meta charset="utf-8" />
+	<meta name="fragment" content="!" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="robots" content="index,follow" ng-attr-content="{{ meta.noindex ? 'noindex,follow' : 'index,follow' }}" />
+	<meta name="X-UA-Compatible" content="IE=edge,chrome=1" />
+	
+	<title ng-bind="meta.title ? meta.title + ' - ' + config.titlesuffix : config.titlesuffix">phoenix</title>
+
+	<meta name="description" ng-attr-content="{{ meta.description }}" ng-if="meta.description" />
+	<meta property="og:title" ng-attr-content="{{ meta.title }}" />
+	<meta property="og:image" ng-attr-content="{{ meta.image || config.imageurl+'/pics/facebook.jpg' }}" />
+	<meta property="og:description" ng-attr-content="{{ meta.description_og }}" ng-if="meta.description_og" />
+	<meta property="og:url" ng-attr-content="{{ meta.canonical }}" ng-if="meta.canonical" />
+	<meta property="og:site_name" content="phoenix" />
+	<meta property="og:type" content="Website" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:image" ng-attr-content="{{ meta.image || config.imageurl+'/pics/facebook.jpg' }}" />
+	
+	<link rel="canonical" ng-attr-href="{{ meta.canonical }}" ng-if="meta.canonical" />
+	
+	<link rel="stylesheet" type="text/css" href="/css/styles.css" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon-precomposed.png" />
+	
+    <script>
+        var gfkConnectorConf = { optin: false };
+    </script>
+	<script src="https://de-config.sensic.net/sui-connector.js"></script>
+	
+    <script src="/js/lib.js"></script>
+	<script src="/js/templates.js"></script>
+	<script src="/js/app.js"></script>
+    <script
+        type="text/javascript"
+        crossorigin="anonymous"
+        src="https://tag.aticdn.net/piano-analytics.js"
+    ></script>
+    <script>
+        if (typeof pa !== 'undefined') {
+            pa.setConfiguration("collectDomain", "mefo1.zdf.de");
+            if(window.location.host.indexOf("localhost") > -1 || window.location.host.indexOf("zdf-digital.com") > -1) {
+                pa.setConfiguration("site", 575802);
+            } else {
+                pa.setConfiguration("site", 644065);
+            }
+        }
+    </script>
+</head>
+<body data-loaded="0" data-error="0" phnx-body>
+    <div ng-class="{ blured: showPrivacySettings() }">
+        <div phnx-svg path="'pics/icons.svg'" style="display: none;"></div>
+        
+        <div class="o-offpage c-offpage">
+            <ul class="c-offpage__nav" phnx-navigation data-index="0">
+                <li class="c-offpage__nav__item" ng-repeat="item in ::navigation"><a ng-href="{{ item.link }}" target="_self" ng-attr-target="{{ item.target || undefined }}">{{ item.titel }}</a></li>
+            </ul>
+            
+            <a href="/livestream.html" class="c-offpage__livestream" target="_self">Livestream</a>
+            
+            <div phnx-livestream class="c-offpage__livestream__info">
+                <strong class="c-offpage__livestream__info__title">{{ title }}</strong>
+                <span class="c-offpage__livestream__info__subtitle">{{ subtitle }}</span>
+            </div>
+        </div>
+    
+        
+        <div class="o-page">
+            
+            <header class="o-page__frame c-header"><div class="o-wrap u-inset">
+                <a href="#" class="c-header__offpage" phnx-offpage ng-click="toggleVisibility()"><svg viewbox="0 0 26.2 18.7" class="u-icon"><use xlink:href="/pics/icons.svg#navopen" /></svg></a>
+                        
+                <a class="c-header__logo" ng-href="/" target="_self"><svg viewbox="0 0 117 39.4"><use xlink:href="/pics/icons.svg#logo" /></svg></a>
+                
+                <ul class="o-hnav c-header__nav" phnx-navigation data-index="0">
+                    <li class="c-header__nav__item" ng-repeat="item in ::navigation" ng-class="{'is-open': item.isvisible==true}" phnx-hoverintent hoverin="item.isvisible = true" hoverout="item.isvisible = false"><a ng-href="{{ item.link }}" target="_self" ng-attr-target="{{ item.target || undefined }}">{{ item.titel }}</a>
+                        <div class="c-header__nav__item__pane" ng-if="item.items[0].items.length>0">
+                            <div ng-repeat="category in ::item.items" class="c-header__nav__item__pane__col" ng-class-even="'c-header__nav__item__pane__col--even'">
+                                <strong class="c-header__nav__item__pane__col__title" ng-if="category.titel">{{ category.titel }} <a ng-href="{{ category.link }}" target="_self" ng-if="category.link">[alle]</a></strong>
+                                <ul>
+                                    <li ng-repeat="categoryitem in ::category.items" class="c-header__nav__item__pane__col__item"><a ng-href="{{ categoryitem.link }}" target="_self" ng-attr-target="{{ categoryitem.target || undefined }}"><span ng-bind-html="categoryitem.titel"></span></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+                
+                <ul class="c-header__tools">
+                    <li class="c-header__tools__item c-header__tools__item--search" phnx-searchbox></li>
+                    <li class="c-header__tools__item c-header__tools__item--live" phnx-livestream phnx-hoverintent hoverin="isvisible = true" hoverout="isvisible = false"><a href="/livestream.html" target="_self">Livestream</a>
+                        <div class="c-livestream-info" ng-show="isvisible">
+                            <div class="c-livestream-info__body">
+                                <strong class="h-badge h-badge--live">Jetzt im Livestream</strong>
+                                <a href="/livestream.html" target="_self">
+                                    <strong class="c-livestream-info__body__title">{{ title }}</strong>
+                                    <span class="c-livestream-info__body__subtitle">{{ subtitle }}</span>
+                                </a>
+                            </div>
+                            <a href="/livestream.html" target="_self" class="c-livestream-info__play"></a>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            </header>
+            
+
+            <div class="o-page__desk" ui-view="">
+                
+
+            </div>
+                    
+            <div class="c-footer-msgflash o-wrap" phnx-msgflash ng-init="type='footer'">
+                <div ng-if="msgflash.footer.show==true && msgflash.footer.enabled==true" ng-class="{hidden: !msgflash.footer.show}" ng-style="msgflash.common.ngBgColor">
+                    <a ng-href="{{ msgflash.common.link }}" ng-class="{pointer: msgflash.common.link}">
+                        <img class="img" ng-src="{{ msgflash.footer.imageurl }}"  />
+                        <div class="text" ng-bind-html="msgflash.footer.text"></div>
+                    </a>
+                    <div class="close" ng-if="msgflash.common.closeable && msgflash.common.cookiesAllowed" ng-click="closeHandler('footer')"></div>
+                </div>
+            </div>
+            <footer class="o-page__frame">
+                
+                <div class="c-footer">
+                    <div class="o-wrap u-inset u-inset--footer" phnx-navigation data-index="1">
+                        <div class="c-footer__col" phnx-footer-nav item="item" ng-class="{'is-open': item.isvisible}" ng-repeat="item in ::navigation"></div>
+                    </div>                
+                </div>
+                
+                <div class="c-meta"><div class="o-wrap u-inset u-inset--footer">
+                    
+                    <ul class="c-meta__nav" phnx-navigation data-index="2">
+                        <li class="c-meta__nav__item" ng-repeat="item in ::navigation"><a ng-href="{{ item.link }}" target="_self" ng-attr-target="{{ item.target || undefined }}">{{ item.titel }}</a></li>
+                        <li class="c-meta__nav__item c-meta__nav__item--logo">
+                            <a href="http://www.zdf.de" target="_blank" class="c-meta__nav__item__logo"><svg viewbox="0 0 56.7 24.1"><use xlink:href="/pics/icons.svg#logo-zdf" /></svg></a>
+                            <a href="http://www.ard.de" target="_blank" class="c-meta__nav__item__logo"><svg viewbox="0 0 56.7 24.1"><use xlink:href="/pics/icons.svg#logo-ard" style="fill:#fff;" /></svg></a>
+                        </li>
+                    </ul>
+                    
+                </div></div>
+            </footer>
+        </div>
+        
+        <div phnx-loader ng-show="isloading" class="c-loading"><div class="c-loading__spinner"></div></div>
+        
+        <a href="#" ng-show="mustshow" class="c-toplink" phnx-toplink><svg viewbox="0 0 24 24" class="u-icon"><use xlink:href="/pics/icons.svg#toplink" /></svg></a>
+    </div>
+    <div ng-if="showPrivacySettings()">
+        <div phnx-privacy-settings class="ps-wrapper"></div>
+    </div>
+</body>
+</html>

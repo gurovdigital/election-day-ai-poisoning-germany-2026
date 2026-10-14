@@ -1,0 +1,120 @@
+{
+  "study": "germany-2026",
+  "title": "AI answer surfaces in Germany, state elections 20 September 2026 (Berlin, Mecklenburg-Vorpommern)",
+  "language": "de",
+  "question_column": "de",
+  "spacing_minutes": 10,
+  "surfaces": {
+    "google_ai_overviews": {
+      "label": "AI Overviews",
+      "actor_id": "EHDSVWWQ1RmGr7j7k",
+      "actor_name": "apify/google-ai-overviews-scraper",
+      "input": "newline_string",
+      "schema": "apify_official",
+      "price_note": "$0.002/result"
+    },
+    "chatgpt_search": {
+      "label": "ChatGPT",
+      "actor_id": "bgGC9uvqqfOkeeVjY",
+      "actor_name": "apify/chatgpt-search-scraper",
+      "input": "newline_string",
+      "schema": "apify_official",
+      "price_note": "$0.005/result"
+    },
+    "gemini": {
+      "label": "Gemini",
+      "actor_id": "lDSPLbCvtMwFPuHDk",
+      "actor_name": "apify/gemini-search-scraper",
+      "input": "newline_string",
+      "schema": "apify_official",
+      "price_note": "$0.005/result"
+    },
+    "perplexity": {
+      "label": "Perplexity",
+      "actor_id": "iaDJkfoKSHYkLieg7",
+      "actor_name": "apify/perplexity-search-scraper",
+      "input": "newline_string",
+      "schema": "apify_official",
+      "extra_input": {
+        "perplexitySearch": {
+          "returnImages": false,
+          "returnRelatedQuestions": false
+        }
+      },
+      "price_note": "$0.013/result"
+    },
+    "copilot": {
+      "label": "Copilot",
+      "actor_id": "dNfYhaMvn8GJgQ7gG",
+      "actor_name": "johnvc/bing-copilot-api",
+      "input": "list",
+      "schema": "johnvc_copilot",
+      "price_note": "$0.01425/query"
+    }
+  },
+  "lists": {
+    "ru_state": {
+      "file": "ru_state_domains.csv",
+      "domain_col": "domain",
+      "label_col": "outlet_annexXV",
+      "source": "EU Reg. 833/2014 Annex XV (consolidated 2025-07-20)",
+      "match": "registrable"
+    },
+    "ru_network": [
+      {
+        "file": "viginum_portal-kombat_domains_20241227.csv",
+        "domain_col": "domain",
+        "source": "VIGINUM Portal Kombat 2024-12-27",
+        "match": "host_and_registrable",
+        "unescape": true,
+        "encoding": "utf-8-sig"
+      },
+      {
+        "file": "checkfirst_pravda_wikipedia_results.csv",
+        "domain_col": "domain",
+        "source": "CheckFirst Pravda/Wikipedia 2025",
+        "match": "host_and_registrable"
+      }
+    ],
+    "local": [
+      {
+        "category": "de_public_service",
+        "file": "de_public_service_domains.csv",
+        "domain_col": "domain",
+        "label_col": "company",
+        "source_prefix": "public-service broadcaster"
+      },
+      {
+        "category": "de_authority",
+        "file": "de_authority_domain-map.csv",
+        "domain_col": "domain",
+        "label_col": "body",
+        "source_prefix": "public authority",
+        "wildcards": [
+          "bund.de",
+          "europa.eu"
+        ]
+      },
+      {
+        "category": "de_media_accountable",
+        "file": "de_media_accountable_domain-map.csv",
+        "domain_col": "domain",
+        "label_col": "outlet",
+        "source_prefix": "Presserat-accountable media"
+      },
+      {
+        "category": "de_media_dnr",
+        "file": "de_media_dnr_domain-map.csv",
+        "domain_col": "domain",
+        "label_col": "brand",
+        "source_prefix": "Reuters Institute DNR 2025 Germany brand"
+      }
+    ],
+    "authority_categories": [
+      "de_authority"
+    ],
+    "public_service_categories": [
+      "de_public_service"
+    ]
+  }
+}

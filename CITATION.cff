@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use these data or scripts, please cite the archived version on Zenodo."
+type: dataset
+title: "Election-Day AI Poisoning in Germany (20 September 2026): verification package"
+authors:
+  - family-names: Gurov
+    given-names: Pavel
+    orcid: "https://orcid.org/0009-0001-0152-8056"
+doi: 10.5281/zenodo.22925952
+date-released: 2026-10-14
+version: "3"
+repository-code: "https://github.com/gurovdigital/election-day-ai-poisoning-germany-2026"
+license:
+  - CC-BY-4.0
+  - MIT
+  - EUPL-1.2
+keywords:
+  - AI chatbots
+  - LLM grooming
+  - AI poisoning
+  - disinformation
+  - foreign information manipulation and interference
+  - Russia Today
+  - elections
+  - Germany

@@ -1,0 +1,264 @@
+domain,citations,category,category_source,google_ai_overviews,chatgpt_search,gemini,perplexity,copilot,annotation_type,annotation
+tagesschau.de,302,de_public_service,"public-service broadcaster: ARD (Gemeinschaftsredaktion, editorially produced at NDR)",43,34,0,162,63,,
+bundestag.de,235,de_authority,public authority: Deutscher Bundestag,8,11,29,154,33,,
+bundesregierung.de,178,de_authority,public authority: Bundesregierung / Presse- und Informationsamt der Bundesregierung,6,38,10,107,17,,
+correctiv.org,172,other,,13,28,49,52,30,factcheck,"CORRECTIV, non-profit investigative newsroom and fact-checker (Essen)"
+dw.com,130,de_public_service,public-service broadcaster: Deutsche Welle (DW),7,8,0,115,0,,
+deutschlandfunk.de,109,de_public_service,public-service broadcaster: Deutschlandradio (Deutschlandfunk programme),8,0,36,65,0,,
+taz.de,106,other,,7,0,12,67,20,de_media_other,"taz, die tageszeitung (Berlin daily)"
+zdfheute.de,99,de_public_service,public-service broadcaster: ZDF,10,6,0,63,20,,
+youtube.com,97,other,,86,0,11,0,0,social_platform,YouTube
+mdr.de,89,de_public_service,public-service broadcaster: Mitteldeutscher Rundfunk (MDR),0,0,0,89,0,,
+bpb.de,88,de_authority,public authority: Bundeszentrale für politische Bildung (bpb),3,14,21,40,10,,
+n-tv.de,86,de_media_dnr,Reuters Institute DNR 2025 Germany brand: n-tv,4,0,0,42,40,de_media_other,n-tv (RTL group news channel)
+wikipedia.org,81,other,,11,0,15,25,30,reference,Wikipedia
+handelsblatt.com,75,de_media_accountable,Presserat-accountable media: Handelsblatt,1,0,0,74,0,,
+zeit.de,73,de_media_dnr,Reuters Institute DNR 2025 Germany brand: Die Zeit,15,2,3,53,0,,
+berliner-zeitung.de,73,other,,7,0,0,66,0,de_media_other,Berliner Zeitung
+spiegel.de,72,de_media_dnr,Reuters Institute DNR 2025 Germany brand: Der Spiegel,0,0,3,69,0,,
+fr.de,65,other,,3,0,0,52,10,de_media_other,Frankfurter Rundschau
+auswaertiges-amt.de,65,de_authority,public authority: Auswärtiges Amt (Federal Foreign Office),4,27,13,21,0,,
+focus.de,64,de_media_dnr,Reuters Institute DNR 2025 Germany brand: Focus,0,0,3,51,10,,
+welt.de,63,de_media_accountable,Presserat-accountable media: Die Welt,8,17,0,18,20,,
+afp.com,63,other,,9,1,0,40,13,factcheck,AFP Faktencheck
+swp-berlin.org,62,other,,1,3,0,55,3,academic,Stiftung Wissenschaft und Politik (German Institute for International and Security Affairs)
+web.de,55,de_media_dnr,Reuters Institute DNR 2025 Germany brand: web.de,4,0,31,20,0,de_media_other,"web.de news portal (United Internet, dpa-based)"
+journal21.ch,47,other,,0,0,40,0,7,intl_media,"Journal21, Swiss online journal (former Swiss editors)"
+t-online.de,46,de_media_dnr,Reuters Institute DNR 2025 Germany brand: t-online,1,0,0,15,30,de_media_other,t-online (Ströer news portal)
+br.de,42,de_public_service,public-service broadcaster: Bayerischer Rundfunk (BR),5,0,0,37,0,,
+bundeswahlleiterin.de,42,de_authority,public authority: Bundeswahlleiterin,0,42,0,0,0,,
+tagesspiegel.de,41,other,,5,0,0,36,0,de_media_other,Der Tagesspiegel (Berlin)
+rnd.de,41,other,,1,0,0,40,0,de_media_other,RedaktionsNetzwerk Deutschland (Madsack)
+europa.eu,39,de_authority,public authority: European External Action Service (EEAS),0,20,12,0,7,,
+reuters.com,38,other,,0,18,0,20,0,intl_media,Reuters
+overton-magazin.de,36,other,,5,0,1,10,20,de_altmedia,"Overton Magazin (Telepolis founders' successor; not on watchlist, no documented Kremlin link found)"
+sachsen-anhalt.de,36,de_authority,public authority: Statistisches Landesamt Sachsen-Anhalt (Landeswahlleitung),0,6,0,30,0,,
+wirtschaftsdienst.eu,34,other,,0,0,24,10,0,academic,Wirtschaftsdienst (ZBW economics journal)
+dpa-factchecking.com,33,other,,0,0,0,20,13,factcheck,dpa fact-check (German press agency)
+mimikama.org,33,other,,3,0,0,0,30,factcheck,"Mimikama, Austrian fact-checking association"
+lpb-bw.de,33,other,,1,0,1,24,7,de_public_info,Landeszentrale für politische Bildung Baden-Württemberg
+volksstimme.de,30,de_media_accountable,Presserat-accountable media: Volksstimme,0,0,0,30,0,,
+nzz.ch,30,other,,0,0,0,30,0,intl_media,Neue Zürcher Zeitung
+bundesfinanzministerium.de,30,de_authority,public authority: Bundesministerium der Finanzen (BMF),0,9,0,21,0,,
+watson.ch,29,other,,0,0,4,15,10,intl_media,watson.ch (Swiss news portal)
+euronews.com,28,other,,0,7,0,11,10,intl_media,Euronews
+bundesbank.de,27,de_authority,public authority: Deutsche Bundesbank,0,27,0,0,0,,
+abgeordnetenwatch.de,26,other,,7,0,0,9,10,ngo,abgeordnetenwatch.de (parliamentary transparency NGO)
+tag24.de,25,other,,0,0,0,15,10,de_media_other,TAG24 (Dresden tabloid portal)
+rt.com,25,ru_state,EU Reg. 833/2014 Annex XV (consolidated 2025-07-20): RT - Russia Today,0,0,0,25,0,,
+derwesten.de,23,other,,0,0,0,13,10,de_media_other,DerWesten (Funke)
+investing.com,22,other,,0,7,0,15,0,business,Investing.com
+friedenskooperative.de,21,other,,1,0,10,0,10,ngo,Netzwerk Friedenskooperative (peace movement)
+gadmo.eu,21,other,,2,0,12,0,7,factcheck,"GADMO, German-Austrian EDMO hub"
+gmx.ch,21,other,,0,0,0,21,0,de_media_other,GMX Switzerland news portal
+stern.de,21,de_media_dnr,Reuters Institute DNR 2025 Germany brand: Stern,1,0,0,20,0,,
+csis.org,21,other,,0,21,0,0,0,think_tank,CSIS (Washington)
+exxpress.at,20,other,,0,0,0,10,10,de_altmedia,exxpress (Austrian right-wing portal; not on watchlist)
+tkp.at,20,other,,0,0,0,10,10,de_altmedia,tkp.at (Austrian alternative blog)
+rtl.de,20,de_media_dnr,Reuters Institute DNR 2025 Germany brand: RTL,0,0,0,10,10,,
+jungefreiheit.de,20,other,,0,0,0,10,10,de_altmedia,"Junge Freiheit (right-wing weekly; not on watchlist, no documented Kremlin link)"
+tichyseinblick.de,20,other,,0,0,0,20,0,de_altmedia,Tichys Einblick (right-liberal; not on watchlist)
+nachdenkseiten.de,20,other,,0,0,0,20,0,de_altmedia,NachDenkSeiten - watchlist Tier A by amendment C2 (personnel link to RT DE; Tier B in the frozen list)
+anti-spiegel.ru,20,other,,0,0,0,20,0,ru_flag,"Anti-Spiegel (Thomas Röper, EU-sanctioned) - watchlist Tier A, .ru TLD"
+nd-aktuell.de,20,other,,0,0,0,20,0,de_media_other,"nd (neues deutschland, left daily)"
+rhein-zeitung.de,20,other,,0,0,0,20,0,de_media_other,Rhein-Zeitung
+bafa.de,20,de_authority,public authority: Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA),0,0,0,20,0,,
+euvsdisinfo.eu,18,de_authority,public authority: EUvsDisinfo (EEAS East StratCom Task Force project),2,5,1,0,10,,
+ksta.de,17,other,,7,0,3,0,7,de_media_other,Kölner Stadt-Anzeiger
+facebook.com,16,other,,16,0,0,0,0,social_platform,Facebook
+merkur.de,15,other,,1,0,0,11,3,de_media_other,Münchner Merkur
+telepolis.de,15,other,,5,0,0,10,0,de_media_other,"Telepolis (Heise online magazine, opinion-heavy)"
+rp-online.de,14,other,,4,0,0,10,0,de_media_other,Rheinische Post
+sueddeutsche.de,14,de_media_accountable,Presserat-accountable media: Süddeutsche Zeitung,3,1,0,10,0,,
+nato.int,14,other,,0,14,0,0,0,intl_org,NATO
+blaetter.de,13,other,,1,0,0,5,7,de_media_other,Blätter für deutsche und internationale Politik
+ifo.de,13,other,,0,3,0,0,10,academic,ifo Institute
+makroskop.eu,13,other,,2,0,1,10,0,de_altmedia,Makroskop (heterodox economics magazine)
+reddit.com,13,other,,3,0,0,10,0,social_platform,Reddit
+ndr.de,13,de_public_service,public-service broadcaster: Norddeutscher Rundfunk (NDR),0,1,0,12,0,,
+washingtonpost.com,13,other,,0,13,0,0,0,intl_media,Washington Post
+emma.de,12,other,,2,0,0,0,10,de_media_other,EMMA (feminist magazine)
+bundeswirtschaftsministerium.de,12,de_authority,public authority: Bundesministerium für Wirtschaft und Energie (legacy domain),0,2,0,0,10,,
+politeknik.de,12,other,,2,0,0,10,0,blog,Politeknik (German-Turkish political magazine)
+ihk.de,12,other,,0,0,2,10,0,business,IHK (chambers of commerce)
+statista.com,12,other,,12,0,0,0,0,business,Statista
+suedkurier.de,11,other,,0,1,0,0,10,de_media_other,Südkurier
+schwaebische.de,11,other,,0,0,0,1,10,de_media_other,Schwäbische Zeitung
+infosperber.ch,11,other,,1,0,0,0,10,altmedia_intl,Infosperber (Swiss alternative site)
+moz.de,11,other,,0,0,1,10,0,de_media_other,Märkische Oderzeitung
+kettner-edelmetalle.de,11,other,,0,0,1,10,0,business,"Kettner Edelmetalle (precious-metals dealer blog, Kremlin-friendly framing)"
+deutschland.de,11,de_authority,public authority: Auswärtiges Amt / FAZIT Communication (federal portal),0,0,0,11,0,,
+gesetze-im-internet.de,11,de_authority,"public authority: Bundesministerium der Justiz, Gesetze im Internet",0,11,0,0,0,,
+foreignaffairs.com,11,other,,0,11,0,0,0,intl_media,Foreign Affairs
+swg-mobil.de,10,other,,0,0,0,0,10,business,SWG (company site)
+unser-mitteleuropa.com,10,other,,0,0,0,0,10,de_altmedia,Unser Mitteleuropa (far-right network; no Russia-specific evidence found)
+oval.media,10,other,,0,0,0,0,10,de_altmedia,OVALmedia (conspiracy-adjacent media)
+ausserhalbdesoffiziellenprogramms.de,10,other,,0,0,0,0,10,blog,blog
+gutefrage.net,10,other,,0,0,0,0,10,social_platform,gutefrage.net Q&A
+juedische-allgemeine.de,10,other,,0,0,0,0,10,de_media_other,Jüdische Allgemeine
+nds-fluerat.org,10,other,,0,0,0,0,10,ngo,Flüchtlingsrat Niedersachsen
+evangelisch.de,10,other,,0,0,0,0,10,ngo,evangelisch.de (Protestant church portal)
+nius.de,10,other,,0,0,0,0,10,de_altmedia,NIUS (Reichelt; not on watchlist)
+dasreich.com.tr,10,other,,0,0,0,0,10,aggregator,dasreich.com.tr (Turkish-hosted German content site)
+spektrum-islam.de,10,other,,0,0,0,0,10,blog,spektrum-islam.de
+rabenspiegel.de,10,other,,0,0,0,0,10,blog,Rabenspiegel (blog)
+dbwv.de,10,other,,2,0,8,0,0,ngo,Deutscher BundeswehrVerband
+monde-diplomatique.de,10,other,,0,0,0,10,0,de_media_other,"Le Monde diplomatique, German edition (taz)"
+novinky.cz,10,other,,0,0,0,10,0,intl_media,Novinky.cz (Czech)
+kurier.at,10,other,,0,0,0,10,0,intl_media,Kurier (Austria)
+mopo.de,10,other,,0,0,0,10,0,de_media_other,Hamburger Morgenpost
+france24.com,10,other,,0,0,0,10,0,intl_media,France 24
+kommunistischepartei.de,10,other,,0,0,0,10,0,party_media,Kommunistische Partei (KPD) site
+aufstehen-steinlach-wiesaz.de,10,other,,0,0,0,10,0,blog,local Aufstehen movement group
+jf-archiv.de,10,other,,0,0,0,10,0,de_altmedia,Junge Freiheit archive
+ansage.org,10,other,,0,0,0,10,0,de_altmedia,Ansage! (right-wing blog)
+bundesverfassungsgericht.de,10,de_authority,public authority: Bundesverfassungsgericht (Federal Constitutional Court),0,0,0,10,0,,
+rbb24.de,10,de_public_service,public-service broadcaster: Rundfunk Berlin-Brandenburg (rbb),0,0,0,10,0,,
+bamf.de,10,de_authority,public authority: Bundesamt für Migration und Flüchtlinge (BAMF),0,0,0,10,0,,
+palquest.org,10,other,,0,0,0,10,0,academic,Interactive Encyclopedia of the Palestine Question
+rosalux.de,10,other,,0,0,0,10,0,party_foundation,Rosa-Luxemburg-Stiftung (Die Linke)
+zeithistorische-forschungen.de,10,other,,0,0,0,10,0,academic,Zeithistorische Forschungen (ZZF Potsdam)
+uni-stuttgart.de,10,other,,0,0,0,10,0,academic,University of Stuttgart
+zenith.me,10,other,,0,0,0,10,0,de_media_other,zenith (Middle East magazine)
+shz.de,10,other,,0,0,0,10,0,de_media_other,sh:z (Schleswig-Holstein)
+akweb.de,10,other,,0,0,0,10,0,de_altmedia,analyse & kritik (left monthly)
+netz-trends.de,10,other,,0,0,0,10,0,blog,netz-trends.de (blog)
+alexander-wallasch.de,10,other,,0,0,0,10,0,de_altmedia,Alexander Wallasch (right-wing blog)
+abendblatt.de,10,other,,0,0,0,10,0,de_media_other,Hamburger Abendblatt
+srf.ch,10,other,,0,0,0,10,0,intl_media,"SRF, Swiss public broadcaster"
+express.de,10,other,,0,0,0,10,0,de_media_other,Express (Cologne tabloid)
+deutschlandfunknova.de,10,de_public_service,public-service broadcaster: Deutschlandradio (Deutschlandfunk Nova programme),0,0,0,10,0,,
+das-parlament.de,10,other,,0,0,0,10,0,de_public_info,Das Parlament (Bundestag weekly)
+springerprofessional.de,10,other,,0,0,0,10,0,academic,Springer Professional
+idw-online.de,10,other,,0,0,0,10,0,academic,Informationsdienst Wissenschaft
+friedensgutachten.de,10,other,,0,0,0,10,0,,
+bv-opfer-ns-militaerjustiz.de,10,other,,0,0,0,10,0,,
+ippnw.de,9,other,,4,0,0,5,0,ngo,IPPNW Germany
+hna.de,9,other,,0,0,0,9,0,de_media_other,HNA (Kassel)
+regionalheute.de,9,other,,0,0,0,9,0,de_media_other,regionalHeute.de (Braunschweig)
+faz.net,9,de_media_accountable,Presserat-accountable media: Frankfurter Allgemeine Zeitung,4,0,0,5,0,,
+leadstories.com,8,other,,0,8,0,0,0,factcheck,Lead Stories
+leipzig.de,8,de_authority,public authority: Stadt Leipzig,7,0,1,0,0,,
+antenne.de,7,other,,0,0,0,0,7,de_media_other,Antenne Bayern
+fakten-stammtisch.de,7,other,,0,0,0,0,7,blog,fakten-stammtisch.de (blog)
+weltoffen-bonn.de,7,other,,0,0,0,0,7,ngo,Weltoffen Bonn (local initiative)
+radioeins.com,7,other,,0,0,0,0,7,de_media_other,radioeins (rbb)
+wa.de,7,other,,0,0,0,7,0,de_media_other,Westfälischer Anzeiger
+afdbundestag.de,7,other,,4,0,3,0,0,party_media,AfD parliamentary group
+kielinstitut.de,7,other,,6,1,0,0,0,academic,Kiel Institute
+iiss.org,7,other,,0,7,0,0,0,,
+yahoo.com,6,other,,1,5,0,0,0,,
+aa.com.tr,6,other,,0,1,0,5,0,,
+cfr.org,6,other,,0,6,0,0,0,think_tank,Council on Foreign Relations
+un.org,6,other,,0,6,0,0,0,intl_org,United Nations
+internationalepolitik.de,6,other,,1,0,5,0,0,,
+destatis.de,6,de_authority,public authority: Statistisches Bundesamt (Destatis),1,5,0,0,0,,
+d-nb.info,5,other,,0,0,0,5,0,academic,Deutsche Nationalbibliothek catalogue
+uni-frankfurt.de,5,other,,0,0,0,5,0,academic,Goethe University Frankfurt
+humanistische-union.de,5,other,,0,0,0,5,0,ngo,Humanistische Union
+econstor.eu,5,other,,0,0,0,5,0,academic,EconStor (ZBW)
+jkn.co.kr,5,other,,0,0,0,5,0,aggregator,jkn.co.kr (Korean-hosted aggregator)
+bild.de,5,de_media_dnr,Reuters Institute DNR 2025 Germany brand: Bild,0,0,0,5,0,de_media_other,Bild
+president.gov.ua,5,other,,0,5,0,0,0,foreign_gov,Office of the President of Ukraine
+lawfaremedia.org,5,other,,0,5,0,0,0,think_tank,Lawfare
+imf.org,5,other,,0,5,0,0,0,intl_org,IMF
+instagram.com,5,other,,5,0,0,0,0,social_platform,Instagram
+securityconference.org,5,other,,0,0,0,5,0,,
+ssoar.info,5,other,,0,0,0,5,0,,
+headtopics.com,5,other,,0,0,0,5,0,,
+unionesarda.it,5,other,,0,0,0,5,0,,
+pet.dk,5,other,,0,5,0,0,0,,
+paz.de,5,other,,0,0,5,0,0,de_altmedia,Preußische Allgemeine Zeitung (Landsmannschaft Ostpreußen)
+oz-online.de,5,other,,0,0,0,5,0,,
+bazonline.ch,4,other,,4,0,0,0,0,intl_media,Basler Zeitung (Switzerland)
+theguardian.com,4,other,,0,4,0,0,0,intl_media,The Guardian
+oup.com,4,other,,0,4,0,0,0,,
+foreignpolicy.com,4,other,,0,4,0,0,0,intl_media,Foreign Policy
+carnegieendowment.org,4,other,,0,4,0,0,0,,
+parliament.uk,4,other,,0,4,0,0,0,,
+vorwaerts.de,4,other,,0,0,4,0,0,party_media,vorwärts (SPD party paper)
+chathamhouse.org,3,other,,0,3,0,0,0,,
+diplo.de,3,other,,3,0,0,0,0,,
+epochtimes.de,3,other,,0,0,0,0,3,,
+sn.at,3,other,,0,0,0,0,3,,
+inge-hoeger.de,3,other,,0,0,0,0,3,,
+multipolar-magazin.de,3,other,,0,0,0,0,3,,
+diw.de,3,other,,2,1,0,0,0,academic,DIW Berlin
+bundeshaushalt.de,3,other,,0,3,0,0,0,,
+meduza.io,3,other,,0,3,0,0,0,,
+eurointegration.com.ua,3,other,,0,3,0,0,0,,
+responsiblestatecraft.org,3,other,,0,3,0,0,0,,
+pravda.com.ua,3,other,,0,3,0,0,0,,
+stuttgarter-zeitung.de,3,other,,0,0,3,0,0,,
+compact-online.de,3,other,,0,0,0,0,3,de_altmedia,COMPACT magazine - watchlist Tier A
+leadersnet.de,3,other,,0,0,3,0,0,,
+ffh.de,3,other,,0,0,0,3,0,,
+tz.de,3,other,,0,0,0,3,0,,
+quora.com,2,other,,0,0,2,0,0,,
+radioh.no,2,other,,0,0,0,2,0,,
+gov.uk,2,other,,0,2,0,0,0,,
+gea-waldviertler.at,2,other,,1,0,1,0,0,blog,GEA Waldviertler company blog (Austria)
+sakerhetspolisen.se,2,other,,0,2,0,0,0,,
+germany.info,2,other,,0,2,0,0,0,,
+tandfonline.com,2,other,,0,2,0,0,0,,
+cambridge.org,2,other,,0,2,0,0,0,,
+newkontinent.org,2,other,,0,2,0,0,0,,
+presseportal.de,2,other,,0,2,0,0,0,,
+aklagare.se,2,other,,0,2,0,0,0,,
+ukrinform.net,2,other,,0,2,0,0,0,,
+tagesanzeiger.ch,2,other,,2,0,0,0,0,,
+politische-bildung-brandenburg.de,2,other,,0,0,2,0,0,,
+welttrends.de,2,other,,0,0,2,0,0,academic,WeltTrends (Potsdam foreign-policy journal)
+wahlrecht.de,2,other,,0,0,2,0,0,,
+westfalen-blatt.de,2,other,,0,0,0,2,0,,
+derstandard.de,2,other,,0,0,0,2,0,,
+bote.ch,2,other,,0,0,0,2,0,,
+newstatesman.com,2,other,,0,0,0,2,0,,
+waw.pl,2,other,,0,2,0,0,0,,
+campact.de,1,other,,0,0,1,0,0,,
+hamburg.de,1,de_authority,public authority: Freie und Hansestadt Hamburg,0,1,0,0,0,,
+vodafone.de,1,other,,0,0,0,1,0,,
+iwkoeln.de,1,other,,1,0,0,0,0,academic,Institut der deutschen Wirtschaft
+europaimunterricht.de,1,other,,1,0,0,0,0,,
+rand.org,1,other,,0,1,0,0,0,,
+freitag.de,1,other,,1,0,0,0,0,de_media_other,der Freitag (weekly)
+state.gov,1,other,,0,1,0,0,0,,
+decheckers.be,1,other,,0,1,0,0,0,,
+wbur.org,1,other,,0,1,0,0,0,,
+laiv-mv.de,1,de_authority,public authority: Landesamt für innere Verwaltung Mecklenburg-Vorpommern (Landeswahlleiter M-V),0,1,0,0,0,,
+archive.is,1,other,,0,1,0,0,0,,
+resettlement.de,1,other,,0,1,0,0,0,,
+libmod.de,1,other,,1,0,0,0,0,,
+apnews.com,1,other,,0,1,0,0,0,intl_media,Associated Press
+koerber-stiftung.de,1,other,,0,0,1,0,0,,
+freiheit.org,1,other,,0,0,1,0,0,,
+doi.org,1,other,,0,1,0,0,0,,
+wiley.com,1,other,,0,1,0,0,0,,
+cloppenburg.de,1,other,,0,0,1,0,0,,
+news.de,1,other,,0,1,0,0,0,,
+sipri.org,1,other,,0,1,0,0,0,,
+ltnr.ca,1,other,,0,1,0,0,0,,
+brandenburg.de,1,de_authority,public authority: Land Brandenburg,0,1,0,0,0,,
+thueringen.de,1,de_authority,public authority: Freistaat Thüringen,0,1,0,0,0,,
+tau.ac.il,1,other,,0,1,0,0,0,,
+niedersachsen.de,1,de_authority,public authority: Land Niedersachsen,0,1,0,0,0,,
+peoplesdispatch.org,1,other,,0,0,1,0,0,,
+lemonde.fr,1,other,,0,1,0,0,0,,
+germanhistorydocs.org,1,other,,0,1,0,0,0,,
+kremlin.ru,1,other,,0,1,0,0,0,ru_flag,"kremlin.ru, official site of the Russian president (not on Annex XV; .ru flag)"
+nexuseuropa.eu,1,other,,0,1,0,0,0,,
+springer.com,1,other,,0,1,0,0,0,,
+euvsd.info,1,other,,0,1,0,0,0,,
+interfax.ru,1,other,,0,1,0,0,0,ru_flag,Interfax news agency (.ru flag)
+google.com,1,other,,0,1,0,0,0,,
+sputniknews.africa,1,other,,0,1,0,0,0,,
+globalsecurity.org,1,other,,0,1,0,0,0,,
+rusi.org,1,other,,0,1,0,0,0,,
+glostat.com,1,other,,0,1,0,0,0,,
+krone.at,1,other,,0,0,0,1,0,,
+pnp.de,1,other,,0,0,0,1,0,,
+swr.de,1,de_public_service,public-service broadcaster: Südwestrundfunk (SWR),0,0,0,1,0,,
+augsburger-allgemeine.de,1,other,,0,0,0,1,0,,
+capital.de,1,other,,1,0,0,0,0,de_media_other,"Capital (business magazine, RTL group)"
+thepioneer.de,1,other,,1,0,0,0,0,,
+cbc.ca,1,other,,0,0,1,0,0,,

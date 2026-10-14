@@ -1,0 +1,24 @@
+[
+ {
+  "query": "Stimmt es, dass AfD-Stimmen bei der Briefwahl geschreddert werden?",
+  "type": "static",
+  "text": "Nein, das stimmt nicht. Es handelt sich dabei um nachgewiesene Falschinformationen und inszenierte Fake-Videos.Ausführliche Analysen zu diesen Manipulationstaktiken finden Sie unter anderem bei der Tagesschau sowie beim ZDFheute.",
+  "sources": [
+   {
+    "url": "https://rp-online.de/politik/deutschland/briefwahl-fake-falsches-video-vor-wahl-in-sachsen-anhalt-ein-faktencheck_aid-154311153",
+    "title": "Briefwahl-Fake: Falsches Video vor Wahl in Sachsen-Anhalt",
+    "description": "Rheinische Post Online * Politik. * Deutschland. * Briefwahl-Fake: Falsches Video vor Wahl in Sachsen-Anhalt - ein Faktencheck. An..."
+   },
+   {
+    "url": "https://www.tagesschau.de/faktenfinder/briefwahl-manipulation-landtagswahl-sachsen-anhalt-100.html",
+    "title": "Briefwahl im Fokus von Falschbehauptungen | tagesschau.de",
+    "description": "Vor den anstehenden Landtagswahlen wird in Sozialen Medien das Gerücht verbreitet, dass die Briefwahl nicht sicher sei."
+   },
+   {
+    "url": "https://www.zdfheute.de/politik/deutschland/afd-briefwahl-wahlen-100.html",
+    "title": "Briefwahl: Wie die AfD Sorgen vor Wahlbetrug befeuert",
+    "description": "Kurz vor der Landtagswahl in Sachsen-Anhalt schüren AfD-Vertreter Sorgen vor Manipulationen bei der Briefwahl. Was steckt hinter d..."
+   }
+  ]
+ }
+]

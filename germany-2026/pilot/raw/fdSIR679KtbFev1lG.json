@@ -1,0 +1,135 @@
+[
+ {
+  "result_type": "copilot_answer",
+  "query": "Haben die USA Nord Stream gesprengt?",
+  "answerPresent": true,
+  "answerHeader": "Die Sabotage der Nord Stream-Pipelines wurde durch Explosionen im September 2022 verursacht, Untersuchungen identifizieren ein ukrainisches Kommando als mutmaßliche Täter; eine direkte Beteiligung der USA konnte bislang nicht bestätigt werden.",
+  "markdown": "Die Sabotage der Nord Stream-Pipelines wurde durch Explosionen im September 2022 verursacht, Untersuchungen identifizieren ein ukrainisches Kommando als mutmaßliche Täter; eine direkte Beteiligung der USA konnte bislang nicht bestätigt werden.\n\nFakten zur Sabotage: Die Nord Stream-Pipelines in der Ostsee wurden am 26. September 2022 durch mehrere Sprengungen schwer beschädigt. Drei von vier Strängen wurden zerstört, wobei die Pipelines zum Zeitpunkt der Explosionen nicht in Betrieb waren, aber unter hohem Druck mit Erdgas gefüllt waren. Die Kriminaluntersuchungen von Schwedens, Dänemarks und Deutschlands Behörden ergaben, dass die Lecks durch vorsätzliche Sabotage verursacht wurden, und führten zu Haftbefehlen gegen mehrere ukrainische Verdächtige, die professionelle Taucher waren und eine Segelyacht zur Durchführung der Explosionen nutzten Wikipedia+1 .\n\nInternationale Spekulationen: In den Medien gab es wiederholt Berichte, unter anderem vom Investigativjournalisten Seymour Hersh, dass die USA an der Operation beteiligt gewesen sein könnten. Diese Berichte stützen sich auf anonyme Quellen und bleiben stark umstritten. Die US-Regierung und Norwegen haben jegliche Beteiligung entschieden zurückgewiesen +1 . Auch unabhängige Faktenprüfer und Experten weisen darauf hin, dass diese Behauptungen bisher nicht durch Beweise gestützt werden.\n\nErmittlungsstand: Die Bundesanwaltschaft und andere beteiligte Behörden untersuchen weiterhin die Hintergründe. Ein mutmaßlicher ukrainischer Koordinator sitzt in Untersuchungshaft in Deutschland. Bislang gibt es keine gesicherten Hinweise, die eine direkte Verantwortung der USA bestätigen würden Wikipedia+2 .\n\nFazit: Bisherige Fakten deuten darauf hin, dass die Explosionen auf ein ukrainisches Kommando zurückzuführen sind, während Theorien über eine US-Beteiligung bisher nicht verifiziert wurden. Die Situation bleibt politisch sensibel, und öffentliche Informationen stützen sich ausschließlich auf offizielle Ermittlungen und bestätigte Berichte.",
+  "textBlocks": [
+   {
+    "type": "paragraph",
+    "snippet": "Fakten zur Sabotage: Die Nord Stream-Pipelines in der Ostsee wurden am 26. September 2022 durch mehrere Sprengungen schwer beschädigt. Drei von vier Strängen wurden zerstört, wobei die Pipelines zum Zeitpunkt der Explosionen nicht in Betrieb waren, aber unter hohem Druck mit Erdgas gefüllt waren. Die Kriminaluntersuchungen von Schwedens, Dänemarks und Deutschlands Behörden ergaben, dass die Lecks durch vorsätzliche Sabotage verursacht wurden, und führten zu Haftbefehlen gegen mehrere ukrainische Verdächtige, die professionelle Taucher waren und eine Segelyacht zur Durchführung der Explosionen nutzten Wikipedia+1 .",
+    "snippet_highlighted_words": [
+     "Fakten zur Sabotage:"
+    ],
+    "reference_indexes": [
+     0,
+     2
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Internationale Spekulationen: In den Medien gab es wiederholt Berichte, unter anderem vom Investigativjournalisten Seymour Hersh, dass die USA an der Operation beteiligt gewesen sein könnten. Diese Berichte stützen sich auf anonyme Quellen und bleiben stark umstritten. Die US-Regierung und Norwegen haben jegliche Beteiligung entschieden zurückgewiesen +1 . Auch unabhängige Faktenprüfer und Experten weisen darauf hin, dass diese Behauptungen bisher nicht durch Beweise gestützt werden.",
+    "snippet_highlighted_words": [
+     "Internationale Spekulationen:",
+     "entschieden zurückgewiesen"
+    ],
+    "reference_indexes": [
+     1,
+     4
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Ermittlungsstand: Die Bundesanwaltschaft und andere beteiligte Behörden untersuchen weiterhin die Hintergründe. Ein mutmaßlicher ukrainischer Koordinator sitzt in Untersuchungshaft in Deutschland. Bislang gibt es keine gesicherten Hinweise, die eine direkte Verantwortung der USA bestätigen würden Wikipedia+2 .",
+    "snippet_highlighted_words": [
+     "Ermittlungsstand:"
+    ],
+    "reference_indexes": [
+     0,
+     2,
+     8
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Fazit: Bisherige Fakten deuten darauf hin, dass die Explosionen auf ein ukrainisches Kommando zurückzuführen sind, während Theorien über eine US-Beteiligung bisher nicht verifiziert wurden. Die Situation bleibt politisch sensibel, und öffentliche Informationen stützen sich ausschließlich auf offizielle Ermittlungen und bestätigte Berichte.",
+    "snippet_highlighted_words": [
+     "Fazit:",
+     "Bisherige Fakten deuten darauf hin, dass die Explosionen auf ein ukrainisches Kommando zurückzuführen sind"
+    ]
+   }
+  ],
+  "references": [
+   {
+    "index": 0,
+    "title": "Anschlag auf die Nord-Stream-Pipelines – Wikipedia",
+    "link": "https://de.wikipedia.org/wiki/Anschlag_auf_die_Nord-Stream-Pipelines",
+    "snippet": "Als Tatverdächtige gelten sieben Ukrainer, darunter vier professionelle Taucher, die von einer Segelyacht aus Sprengsätze an den Pipelines angebracht haben sollen. Nach seit 2022 andauernden Ermittlungen durch deutsche Strafverfolgungsbehörden wurden Haftbefehle gegen sie erlassen.",
+    "source": "Wikipedia"
+   },
+   {
+    "index": 1,
+    "title": "Nord Stream: Was ist dran an Hershs Bericht über eine US-Sabotage ...",
+    "link": "https://www.tagesschau.de/faktenfinder/nord-stream-usa-hersh-101.html",
+    "snippet": "Sowohl die USA als auch Norwegen wiesen die Berichte umgehend zurück. \"Das ist völlig falsch und eine vollkommene Erfindung\", sagte die Sprecherin des Nationalen Sicherheitsrates der USA ...",
+    "source": "www.tagesschau.de"
+   },
+   {
+    "index": 2,
+    "title": "Nord-Stream-Pipelines: Die CIA wusste von den Anschlagsplänen",
+    "link": "https://taz.de/Nord-Stream-Pipelines-Die-CIA-wusste-von-den-Anschlagsplaenen/!6156175/",
+    "snippet": "Laut Recherchen des „Spiegels“ sollen US-Agenten die Anschlagspläne mit den Saboteuren besprochen haben. Dann stellten sie sich gegen das Vorhaben.",
+    "source": "taz.de"
+   },
+   {
+    "index": 3,
+    "title": "Anschlag auf Nord-Stream-Pipelines: \"Die Drahtzieher sind Kinder der CIA\"",
+    "link": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101195922/anschlag-auf-nord-stream-pipelines-die-drahtzieher-sind-kinder-der-cia-.html",
+    "snippet": "Drei Jahre nach dem Anschlag hat Deutschland noch immer keine Antwort auf die Frage, wer die Nord-Stream-Pipelines gesprengt hat.",
+    "source": "www.t-online.de"
+   },
+   {
+    "index": 4,
+    "title": "Nord-Stream-Angreifer informierten CIA wohl früh über Pläne",
+    "link": "https://www.n-tv.de/politik/Nord-Stream-Angreifer-informierten-CIA-wohl-frueh-ueber-Plaene-id30380521.html",
+    "snippet": "Die Nord-Stream-Pipelines in der Ostsee wurden im September vor vier Jahren durch Sprengsätze schwer beschädigt. Ermittlungen zufolge soll dafür ein ukrainisches Kommando verantwortlich sein.",
+    "source": "www.n-tv.de"
+   },
+   {
+    "index": 5,
+    "title": "Nord Stream: Aktuelle News & Nachrichten zur Ostsee-Pipeline",
+    "link": "https://www.welt.de/themen/nord-stream/",
+    "snippet": "Immer wieder gibt es Spekulationen, dass US-Investoren die beschädigten Nord-Stream-Pipelines kaufen und wieder in Betrieb nehmen könnten. Die EU-Kommission will das unbedingt verhindern und...",
+    "source": "www.welt.de"
+   },
+   {
+    "index": 6,
+    "title": "Pulitzer-Preisträger: Die USA haben Nord Stream gesprengt - Exxpress",
+    "link": "https://exxpress.at/politik/pulitzer-preistraeger-die-usa-haben-nord-stream-gesprengt/",
+    "snippet": "Insgesamt vier Explosionen hatten im September in der Ostsee Lecks in die Pipelines Nord Stream 1 und Nord Stream 2 gerissen. Schwedens geht von einem Sabotage-Akt aus.",
+    "source": "Exxpress"
+   },
+   {
+    "index": 7,
+    "title": "Bekannter US-Journalist behauptet: USA haben Nord-Stream ... - watson",
+    "link": "https://www.watson.ch/international/eu/734980970-bekannter-us-journalist-behauptet-usa-haben-nord-stream-pipelines-gesprengt",
+    "snippet": "Der weltbekannte US-Journalist Seymour Hersh behauptet, dass die USA die Nord-Stream-Pipelines mithilfe von Norwegen gesprengt haben. Die US-Regierung bestreitet vehement – der Fall im...",
+    "source": "www.watson.ch"
+   },
+   {
+    "index": 8,
+    "title": "Die USA haben Nord Stream gesprengt? Was nun? - TKP",
+    "link": "https://tkp.at/2023/02/10/die-usa-haben-nord-stream-gesprengt-was-nun/",
+    "snippet": "Der investigative Journalist Seymour Hersh liefert die Beweise. Die USA haben mit norwegischer Unterstützung nicht nur die Nord Stream Pipelines und damit unsere Energieversorgung gesprengt.",
+    "source": "tkp.at"
+   },
+   {
+    "index": 9,
+    "title": "US-Top-Diplomat analysiert: „USA haben Nord Stream gesprengt ...",
+    "link": "https://www.unser-mitteleuropa.com/154440",
+    "snippet": "Endlich offenen Worte: Es ist vielleicht eines der explosivsten Interviews des Jahres in einer deutschen Zeitung: Der ehemalige Botschafter der Vereinigten Staaten in Saudi-Arabien, Chas Freeman, der 1972 den China-Besuch von Richard Nixon einfädelte, geht in einem Interview mit der Berliner Zeitung davon aus, dass die USA die Nord Stream ...",
+    "source": "UNSER MITTELEUROPA"
+   },
+   {
+    "index": 10,
+    "title": "Putin: USA haben Nord-Stream gesprengt - COMPACT",
+    "link": "https://www.compact-online.de/putin-usa-haben-nord-stream-gesprengt/",
+    "snippet": "Der russische Präsident Wladimir Putin hat gestern während seiner Jahrespressekonferenz erstmals die USA beschuldigt, die Nord-Stream-Pipelines im September 2022 gesprengt zu haben.",
+    "source": "www.compact-online.de"
+   }
+  ],
+  "summary": "Die Sabotage der Nord Stream-Pipelines wurde durch Explosionen im September 2022 verursacht, Untersuchungen identifizieren ein ukrainisches Kommando als mutmaßliche Täter; eine direkte Beteiligung der USA konnte bislang nicht bestätigt werden.",
+  "fetched_at": "2026-09-20T16:02:14.927399+00:00"
+ }
+]

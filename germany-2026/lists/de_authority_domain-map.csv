@@ -1,0 +1,63 @@
+domain,body,level,basis,source_url
+bund.de,Bundesverwaltung (any federal body using a *.bund.de hostname),rule,"Bundesverwaltungsamt (BVA) states it has administered subdomains of the second-level domain *.bund.de on behalf of the federal administration since April 2013 (example given: www.bva.bund.de)",https://www.bva.bund.de/SharedDocs/Aufgaben/DE/D/domainverwaltung.html
+bundestag.de,Deutscher Bundestag,federal,Own official website of the federal parliament,https://www.bundestag.de/
+bundesrat.de,Bundesrat,federal,Own official website of the federal chamber representing the Länder,https://www.bundesrat.de/
+bundesregierung.de,Bundesregierung / Presse- und Informationsamt der Bundesregierung,federal,Own official website of the federal government,https://www.bundesregierung.de/
+bundeskanzler.de,Bundeskanzler / Bundeskanzleramt,federal,Linked directly from bundesregierung.de's ministries page as the Chancellor's official site,https://www.bundesregierung.de/breg-de/bundesregierung/bundesministerien
+bundespraesident.de,Bundespräsident (Bundespräsidialamt),federal,Own official website of the Federal President's office,https://www.bundespraesident.de/
+bundeswahlleiterin.de,Bundeswahlleiterin,federal,Own official website of the Federal Returning Officer,https://bundeswahlleiterin.de/
+bundesverfassungsgericht.de,Bundesverfassungsgericht (Federal Constitutional Court),federal,Own official website,https://www.bundesverfassungsgericht.de/
+bpb.de,Bundeszentrale für politische Bildung (bpb),federal,Own official website of the Federal Agency for Civic Education,https://www.bpb.de/
+bnd.bund.de,Bundesnachrichtendienst (BND),federal,Own site under the *.bund.de second-level domain administered for federal bodies by the BVA,https://www.bva.bund.de/SharedDocs/Aufgaben/DE/D/domainverwaltung.html | https://www.bnd.bund.de/
+verfassungsschutz.de,Bundesamt für Verfassungsschutz (BfV),federal,Own official website of the Federal Office for the Protection of the Constitution,https://www.verfassungsschutz.de/
+bka.de,Bundeskriminalamt (BKA),federal,Own official website of the Federal Criminal Police Office,https://www.bka.de/
+bsi.bund.de,Bundesamt für Sicherheit in der Informationstechnik (BSI),federal,Own site under the *.bund.de second-level domain administered for federal bodies by the BVA,https://www.bva.bund.de/SharedDocs/Aufgaben/DE/D/domainverwaltung.html | https://www.bsi.bund.de/
+destatis.de,Statistisches Bundesamt (Destatis),federal,Own official website of the Federal Statistical Office,https://www.destatis.de/
+bundesbank.de,Deutsche Bundesbank,federal,Own official website of the federal central bank,https://www.bundesbank.de/
+auswaertiges-amt.de,Auswärtiges Amt (Federal Foreign Office),federal,Own official website,https://www.auswaertiges-amt.de/
+bmi.bund.de,Bundesministerium des Innern (BMI),federal,Own site under the *.bund.de second-level domain administered for federal bodies by the BVA,https://www.bva.bund.de/SharedDocs/Aufgaben/DE/D/domainverwaltung.html | https://bmi.bund.de/
+bundesfinanzministerium.de,Bundesministerium der Finanzen (BMF),federal,Own official website of the Federal Ministry of Finance,https://www.bundesfinanzministerium.de/
+bmwe.de,Bundesministerium für Wirtschaft und Energie (BMWE),federal,"Own official website; the ministry's former domain bmwk.de no longer resolves as of 2026-09-20, current site is bmwe.de",https://www.bmwe.de/
+bmz.de,Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (BMZ),federal,Own official website,https://www.bmz.de/
+bmvg.de,Bundesministerium der Verteidigung (BMVg),federal,Own official website,https://www.bmvg.de/
+bundeswehr.de,Bundeswehr,federal,Own official website of the German armed forces,https://www.bundeswehr.de/
+generalbundesanwalt.de,Generalbundesanwalt beim Bundesgerichtshof,federal,Own official website of the Federal Prosecutor General,https://www.generalbundesanwalt.de/
+bundesgerichtshof.de,Bundesgerichtshof (BGH),federal,Own official website of the Federal Court of Justice,https://www.bundesgerichtshof.de/
+bundesarchiv.de,Bundesarchiv,federal,Own official website of the Federal Archives,https://www.bundesarchiv.de/
+berlin.de,Land Berlin,land,Official Land government portal,https://www.berlin.de/
+bayern.de,Freistaat Bayern,land,Official Land government portal,https://www.bayern.de/
+baden-wuerttemberg.de,Land Baden-Württemberg,land,Official Land government portal,https://www.baden-wuerttemberg.de/
+brandenburg.de,Land Brandenburg,land,Official Land government portal,https://brandenburg.de/
+bremen.de,Freie Hansestadt Bremen,land,"Official Land government portal (site returns HTTP 403 to automated fetches / bot protection, but is the established government domain for Bremen)",https://www.bremen.de/
+hamburg.de,Freie und Hansestadt Hamburg,land,Official Land government portal,https://www.hamburg.de/
+hessen.de,Land Hessen,land,Official Land government portal,https://hessen.de/
+regierung-mv.de,Land Mecklenburg-Vorpommern,land,"Official Land government portal; mecklenburg-vorpommern.de redirects (HTTP 301) here; the task's suggested mv-regierung.de does not resolve",https://www.regierung-mv.de/
+niedersachsen.de,Land Niedersachsen,land,Official Land government portal,https://www.niedersachsen.de/
+land.nrw,Land Nordrhein-Westfalen,land,Official Land government portal,https://www.land.nrw/
+rlp.de,Land Rheinland-Pfalz,land,Official Land government portal,https://www.rlp.de/
+saarland.de,Saarland,land,Official Land government portal,https://www.saarland.de/
+sachsen.de,Freistaat Sachsen,land,Official Land government portal,https://www.sachsen.de/
+sachsen-anhalt.de,Land Sachsen-Anhalt,land,Official Land government portal,https://sachsen-anhalt.de/
+schleswig-holstein.de,Land Schleswig-Holstein,land,Official Land government portal,https://www.schleswig-holstein.de/
+thueringen.de,Freistaat Thüringen,land,Official Land government portal,https://thueringen.de/
+wahlen-berlin.de,Landeswahlleiterin Berlin,land,Own official website of Berlin's state election authority,https://wahlen-berlin.de/
+laiv-mv.de,Landesamt für innere Verwaltung Mecklenburg-Vorpommern (Landeswahlleiter M-V),land,Own official website; the LAiV hosts the Landeswahlleiter function for Mecklenburg-Vorpommern,https://www.laiv-mv.de/
+wahlen.sachsen-anhalt.de,Landeswahlleiter Sachsen-Anhalt,land,Own official website (hosted as a distinct hostname of the Land),https://wahlen.sachsen-anhalt.de/
+statistik.sachsen-anhalt.de,Statistisches Landesamt Sachsen-Anhalt (Landeswahlleitung),land,"Own official website of the state statistical office, which also carries out the Landeswahlleitung",https://statistik.sachsen-anhalt.de/
+parlament-berlin.de,Abgeordnetenhaus von Berlin,land,Own official website of Berlin's state parliament,https://parlament-berlin.de/
+landtag-mv.de,Landtag Mecklenburg-Vorpommern,land,Own official website of the state parliament (confirmed via search-indexed subpages; direct fetch returned a transient HTTP 502 on 2026-09-20),https://www.landtag-mv.de/
+verfassungsschutz-bw.de,Landesamt für Verfassungsschutz Baden-Württemberg,land,Linked from the Bundesamt für Verfassungsschutz's official page listing all 16 Landesbehörden für Verfassungsschutz,https://www.verfassungsschutz.de/DE/verfassungsschutz/verfassungsschutzverbund/landesbehoerden/landesbehoerden_artikel.html
+verfassungsschutz-mv.de,Verfassungsschutz Mecklenburg-Vorpommern,land,Linked from the Bundesamt für Verfassungsschutz's official page listing all 16 Landesbehörden für Verfassungsschutz,https://www.verfassungsschutz.de/DE/verfassungsschutz/verfassungsschutzverbund/landesbehoerden/landesbehoerden_artikel.html
+im.nrw,Ministerium des Innern Nordrhein-Westfalen (incl. Verfassungsschutz NRW),land,Linked from the Bundesamt für Verfassungsschutz's official page listing all 16 Landesbehörden für Verfassungsschutz,https://www.verfassungsschutz.de/DE/verfassungsschutz/verfassungsschutzverbund/landesbehoerden/landesbehoerden_artikel.html
+europa.eu,EU institutions (rule: any hostname under europa.eu is an official EU site),rule,"europa.eu is the shared official web portal domain of the EU institutions; subdomains such as ec.europa.eu/commission.europa.eu, europarl.europa.eu, consilium.europa.eu and eeas.europa.eu are all issued under it",https://european-union.europa.eu/ | https://en.wikipedia.org/wiki/Europa_(web_portal)
+consilium.europa.eu,Council of the European Union,eu,Official subdomain of europa.eu,https://www.consilium.europa.eu/
+ec.europa.eu,European Commission,eu,"Official subdomain of europa.eu (currently redirects to commission.europa.eu, itself under europa.eu)",https://commission.europa.eu/
+europarl.europa.eu,European Parliament,eu,Official subdomain of europa.eu,https://www.europarl.europa.eu/
+eeas.europa.eu,European External Action Service (EEAS),eu,Official subdomain of europa.eu,https://eeas.europa.eu/
+euvsdisinfo.eu,EUvsDisinfo (EEAS East StratCom Task Force project),eu,"Own official website; a distinct .eu domain (not a europa.eu subdomain) run as an EEAS project, per its own About page",https://euvsdisinfo.eu/about/
+bafa.de,Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA),federal,own site Impressum,https://www.bafa.de/DE/Service/Impressum/impressum_node.html
+bamf.de,Bundesamt für Migration und Flüchtlinge (BAMF),federal,own site Impressum,https://www.bamf.de/DE/Service/Impressum/impressum-node.html
+bundeswirtschaftsministerium.de,Bundesministerium für Wirtschaft und Energie (legacy domain),federal,redirect domain of the ministry,https://www.bundeswirtschaftsministerium.de/
+gesetze-im-internet.de,"Bundesministerium der Justiz, Gesetze im Internet",federal,own site Impressum,https://www.gesetze-im-internet.de/impressum.html
+deutschland.de,Auswärtiges Amt / FAZIT Communication (federal portal),federal,own site Impressum,https://www.deutschland.de/de/impressum
+leipzig.de,Stadt Leipzig,municipal,own site Impressum,https://www.leipzig.de/impressum

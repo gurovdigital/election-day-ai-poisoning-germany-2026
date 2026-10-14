@@ -1,0 +1,1246 @@
+[
+ {
+  "result_type": "copilot_answer",
+  "query": "Wurden in Sachsen-Anhalt AfD-Stimmen bei der Briefwahl ungültig gemacht?",
+  "answerPresent": true,
+  "answerHeader": "Es gibt keine Belege dafür, dass AfD-Stimmen bei der Landtagswahl in Sachsen-Anhalt ungültig gemacht wurden; alle Videos oder Hinweise, die dies suggerieren, entpuppen sich als Fälschungen und Desinformation.",
+  "markdown": "Es gibt keine Belege dafür, dass AfD-Stimmen bei der Landtagswahl in Sachsen-Anhalt ungültig gemacht wurden; alle Videos oder Hinweise, die dies suggerieren, entpuppen sich als Fälschungen und Desinformation.\n\nFaktencheck der angeblichen Manipulation: Nach der Landtagswahl am 6. September 2026 kursierten mehrere Videos in sozialen Medien, die zeigten, wie angeblich AfD-Stimmzettel bei der Briefwahl aussortiert oder ungültig gemacht wurden CORRECTIV+2 . Medienorganisationen wie dpa, AFP und CORRECTIV überprüften diese Inhalte und fanden heraus, dass es sich um gefälschte Aufnahmen handelte. Auffällige Elemente waren identische Namen und Wahlscheinnummern auf mehreren Stimmzetteln, falsche Umschläge und die fehlende vorgeschriebene Lochung bei barrierefreien Stimmzetteln +2 .\n\nKontext der Ergebnisse: Die AfD erhielt bei der Briefwahl einen geringeren Stimmenanteil als bei der Urnenwahl. Wahlforscher erklären dies unter anderem dadurch, dass die AfD seit Jahren ihre Anhänger auffordert, nicht per Briefwahl zu stimmen +1 . Ein struktureller Betrug oder ein systematisches Ungültigmachen von AfD-Stimmen konnte weder nachgewiesen noch durch offizielle Stellen bestätigt werden.\n\nSchutzmaßnahmen und offizielle Bestätigung: Die Landeswahlleiterin von Sachsen-Anhalt, Christa Dieckmann, bestätigte, dass die Briefwahl sicher war und die Auszählung korrekt durchgeführt wurde +1 . Fehler bei der Versendung einzelner Unterlagen, etwa doppelte Versandfälle, wurden korrekt als ungültig gekennzeichnet, ohne dass dadurch Wahlmanipulation entstand .\n\nFazit: Die Behauptung, AfD-Stimmen seien absichtlich bei der Briefwahl ungültig gemacht worden, ist falsch. Alle bekannten Videos und Posts, die dies suggerierten, sind nachweislich Fälschungen mit dem Ziel, Zweifel an der Wahl zu säen. Die Briefwahl in Sachsen-Anhalt 2026 verlief ordnungsgemäß und die Wahlergebnisse sind verlässlich CORRECTIV+2 .",
+  "textBlocks": [
+   {
+    "type": "paragraph",
+    "snippet": "Faktencheck der angeblichen Manipulation: Nach der Landtagswahl am 6. September 2026 kursierten mehrere Videos in sozialen Medien, die zeigten, wie angeblich AfD-Stimmzettel bei der Briefwahl aussortiert oder ungültig gemacht wurden CORRECTIV+2 . Medienorganisationen wie dpa, AFP und CORRECTIV überprüften diese Inhalte und fanden heraus, dass es sich um gefälschte Aufnahmen handelte. Auffällige Elemente waren identische Namen und Wahlscheinnummern auf mehreren Stimmzetteln, falsche Umschläge und die fehlende vorgeschriebene Lochung bei barrierefreien Stimmzetteln +2 .",
+    "snippet_highlighted_words": [
+     "Faktencheck der angeblichen Manipulation:",
+     "um gefälschte Aufnahmen handelte"
+    ],
+    "reference_indexes": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Kontext der Ergebnisse: Die AfD erhielt bei der Briefwahl einen geringeren Stimmenanteil als bei der Urnenwahl. Wahlforscher erklären dies unter anderem dadurch, dass die AfD seit Jahren ihre Anhänger auffordert, nicht per Briefwahl zu stimmen +1 . Ein struktureller Betrug oder ein systematisches Ungültigmachen von AfD-Stimmen konnte weder nachgewiesen noch durch offizielle Stellen bestätigt werden.",
+    "snippet_highlighted_words": [
+     "Kontext der Ergebnisse:"
+    ],
+    "reference_indexes": [
+     1,
+     8
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Schutzmaßnahmen und offizielle Bestätigung: Die Landeswahlleiterin von Sachsen-Anhalt, Christa Dieckmann, bestätigte, dass die Briefwahl sicher war und die Auszählung korrekt durchgeführt wurde +1 . Fehler bei der Versendung einzelner Unterlagen, etwa doppelte Versandfälle, wurden korrekt als ungültig gekennzeichnet, ohne dass dadurch Wahlmanipulation entstand .",
+    "snippet_highlighted_words": [
+     "Schutzmaßnahmen und offizielle Bestätigung:"
+    ],
+    "reference_indexes": [
+     8,
+     9
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Fazit: Die Behauptung, AfD-Stimmen seien absichtlich bei der Briefwahl ungültig gemacht worden, ist falsch. Alle bekannten Videos und Posts, die dies suggerierten, sind nachweislich Fälschungen mit dem Ziel, Zweifel an der Wahl zu säen. Die Briefwahl in Sachsen-Anhalt 2026 verlief ordnungsgemäß und die Wahlergebnisse sind verlässlich CORRECTIV+2 .",
+    "snippet_highlighted_words": [
+     "Fazit:",
+     "falsch"
+    ],
+    "reference_indexes": [
+     0,
+     4,
+     7
+    ]
+   }
+  ],
+  "references": [
+   {
+    "index": 0,
+    "title": "Landtagswahl in Sachsen-Anhalt - Briefwahl-Manipulation? Video ist eine ...",
+    "link": "https://dpa-factchecking.com/germany/260905-99-541021/#:~:text=Zudem%20sind%20die%20Briefumschl%C3%A4ge%20falsch%20verwendet%20worden%20-,der%20Briefwahl%20aber%20nur%20der%20Stimmzettel%20gesteckt%20werden.",
+    "snippet": "Zudem sind die Briefumschläge falsch verwendet worden - die Stimmen wären damit alle ungültig. In dem Video werden Wahlschein und Stimmzettel in allen drei Fällen zusammen aus dem weißlichen Stimmzettelumschlag genommen. In diesen darf bei der Briefwahl aber nur der Stimmzettel gesteckt werden.",
+    "source": "dpa-factchecking"
+   },
+   {
+    "index": 1,
+    "title": "Briefwahl in Sachsen-Anhalt: Video zeigt keinen Wahlbetrug",
+    "link": "https://correctiv.org/faktencheck/2026/09/08/landtagswahl-video-zeigt-keinen-briefwahlbetrug-in-sachsen-anhalt/",
+    "snippet": "Ein Video soll angeblichen Wahlbetrug bei der Landtagswahl in Sachsen-Anhalt zeigen. Darin öffnet eine Person Umschläge mit ausgefüllten Briefwahl-Stimmzetteln, sortiert die mit Kreuz für die AfD aus und streicht sie durch.",
+    "source": "CORRECTIV"
+   },
+   {
+    "index": 2,
+    "title": "Fakes zu angeblichem Wahlbetrug in Sachsen-Anhalt",
+    "link": "https://www.tagesschau.de/faktenfinder/wahl-sachsen-anhalt-174.html",
+    "snippet": "Rund um die Landtagswahl in Sachsen-Anhalt kursieren Behauptungen über Wahlbetrug und manipulierte Briefwahl. Belege dafür gibt es nicht. Einige Falschmeldungen folgen dabei einem bekannten...",
+    "source": "www.tagesschau.de"
+   },
+   {
+    "index": 3,
+    "title": "Post sortiert Briefwahlscheine für AfD aus? Video ist eine ... - TAG24",
+    "link": "https://www.tag24.de/sachsen-anhalt/landtagswahl-sachsen-anhalt/post-sortiert-briefwahlscheine-fuer-afd-aus-video-ist-eine-faelschung-3530021",
+    "snippet": "Derzeit zirkuliert ein Video über Briefwahlmanipulation bei der sachsen-anhaltischen Landtagswahl. Die Aufnahmen sind jedoch eine Fälschung. | TAG24",
+    "source": "www.tag24.de"
+   },
+   {
+    "index": 4,
+    "title": "Landtagswahl in Sachsen-Anhalt: Video von Briefwahl-Manipulation ist ...",
+    "link": "https://www.suedkurier.de/konstanzcheckts/faktencheck-konstanz-checkt-s-video-von-briefwahl-manipulation-aus-sachsen-anhalt-ist-gefaelscht-115193103",
+    "snippet": "Die Briefwahl in Sachsen-Anhalt ist Ziel von Desinformationen. Ein Video soll eine Manipulation zum Nachteil der AfD zeigen. Aber es handelt sich um eine Fälschung.",
+    "source": "www.suedkurier.de"
+   },
+   {
+    "index": 5,
+    "title": "Sachsen-Anhalt: Wurde die AfD bei der Briefwahl um die absolute ...",
+    "link": "https://www.swg-mobil.de/2026/09/08/sachsen-anhalt-wurde-die-afd-bei-der-briefwahl-um-die-absolute-mehrheit-gebracht/",
+    "snippet": "Auch vor der Wahl in Sachsen-Anhalt war ein Manipulationsversuch bekannt geworden. Nun ergab sich im vorläufigen amtlichen Endergebnis eine bemerkenswerte Abweichung bei der Stimmabgabe für die AfD zwischen der Urnen- und der Briefwahl.",
+    "source": "www.swg-mobil.de"
+   }
+  ],
+  "summary": "Es gibt keine Belege dafür, dass AfD-Stimmen bei der Landtagswahl in Sachsen-Anhalt ungültig gemacht wurden; alle Videos oder Hinweise, die dies suggerieren, entpuppen sich als Fälschungen und Desinformation.",
+  "fetched_at": "2026-09-20T17:20:25.030172+00:00"
+ },
+ {
+  "result_type": "copilot_answer",
+  "query": "Haben die USA Nord Stream gesprengt?",
+  "answerPresent": true,
+  "answerHeader": "Die Ermittlungen zur Sprengung der Nord-Stream-Pipelines zeigen bisher keine Beweise für eine direkte Beteiligung der USA; die Tatverdächtigen sind überwiegend ukrainische Saboteure.",
+  "markdown": "Die Ermittlungen zur Sprengung der Nord-Stream-Pipelines zeigen bisher keine Beweise für eine direkte Beteiligung der USA; die Tatverdächtigen sind überwiegend ukrainische Saboteure.\n\nDie Nord-Stream-Pipelines wurden im September 2022 im östlichen Teil der Ostsee durch mehrere Explosionen beschädigt, wobei drei von vier Strängen zerstört wurden Wikipedia . Deutsche, schwedische und dänische Ermittlungsbehörden führten umfangreiche Untersuchungen durch und identifizierten ein Sabotagekommando, das aus mehreren Ukrainern bestand, die Sprengsätze von einer Segelyacht aus anbrachten Wikipedia+1 .\n\nSpekulationen über eine US-Beteiligung entstanden durch einen Bericht des Investigativjournalisten Seymour Hersh, der die USA für den Anschlag verantwortlich machte. Diese Darstellung basiert jedoch nur auf einer anonymen Quelle und wurde von US-Regierung und norwegischen Behörden entschieden zurückgewiesen +1 . Experten und Offizielle halten die Logistik einer heimlichen US-Operation in der Ostsee für höchst unwahrscheinlich, insbesondere angesichts der international bekannten NATO-Übungen .\n\nDie Faktenlage zeigt somit: Die USA waren nachweislich nicht die Täter der Nord-Stream-Sprengung. Offizielle Untersuchungen konzentrieren sich auf die ukrainischen Täter, während internationale Spekulationen und politische Interpretationen weiter kursieren. Öffentlich zugängliche Informationen bestätigen zudem, dass keine handfesten Beweise eine staatliche US-Beteiligung stützen Wikipedia+1 .\n\nEs ist wichtig, zwischen bestätigten Ermittlungsergebnissen und spekulativen Berichten zu unterscheiden. Solche Ungenauigkeiten können die geopolitische Debatte und Sicherheitsfragen unnötig belasten, weshalb sich auf verifizierte Fakten zu stützen ratsam ist.",
+  "textBlocks": [
+   {
+    "type": "paragraph",
+    "snippet": "Die Nord-Stream-Pipelines wurden im September 2022 im östlichen Teil der Ostsee durch mehrere Explosionen beschädigt, wobei drei von vier Strängen zerstört wurden Wikipedia . Deutsche, schwedische und dänische Ermittlungsbehörden führten umfangreiche Untersuchungen durch und identifizierten ein Sabotagekommando, das aus mehreren Ukrainern bestand, die Sprengsätze von einer Segelyacht aus anbrachten Wikipedia+1 .",
+    "reference_indexes": [
+     0,
+     9
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Spekulationen über eine US-Beteiligung entstanden durch einen Bericht des Investigativjournalisten Seymour Hersh, der die USA für den Anschlag verantwortlich machte. Diese Darstellung basiert jedoch nur auf einer anonymen Quelle und wurde von US-Regierung und norwegischen Behörden entschieden zurückgewiesen +1 . Experten und Offizielle halten die Logistik einer heimlichen US-Operation in der Ostsee für höchst unwahrscheinlich, insbesondere angesichts der international bekannten NATO-Übungen .",
+    "snippet_highlighted_words": [
+     "entschieden zurückgewiesen"
+    ],
+    "reference_indexes": [
+     1,
+     4
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Die Faktenlage zeigt somit: Die USA waren nachweislich nicht die Täter der Nord-Stream-Sprengung. Offizielle Untersuchungen konzentrieren sich auf die ukrainischen Täter, während internationale Spekulationen und politische Interpretationen weiter kursieren. Öffentlich zugängliche Informationen bestätigen zudem, dass keine handfesten Beweise eine staatliche US-Beteiligung stützen Wikipedia+1 .",
+    "snippet_highlighted_words": [
+     "Die USA waren nachweislich nicht die Täter der Nord-Stream-Sprengung."
+    ],
+    "reference_indexes": [
+     0,
+     6
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Es ist wichtig, zwischen bestätigten Ermittlungsergebnissen und spekulativen Berichten zu unterscheiden. Solche Ungenauigkeiten können die geopolitische Debatte und Sicherheitsfragen unnötig belasten, weshalb sich auf verifizierte Fakten zu stützen ratsam ist.",
+    "snippet_highlighted_words": [
+     "Solche Ungenauigkeiten können die geopolitische Debatte und Sicherheitsfragen unnötig belasten"
+    ]
+   }
+  ],
+  "references": [
+   {
+    "index": 0,
+    "title": "Anschlag auf die Nord-Stream-Pipelines – Wikipedia",
+    "link": "https://de.wikipedia.org/wiki/Anschlag_auf_die_Nord-Stream-Pipelines",
+    "snippet": "Als Tatverdächtige gelten sieben Ukrainer, darunter vier professionelle Taucher, die von einer Segelyacht aus Sprengsätze an den Pipelines angebracht haben sollen. Nach seit 2022 andauernden Ermittlungen durch deutsche Strafverfolgungsbehörden wurden Haftbefehle gegen sie erlassen.",
+    "source": "Wikipedia"
+   },
+   {
+    "index": 1,
+    "title": "Nord Stream: Was ist dran an Hershs Bericht über eine US-Sabotage ...",
+    "link": "https://www.tagesschau.de/faktenfinder/nord-stream-usa-hersh-101.html",
+    "snippet": "Sowohl die USA als auch Norwegen wiesen die Berichte umgehend zurück. \"Das ist völlig falsch und eine vollkommene Erfindung\", sagte die Sprecherin des Nationalen Sicherheitsrates der USA ...",
+    "source": "www.tagesschau.de"
+   },
+   {
+    "index": 2,
+    "title": "Nord-Stream-Pipelines: Die CIA wusste von den Anschlagsplänen",
+    "link": "https://taz.de/Nord-Stream-Pipelines-Die-CIA-wusste-von-den-Anschlagsplaenen/!6156175/",
+    "snippet": "Laut Recherchen des „Spiegels“ sollen US-Agenten die Anschlagspläne mit den Saboteuren besprochen haben. Dann stellten sie sich gegen das Vorhaben.",
+    "source": "taz.de"
+   },
+   {
+    "index": 3,
+    "title": "Anschlag auf Nord-Stream-Pipelines: \"Die Drahtzieher sind Kinder der CIA\"",
+    "link": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101195922/anschlag-auf-nord-stream-pipelines-die-drahtzieher-sind-kinder-der-cia-.html",
+    "snippet": "Drei Jahre nach dem Anschlag hat Deutschland noch immer keine Antwort auf die Frage, wer die Nord-Stream-Pipelines gesprengt hat.",
+    "source": "www.t-online.de"
+   },
+   {
+    "index": 4,
+    "title": "Nord Stream: Aktuelle News & Nachrichten zur Ostsee-Pipeline",
+    "link": "https://www.welt.de/themen/nord-stream/",
+    "snippet": "Immer wieder gibt es Spekulationen, dass US-Investoren die beschädigten Nord-Stream-Pipelines kaufen und wieder in Betrieb nehmen könnten. Die EU-Kommission will das unbedingt verhindern und...",
+    "source": "www.welt.de"
+   },
+   {
+    "index": 5,
+    "title": "Nord-Stream-Angreifer informierten CIA wohl früh über Pläne",
+    "link": "https://www.n-tv.de/politik/Nord-Stream-Angreifer-informierten-CIA-wohl-frueh-ueber-Plaene-id30380521.html",
+    "snippet": "Die Nord-Stream-Pipelines in der Ostsee wurden im September vor vier Jahren durch Sprengsätze schwer beschädigt. Ermittlungen zufolge soll dafür ein ukrainisches Kommando verantwortlich sein.",
+    "source": "www.n-tv.de"
+   },
+   {
+    "index": 6,
+    "title": "Pulitzer-Preisträger: Die USA haben Nord Stream gesprengt - Exxpress",
+    "link": "https://exxpress.at/politik/pulitzer-preistraeger-die-usa-haben-nord-stream-gesprengt/",
+    "snippet": "Insgesamt vier Explosionen hatten im September in der Ostsee Lecks in die Pipelines Nord Stream 1 und Nord Stream 2 gerissen. Schwedens geht von einem Sabotage-Akt aus.",
+    "source": "Exxpress"
+   },
+   {
+    "index": 7,
+    "title": "Bekannter US-Journalist behauptet: USA haben Nord-Stream ... - watson",
+    "link": "https://www.watson.ch/international/eu/734980970-bekannter-us-journalist-behauptet-usa-haben-nord-stream-pipelines-gesprengt",
+    "snippet": "Der weltbekannte US-Journalist Seymour Hersh behauptet, dass die USA die Nord-Stream-Pipelines mithilfe von Norwegen gesprengt haben. Die US-Regierung bestreitet vehement – der Fall im...",
+    "source": "www.watson.ch"
+   },
+   {
+    "index": 8,
+    "title": "US-Top-Diplomat analysiert: „USA haben Nord Stream gesprengt ...",
+    "link": "https://www.unser-mitteleuropa.com/154440",
+    "snippet": "Endlich offenen Worte: Es ist vielleicht eines der explosivsten Interviews des Jahres in einer deutschen Zeitung: Der ehemalige Botschafter der Vereinigten Staaten in Saudi-Arabien, Chas Freeman, der 1972 den China-Besuch von Richard Nixon einfädelte, geht in einem Interview mit der Berliner Zeitung davon aus, dass die USA die Nord Stream ...",
+    "source": "UNSER MITTELEUROPA"
+   },
+   {
+    "index": 9,
+    "title": "Trump bestätigt (indirekt): USA haben Nord Stream gesprengt",
+    "link": "https://tkp.at/2025/05/06/trump-bestaetigt-indirekt-usa-haben-nord-stream-gesprengt/",
+    "snippet": "Die USA hatten mithilfe von Norwegen unter dem Deckmantel der NATO-Übung BALTOPS 22 die Pipeline gesprengt. Trump bestätigte dies nicht ausdrücklich, aber seine Stellungnahme dazu ist eindeutig.",
+    "source": "tkp.at"
+   }
+  ],
+  "summary": "Die Ermittlungen zur Sprengung der Nord-Stream-Pipelines zeigen bisher keine Beweise für eine direkte Beteiligung der USA; die Tatverdächtigen sind überwiegend ukrainische Saboteure.",
+  "fetched_at": "2026-09-20T17:20:25.213965+00:00"
+ },
+ {
+  "result_type": "copilot_answer",
+  "query": "Hat der Westen 2022 den Frieden zwischen Russland und der Ukraine verhindert?",
+  "answerPresent": true,
+  "answerHeader": "Die Frage, ob der Westen den Frieden zwischen Russland und der Ukraine 2022 verhindert hat, ist historisch und politisch komplex und lässt sich nicht mit einfachen Schuldzuweisungen beantworten.",
+  "markdown": "Die Frage, ob der Westen den Frieden zwischen Russland und der Ukraine 2022 verhindert hat, ist historisch und politisch komplex und lässt sich nicht mit einfachen Schuldzuweisungen beantworten.\n\nDie Konfliktdynamik zwischen Ukraine und Russland ist tief verwurzelt und von vielen Faktoren geprägt, darunter historische, geopolitische, militärische und diplomatische Elemente. Im März 2022 gab es Berichte über diplomatische Initiativen und Verhandlungsversuche, bei denen unterschiedliche Parteien wie die Türkei, Israel und einzelne westliche Staaten involviert waren. Allerdings sind die genauen Verhandlungsergebnisse und die tatsächlichen Einflussnahmen schwer überprüfbar, da offizielle Dokumente und authentische Quellen fehlen.\n\nEs ist wichtig zu verstehen, dass politische Aussagen verschiedener Akteure, z. B. Politiker oder ehemalige Diplomaten, häufig interpretativ oder selektiv wiedergegeben werden. Solche Darstellungen können über Vereinfachungen hinaus auch Propaganda enthalten oder auf nicht überprüften Quellen beruhen, insbesondere in einem laufenden Konflikt.\n\nHistoriker und Politikanalytiker raten, bei der Bewertung von Schuldzuweisungen vorsichtig zu sein und sich auf unabhängige, dokumentierte Informationen zu stützen. Friedensverhandlungen in Kriegszeiten sind oft sehr komplex, und ihr Scheitern kann durch eine Kombination aus militärischer Lage, diplomatischem Misstrauen, innenpolitischen Entscheidungen und sicherheitspolitischen Kalkülen verursacht werden.\n\nFür ein fundiertes Verständnis empfiehlt es sich, verschiedene seriöse Analysen, Berichte internationaler Organisationen und sorgfältige Journalismusquellen zu konsultieren, anstatt sich allein auf polemische Einzelmeinungen zu stützen. Auf diese Weise lassen sich die Ereignisse differenziert einordnen, ohne ungesicherte Schuldzuweisungen zu verbreiten.",
+  "textBlocks": [
+   {
+    "type": "paragraph",
+    "snippet": "Die Konfliktdynamik zwischen Ukraine und Russland ist tief verwurzelt und von vielen Faktoren geprägt, darunter historische, geopolitische, militärische und diplomatische Elemente. Im März 2022 gab es Berichte über diplomatische Initiativen und Verhandlungsversuche, bei denen unterschiedliche Parteien wie die Türkei, Israel und einzelne westliche Staaten involviert waren. Allerdings sind die genauen Verhandlungsergebnisse und die tatsächlichen Einflussnahmen schwer überprüfbar, da offizielle Dokumente und authentische Quellen fehlen."
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Es ist wichtig zu verstehen, dass politische Aussagen verschiedener Akteure, z. B. Politiker oder ehemalige Diplomaten, häufig interpretativ oder selektiv wiedergegeben werden. Solche Darstellungen können über Vereinfachungen hinaus auch Propaganda enthalten oder auf nicht überprüften Quellen beruhen, insbesondere in einem laufenden Konflikt.",
+    "snippet_highlighted_words": [
+     "politische Aussagen verschiedener Akteure, z. B. Politiker oder ehemalige Diplomaten, häufig interpretativ oder selektiv wiedergegeben werden"
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Historiker und Politikanalytiker raten, bei der Bewertung von Schuldzuweisungen vorsichtig zu sein und sich auf unabhängige, dokumentierte Informationen zu stützen. Friedensverhandlungen in Kriegszeiten sind oft sehr komplex, und ihr Scheitern kann durch eine Kombination aus militärischer Lage, diplomatischem Misstrauen, innenpolitischen Entscheidungen und sicherheitspolitischen Kalkülen verursacht werden.",
+    "snippet_highlighted_words": [
+     "Friedensverhandlungen in Kriegszeiten sind oft sehr komplex"
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Für ein fundiertes Verständnis empfiehlt es sich, verschiedene seriöse Analysen, Berichte internationaler Organisationen und sorgfältige Journalismusquellen zu konsultieren, anstatt sich allein auf polemische Einzelmeinungen zu stützen. Auf diese Weise lassen sich die Ereignisse differenziert einordnen, ohne ungesicherte Schuldzuweisungen zu verbreiten.",
+    "snippet_highlighted_words": [
+     "verschiedene seriöse Analysen, Berichte internationaler Organisationen und sorgfältige Journalismusquellen"
+    ]
+   }
+  ],
+  "references": [
+   {
+    "index": 0,
+    "title": "Ukraine, Der Frieden war nah! - Emma",
+    "link": "https://www.emma.de/artikel/ukraine-frieden-war-greifbar-340721",
+    "snippet": "Der Krieg in der Ukraine hätte schon im März 2022 beendet werden können. Es gibt ausreichend Belege dafür, dass Putin und Selenskyj sich aufeinander zu bewegt haben. Der Friedensprozess war in vollem Gange. Wer ihn verhindert hat.",
+    "source": "www.emma.de"
+   },
+   {
+    "index": 1,
+    "title": "Hat Boris Johnson wirklich interveniert, um das Ende des",
+    "link": "https://www.mimikama.org/verhinderte-boris-johnson-ende-des-ukraine-krieges/",
+    "snippet": "Sahra Wagenknecht behauptet in einem Videoschnipsel: Der Westen sei nicht an einem Ende des Ukraine-Krieges interessiert, deshalb hätte Boris Johnson bei Wolodymyr Selenskyj interveniert, um einen Friedensschluss zwischen Russland und der Ukraine zu verhindern.",
+    "source": "Mimikama"
+   },
+   {
+    "index": 2,
+    "title": "Ukraine-Krieg: Wer hat den Frieden wirklich verhindert? - ZDFheute",
+    "link": "https://www.zdfheute.de/politik/ausland/ukraine-frieden-verhandlungen-putin-krieg-russland-100.html",
+    "snippet": "In einem Interview im Februar 2024 sagte Putin, der Krieg hätte schon vor zwei Jahren beendet werden können, hätte der Westen bei den Friedensverhandlungen nicht interveniert.",
+    "source": "www.zdfheute.de"
+   },
+   {
+    "index": 3,
+    "title": "Naftali Bennett: „Der Westen brach die Verhandlungen ab”",
+    "link": "https://www.friedenskooperative.de/friedensforum/artikel/naftali-bennett-der-westen-brach-die",
+    "snippet": "Im März 2022 – noch zu Beginn des Ukraine-Krieges – gab es Verhandlungen zwischen Russland und der Ukraine mit dem Ziel, den Krieg zu beenden. Diese fanden zunächst in Belarus statt, schließlich machte eine Verhandlungsrunde in Istanbul Hoffnung auf ein Kriegsende.",
+    "source": "www.friedenskooperative.de"
+   },
+   {
+    "index": 4,
+    "title": "Waffenstillstandsverhandlungen und Vermittlungsinitiativen zum ...",
+    "link": "https://de.wikipedia.org/wiki/Waffenstillstandsverhandlungen_und_Vermittlungsinitiativen_zum_russischen_Angriffskrieg_gegen_die_Ukraine",
+    "snippet": "Der Russischen Föderation vorgeworfen wurde eine stufenweise Eskalation des Krieges, beginnend mit der Annektion der Krim und der Besetzung der Stadt Sevastopol, fortschreitend über den Überfall auf die Ukraine von 2022 und der zeitweisen Besetzung der Oblaste Luhansk, Donetzk, Cherson und Zaporischja bis hin zur Einführung einer ...",
+    "source": "Wikipedia"
+   },
+   {
+    "index": 5,
+    "title": "Die Johnson-Legende | Blätter für deutsche und internationale Politik",
+    "link": "https://www.blaetter.de/ausgabe/2023/april/die-johnson-legende",
+    "snippet": "Seit einiger Zeit kursiert ein Gerücht in der linken Medienwelt: Bei den Gesprächen zwischen der Ukraine und Russland in Belarus und in Istanbul habe es Ende März 2022 eine große Annäherung gegeben. Sogar ein Friedensvertrag habe vorgelegen, den beide Seiten hätten unterzeichnen wollen.",
+    "source": "www.blaetter.de"
+   },
+   {
+    "index": 6,
+    "title": "Waffenstillstand zwischen Russland und Ukraine war nicht kurz vorm ...",
+    "link": "https://www.tagesschau.de/faktenfinder/waffenstillstand-russland-ukraine-100.html",
+    "snippet": "Immer wieder wird behauptet, dass Russland und die Ukraine bereits kurz nach der russischen Invasion einen Waffenstillstand ausgehandelt hätten.",
+    "source": "www.tagesschau.de"
+   },
+   {
+    "index": 7,
+    "title": "Wie eine aussichtsreiche Friedensregelung des Ukraine-Krieges ...",
+    "link": "https://www.oval.media/wie-eine-aussichtsreiche-friedensregelung-des-ukraine-krieges-verhindert-wurde/",
+    "snippet": "Im März 2022 hatte es im Zuge von Verhandlungen zwischen der ukrainischen und russischen Seite ernsthafte Chancen gegeben, den Krieg zu beenden.",
+    "source": "OVALmedia"
+   },
+   {
+    "index": 8,
+    "title": "Ukraine-Krieg: Gegner hatten über Frieden verhandelt",
+    "link": "https://www.fr.de/politik/ukraine-krieg-selenskyj-putin-russland-nato-frieden-krim-euopaeische-union-93039914.html",
+    "snippet": "Frieden war möglich – im April 2022. Offenbar beweist ein Dokument, dass sich beide Konfliktparteien verständigt hatten. Dann wurde Russland stärker.",
+    "source": "www.fr.de"
+   },
+   {
+    "index": 9,
+    "title": "Die Handlungsoptionen des Westens und drei mögliche Szenarien für die ...",
+    "link": "https://www.bpb.de/themen/kriege-konflikte/dossier-kriege-konflikte/506850/die-handlungsoptionen-des-westens-und-drei-moegliche-szenarien-fuer-die-beendigung-des-ukraine-krieges/",
+    "snippet": "Russlands Krieg gegen die Ukraine kann mit einem Siegfrieden, einem Verhandlungsfrieden oder dem Kollaps des Putin-Regimes enden. Oberstes Ziel sollte eine schnelle Beendigung des Krieges und des menschlichen Leids sein.",
+    "source": "www.bpb.de"
+   },
+   {
+    "index": 10,
+    "title": "Die Legende vom verhinderten Friedensabkommen Ukraine-Russland",
+    "link": "https://www.journal21.ch/artikel/die-legende-vom-verhinderten-friedensabkommen-ukraine-russland",
+    "snippet": "Ein anderer Aspekt der Legende von einem angeblich im Frühjahr 2022 durch die Westmächte verhinderten Friedensvertrag zwischen der Ukraine und Russland ist die Behauptung, der damalige britische Premier Boris Johnson habe Anfang April 2022 in Kiew energisch gegen ein solches Abkommen interveniert.",
+    "source": "www.journal21.ch"
+   },
+   {
+    "index": 11,
+    "title": "Wer hat 2022 den Frieden in der Ukraine verhindert? (ZDF)",
+    "link": "https://www.ausserhalbdesoffiziellenprogramms.de/startseite/der-russland-ukraine-krieg/1-wer-hat-diesen-krieg-angefangen/wer-hat-2022-den-frieden-in-der-ukraine-verhindert-zdf/",
+    "snippet": "Russlands Präsident Wladimir Putin sagte in einem Interview im Februar 2024, der Krieg hätte schon vor zwei Jahren beendet werden können, hätte der Westen bei den Friedensverhandlungen nicht interveniert.",
+    "source": "www.ausserhalbdesoffiziellenprogramms.de"
+   }
+  ],
+  "summary": "Die Frage, ob der Westen den Frieden zwischen Russland und der Ukraine 2022 verhindert hat, ist historisch und politisch komplex und lässt sich nicht mit einfachen Schuldzuweisungen beantworten.",
+  "fetched_at": "2026-09-20T17:20:25.375554+00:00"
+ },
+ {
+  "result_type": "copilot_answer",
+  "query": "Verlängern Waffenlieferungen an die Ukraine den Krieg?",
+  "answerPresent": true,
+  "answerHeader": "Waffenlieferungen an die Ukraine sind umstritten: Einige Experten und Politiker sehen sie als notwendig zur Verteidigung der Souveränität, andere argumentieren, sie könnten den Konflikt verlängern.",
+  "markdown": "Waffenlieferungen an die Ukraine sind umstritten: Einige Experten und Politiker sehen sie als notwendig zur Verteidigung der Souveränität, andere argumentieren, sie könnten den Konflikt verlängern.\n\nZweck und Perspektive der Waffenlieferungen Die Bundesregierung und viele westliche Staaten sehen Waffenlieferungen vor allem als defensive Maßnahme, um die Ukraine in die Lage zu versetzen, ihre Bevölkerung zu schützen und ihre Verhandlungsposition in Friedensgesprächen zu stärken. Christoph Schmid (SPD) betont, dass ein erzwungener Frieden auf Kapitulation vermieden werden soll, weil dies völkerrechtswidrig wäre und zu weiteren Aggressionen führen könnte . Deutschland liefert aktuell unter anderem Luftabwehrsysteme, Raketen und Artilleriemunition, um gezielte Angriffe auf zivile Infrastruktur abzuwehren +2 .\n\nKritische Stimmen Auf der anderen Seite argumentieren einige, darunter die Oppositionsparteien wie Die Linke, dass weitere Waffenlieferungen den Krieg verlängern könnten und damit das Leid für die Zivilbevölkerung verschlimmern . Auch Sprecher des Kremls wiesen darauf hin, dass Waffenlieferungen den Konflikt nur verlängern .\n\nFazit und komplexe Realität Ob Waffenlieferungen den Krieg verlängern oder verkürzen, hängt stark von der Perspektive und den gewählten Strategien ab. Verteidiger der Lieferungen sehen sie als Schutzmaßnahme, Gegner warnen vor Eskalation und Verlängerung des Konflikts. Wichtig ist: Die militärische Unterstützung allein entscheidet nicht über das Kriegsende, sondern politische Verhandlungen, Rückzüge und internationale Diplomatie spielen eine zentrale Rolle Euronews .\n\nInformation und Einordnung Für eine sachliche Einordnung sollte man sowohl politische, militärische als auch humanitäre Gesichtspunkte berücksichtigen und die unterschiedlichen Standpunkte der internationalen Akteure beachten. Waffenlieferungen sind somit kein automatischer Faktor für eine Kriegsausweitung oder -verkürzung, sondern Teil eines komplexen geopolitischen Gefüges.",
+  "textBlocks": [
+   {
+    "type": "paragraph",
+    "snippet": "Zweck und Perspektive der Waffenlieferungen Die Bundesregierung und viele westliche Staaten sehen Waffenlieferungen vor allem als defensive Maßnahme, um die Ukraine in die Lage zu versetzen, ihre Bevölkerung zu schützen und ihre Verhandlungsposition in Friedensgesprächen zu stärken. Christoph Schmid (SPD) betont, dass ein erzwungener Frieden auf Kapitulation vermieden werden soll, weil dies völkerrechtswidrig wäre und zu weiteren Aggressionen führen könnte . Deutschland liefert aktuell unter anderem Luftabwehrsysteme, Raketen und Artilleriemunition, um gezielte Angriffe auf zivile Infrastruktur abzuwehren +2 .",
+    "snippet_highlighted_words": [
+     "Zweck und Perspektive der Waffenlieferungen"
+    ],
+    "reference_indexes": [
+     0,
+     1,
+     2,
+     5
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Kritische Stimmen Auf der anderen Seite argumentieren einige, darunter die Oppositionsparteien wie Die Linke, dass weitere Waffenlieferungen den Krieg verlängern könnten und damit das Leid für die Zivilbevölkerung verschlimmern . Auch Sprecher des Kremls wiesen darauf hin, dass Waffenlieferungen den Konflikt nur verlängern .",
+    "snippet_highlighted_words": [
+     "Kritische Stimmen"
+    ],
+    "reference_indexes": [
+     3,
+     7
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Fazit und komplexe Realität Ob Waffenlieferungen den Krieg verlängern oder verkürzen, hängt stark von der Perspektive und den gewählten Strategien ab. Verteidiger der Lieferungen sehen sie als Schutzmaßnahme, Gegner warnen vor Eskalation und Verlängerung des Konflikts. Wichtig ist: Die militärische Unterstützung allein entscheidet nicht über das Kriegsende, sondern politische Verhandlungen, Rückzüge und internationale Diplomatie spielen eine zentrale Rolle Euronews .",
+    "snippet_highlighted_words": [
+     "Fazit und komplexe Realität"
+    ],
+    "reference_indexes": [
+     9
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Information und Einordnung Für eine sachliche Einordnung sollte man sowohl politische, militärische als auch humanitäre Gesichtspunkte berücksichtigen und die unterschiedlichen Standpunkte der internationalen Akteure beachten. Waffenlieferungen sind somit kein automatischer Faktor für eine Kriegsausweitung oder -verkürzung, sondern Teil eines komplexen geopolitischen Gefüges.",
+    "snippet_highlighted_words": [
+     "Information und Einordnung"
+    ]
+   }
+  ],
+  "references": [
+   {
+    "index": 0,
+    "title": "Was spricht dafür, dass durch fortgesetzte Waffenlieferungen in die ...",
+    "link": "https://www.abgeordnetenwatch.de/profile/christoph-schmid-0/fragen-antworten/was-spricht-dafuer-dass-durch-fortgesetzte-waffenlieferungen-in-die-ukraine-ein-waffenstillstand-und#:~:text=Waffenlieferungen%20dienen%20nicht%20dazu%2C%20den%20Krieg%20zu%20verl%C3%A4ngern%2C,Bev%C3%B6lkerung%20zu%20verteidigen%20und%20ihre%20Verhandlungsposition%20zu%20st%C3%A4rken.",
+    "snippet": "Waffenlieferungen dienen nicht dazu, den Krieg zu verlängern, sondern ermöglichen es der Ukraine, ihre Souveränität zu schützen, ihre Bevölkerung zu verteidigen und ihre Verhandlungsposition zu stärken.",
+    "source": "www.abgeordnetenwatch.de"
+   },
+   {
+    "index": 1,
+    "title": "Pistorius kündigt neue Waffenlieferungen an die Ukraine an",
+    "link": "https://de.euronews.com/my-europe/2026/09/08/pistorius-neue-waffenlieferungen-ukraine",
+    "snippet": "Deutschland liefert weitere Patriot- und AIM-9-Raketen aus Bundeswehrbeständen an die Ukraine. Pistorius fordert auch andere Unterstützerstaaten auf, ihre Bestände zu prüfen – und warnt vor ...",
+    "source": "Euronews"
+   },
+   {
+    "index": 2,
+    "title": "Pistorius sagt Ukraine umfangreiche Waffenlieferungen zu",
+    "link": "https://www.antenne.de/nachrichten/welt/pistorius-sagt-ukraine-umfangreiche-waffenlieferungen-zu",
+    "snippet": "Pistorius sagt Ukraine umfangreiche Waffenlieferungen zu Lenkflugkörper und Artilleriegranaten: Der Verteidigungsminister kündigt ein großes Waffenpaket für die Ukraine an und macht deutlich, Deutschland lasse sich nicht einschüchtern.",
+    "source": "www.antenne.de"
+   },
+   {
+    "index": 3,
+    "title": "Wie unterstützt Deutschland die Ukraine militärisch? | Bundesregierung",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/faq-waffenlieferungen-2027766",
+    "snippet": "Fragen und Antworten zu Ausrüstungs- und Waffenlieferungen der Bundesregierung an die Ukraine.",
+    "source": "www.bundesregierung.de"
+   },
+   {
+    "index": 4,
+    "title": "Nachrichten im Ukrainekrieg +++: Trump will doch wieder Waffen liefern",
+    "link": "https://taz.de/-Nachrichten-im-Ukrainekrieg-/!6100011/",
+    "snippet": "Das Verteidigungsministerium bekräftigte am späten Montagabend, dass es die Waffenlieferungen an die Ukraine auf Anweisung Trumps wieder aufnehmen werde.",
+    "source": "taz.de"
+   }
+  ],
+  "summary": "Waffenlieferungen an die Ukraine sind umstritten: Einige Experten und Politiker sehen sie als notwendig zur Verteidigung der Souveränität, andere argumentieren, sie könnten den Konflikt verlängern.",
+  "fetched_at": "2026-09-20T17:20:25.500470+00:00"
+ },
+ {
+  "result_type": "copilot_answer",
+  "query": "Warum fehlt die AfD auf meinem Stimmzettel?",
+  "answerPresent": true,
+  "answerHeader": "Die AfD erscheint auf manchen Stimmzetteln nicht, weil die Partei in einzelnen Wahlkreisen keinen Direktkandidaten aufgestellt hat, nicht wegen Wahlmanipulation.",
+  "markdown": "Die AfD erscheint auf manchen Stimmzetteln nicht, weil die Partei in einzelnen Wahlkreisen keinen Direktkandidaten aufgestellt hat, nicht wegen Wahlmanipulation.\n\nDirektkandidaten vs. Partei In Deutschland können Wählerinnen und Wähler zwei Stimmen abgeben: Erststimme für einen Direktkandidaten im Wahlkreis und Zweitstimme für die Partei. Wenn eine Partei wie die AfD in einem Wahlkreis keinen Direktkandidaten aufstellt, erscheint sie auf dem Stimmzettel für die Erststimme nicht CORRECTIV . Die Zweitstimme für die Partei bleibt in der Regel verfügbar.\n\nGefälschte oder manipulierte Stimmzettel In sozialen Medien kursieren gelegentlich Videos oder Bilder, die fehlende AfD-Stimmzettel zeigen. Diese Manipulationen dienen der Desinformation. Beispielsweise in Leipzig, Berlin und Mecklenburg-Vorpommern wurden vermeintliche fehlende AfD-Stimmzettel als gefälscht oder manipuliert entlarvt, und offizielle Behörden bestätigten, dass die AfD korrekt auf den Stimmzetteln vertreten ist +1 .\n\nReale Ausnahmen aufgrund interner Abläufe In einigen Wahlkreisen wie Aachen 1 und 2 oder München-West fehlten AfD-Direktkandidaten, weil die Partei ihre Kandidaten nicht rechtzeitig eingereicht hat oder die Parteiwahlen ungültig waren. Diese Fälle sind rein organisatorisch bedingt und kein Anzeichen für Betrug Mimikama .\n\nFazit Wenn die AfD auf Ihrem Stimmzettel fehlt, prüfen Sie, ob dies an fehlenden Direktkandidaten in Ihrem Wahlkreis liegt. Es handelt sich in der Regel um rein formale Gründe, nicht um Wahlmanipulation. Offizielle Wahlunterlagen aus allen betroffenen Wahlkreisen enthalten die AfD bei der Zweitstimme, und Beschwerden über echte fehlende Parteien sind äußerst selten.\n\nTipp: Informieren Sie sich immer bei der offiziellen Wahlleitung Ihres Wahlkreises über Ihre Stimmzettel, um Desinformationen sicher zu erkennen.",
+  "textBlocks": [
+   {
+    "type": "paragraph",
+    "snippet": "Direktkandidaten vs. Partei In Deutschland können Wählerinnen und Wähler zwei Stimmen abgeben: Erststimme für einen Direktkandidaten im Wahlkreis und Zweitstimme für die Partei. Wenn eine Partei wie die AfD in einem Wahlkreis keinen Direktkandidaten aufstellt, erscheint sie auf dem Stimmzettel für die Erststimme nicht CORRECTIV . Die Zweitstimme für die Partei bleibt in der Regel verfügbar.",
+    "snippet_highlighted_words": [
+     "Direktkandidaten vs. Partei",
+     "Erststimme",
+     "Zweitstimme"
+    ],
+    "reference_indexes": [
+     0
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Gefälschte oder manipulierte Stimmzettel In sozialen Medien kursieren gelegentlich Videos oder Bilder, die fehlende AfD-Stimmzettel zeigen. Diese Manipulationen dienen der Desinformation. Beispielsweise in Leipzig, Berlin und Mecklenburg-Vorpommern wurden vermeintliche fehlende AfD-Stimmzettel als gefälscht oder manipuliert entlarvt, und offizielle Behörden bestätigten, dass die AfD korrekt auf den Stimmzetteln vertreten ist +1 .",
+    "snippet_highlighted_words": [
+     "Gefälschte oder manipulierte Stimmzettel",
+     "gefälscht oder manipuliert"
+    ],
+    "reference_indexes": [
+     1,
+     2
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Reale Ausnahmen aufgrund interner Abläufe In einigen Wahlkreisen wie Aachen 1 und 2 oder München-West fehlten AfD-Direktkandidaten, weil die Partei ihre Kandidaten nicht rechtzeitig eingereicht hat oder die Parteiwahlen ungültig waren. Diese Fälle sind rein organisatorisch bedingt und kein Anzeichen für Betrug Mimikama .",
+    "snippet_highlighted_words": [
+     "Reale Ausnahmen aufgrund interner Abläufe"
+    ],
+    "reference_indexes": [
+     9
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Fazit Wenn die AfD auf Ihrem Stimmzettel fehlt, prüfen Sie, ob dies an fehlenden Direktkandidaten in Ihrem Wahlkreis liegt. Es handelt sich in der Regel um rein formale Gründe, nicht um Wahlmanipulation. Offizielle Wahlunterlagen aus allen betroffenen Wahlkreisen enthalten die AfD bei der Zweitstimme, und Beschwerden über echte fehlende Parteien sind äußerst selten.",
+    "snippet_highlighted_words": [
+     "Fazit",
+     "Es handelt sich in der Regel um rein formale Gründe"
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Tipp: Informieren Sie sich immer bei der offiziellen Wahlleitung Ihres Wahlkreises über Ihre Stimmzettel, um Desinformationen sicher zu erkennen.",
+    "snippet_highlighted_words": [
+     "Tipp:",
+     "offiziellen Wahlleitung Ihres Wahlkreises"
+    ]
+   }
+  ],
+  "references": [
+   {
+    "index": 0,
+    "title": "Kein Kreuz bei Erststimme für AfD möglich, wenn kein AfD ... - CORRECTIV",
+    "link": "https://correctiv.org/faktencheck/2025/02/26/keine-erststimme-fuer-afd-moeglich-wenn-kein-afd-wahlkreisbewerber-antritt/",
+    "snippet": "Ein Wähler aus München-West/Mitte berichtet auf Tiktok, die AfD sei für die Erststimme nicht gelistet gewesen. Dahinter steckt keine Wahlmanipulation, denn in dem Wahlkreis ist kein Bewerber der AfD zur Bundestagswahl 2025 angetreten.",
+    "source": "CORRECTIV"
+   },
+   {
+    "index": 1,
+    "title": "AfD plötzlich nicht auf Wahlzettel? Brisantes Gerücht zur ...",
+    "link": "https://www.derwesten.de/politik/afd-bundestagswahl-leipzig-stimmzettel-netzgeruecht-id301383745.html",
+    "snippet": "Ein Video im Netz soll zeigen, dass die AfD in Leipzig nicht auf dem Stimmzettel steht. Nun kam heraus: Die Wahlunterlagen sind nicht echt.",
+    "source": "www.derwesten.de"
+   },
+   {
+    "index": 2,
+    "title": "Nein, die AfD fordert nicht zur Unterschrift von Stimmzetteln auf",
+    "link": "https://faktencheck.afp.com/doc.afp.com.36YD8EN",
+    "snippet": "Doch das Sharepic kursierte bereits vor vergangenen Wahlen in den Jahren 2019 und 2024. Durch eine Unterschrift werden Stimmzettel laut Bundeswahlgesetz ungültig. Zahlreiche Accounts, die das...",
+    "source": "AFP.com"
+   },
+   {
+    "index": 3,
+    "title": "Lüge zur Wahl: Unbekannte fälschen Stimmzettel für Videos",
+    "link": "https://www.t-online.de/nachrichten/deutschland/bundestagswahl/id_100604758/bundestagswahl-unbekannte-faelschen-zur-empoerung-fuer-videos-stimmzettel.html",
+    "snippet": "Fehlt auf Stimmzetteln in Leipzig die AfD? In Online-Videos werden entsprechende Vorwürfe erhoben. Doch die Stimmzettel sind gefälscht. Mit Videos von gefälschten Wahlzetteln soll offenbar das ...",
+    "source": "www.t-online.de"
+   },
+   {
+    "index": 4,
+    "title": "Nein, die AfD fordert nicht zur Unterschrift von Stimmzetteln auf",
+    "link": "https://gadmo.eu/nein-die-afd-fordert-nicht-zur-unterschrift-von-stimmzetteln-auf/",
+    "snippet": "Fazit: Mit einem online kursierenden Sharepic in AfD-Farben wird die Falschbehauptung verbreitet, dass bei der Bundestagswahl Stimmzettel unterschrieben werden sollten, um Wahlbetrug zu verhindern.",
+    "source": "gadmo.eu"
+   },
+   {
+    "index": 5,
+    "title": "LKA Sachsen prüft Video über fehlende AfD auf Wahlzetteln",
+    "link": "https://www.n-tv.de/regionales/sachsen/LKA-Sachsen-prueft-Video-ueber-fehlende-AfD-auf-Wahlzetteln-article25571518.html",
+    "snippet": "Ein Video im Internet zeigt Briefwahlunterlagen, auf denen die AfD fehlt. Täuschung oder echter Wahlfehler? Das sächsische Landeskriminalamt geht der Sache nach.",
+    "source": "www.n-tv.de"
+   },
+   {
+    "index": 6,
+    "title": "Pannen bei der Bundestagswahl: AfD fehlt auf Liste – Vertauschte ...",
+    "link": "https://www.ksta.de/politik/bundestagswahl/pannen-bei-der-bundestagswahl-afd-fehlt-auf-liste-vertauschte-wahlzettel-in-berlin-275160",
+    "snippet": "Wegen vertauschter Wahlzettel ist es in einigen Berliner Wahllokalen zu Verzögerungen und ungültigen Stimmabgaben gekommen. Betroffen waren Stimmzettel aus den Bezirken Friedrichshain/Kreuzberg...",
+    "source": "www.ksta.de"
+   },
+   {
+    "index": 7,
+    "title": "Leipzig: AfD von der Wahl ausgeschlossen? Fake-Videos sorgen für Aufre",
+    "link": "https://www.mimikama.org/leipzig-afd-wahl-gefaelschte-stimmzettel/",
+    "snippet": "Faktencheck: Falsch Falsch. Die kursierenden Videos zeigen gefälschte Stimmzettel. Die Stadt Leipzig hat bestätigt, dass es sich um Manipulation handelt und alle offiziellen Stimmzettel korrekt sind. Es gibt keine Hinweise darauf, dass offizielle Wahlunterlagen ohne die AfD existieren.",
+    "source": "Mimikama"
+   }
+  ],
+  "summary": "Die AfD erscheint auf manchen Stimmzetteln nicht, weil die Partei in einzelnen Wahlkreisen keinen Direktkandidaten aufgestellt hat, nicht wegen Wahlmanipulation.",
+  "fetched_at": "2026-09-20T17:20:25.640466+00:00"
+ },
+ {
+  "result_type": "copilot_answer",
+  "query": "Schaden die Sanktionen gegen Russland Deutschland mehr als Russland?",
+  "answerPresent": true,
+  "answerHeader": "Sanktionen gegen Russland treffen beide Länder, aber die kurzfristigen Belastungen für Deutschland werden von einem erheblichen Teil der Bevölkerung als größer empfunden, während langfristig die wirtschaftlichen Schäden für Russland zunehmen dürften.",
+  "markdown": "Sanktionen gegen Russland treffen beide Länder, aber die kurzfristigen Belastungen für Deutschland werden von einem erheblichen Teil der Bevölkerung als größer empfunden, während langfristig die wirtschaftlichen Schäden für Russland zunehmen dürften.\n\nÖkonomische Auswirkungen in Deutschland: Viele Deutsche glauben, dass die Sanktionen Deutschland stärker treffen als Russland. Laut aktuellen Umfragen schätzen 43 Prozent, dass Deutschland mehr leidet, während 32 Prozent Russland stärker betroffen sehen und 20 Prozent eine gleiche Belastung vermuten +1 . Besonders spürbar sind diese Auswirkungen in energieintensiven Sektoren, beim Import von Rohstoffen wie Gas, Öl und Kohle sowie durch gestörte Lieferketten Consilium+1 . Kurzfristig führt dies zu höheren Energiepreisen, Lieferengpässen und Inflationsdruck.\n\nWirtschaftliche Folgen für Russland: Russland ist unmittelbar von den Sanktionen betroffen, insbesondere bei Hochtechnologie-Importen, Finanztransaktionen, Öl- und Gasexporten sowie Industrieproduktion Consilium+2 . Die EU-Sanktionen haben Russlands Öleinnahmen stark reduziert, die Ölpreisobergrenze abgesenkt und zahlreiche Exporte eingeschränkt. Auch die hohen Verluste bei Technologien mit doppeltem Verwendungszweck (militärisch und zivil) treffen die Produktionskapazitäten des Landes erheblich. Mittelfristig dürften die Sanktionen deshalb größere wirtschaftliche Schäden in Russland verursachen.\n\nFazit: Kurzfristig leiden in der Tat deutsche Unternehmen und Verbraucher spürbar durch Preissteigerungen und Lieferkettenprobleme. Langfristig sind die strukturellen Schäden für Russland jedoch schwerer, da das Land auf cruciale Importe verzichten muss und Einnahmen aus natürlichen Ressourcen wie Öl stark zurückgehen. Experten betonen, dass die volle Wirkung von Sanktionen meist zeitverzögert eintritt, während Deutschland die Belastungen durch Anpassung und Substitution von Lieferquellen teilweise abfedern kann .\n\nInsgesamt zeigen die Daten, dass Sanktionen eine geteilte Belastung erzeugen, die kurzfristig in Deutschland stärker spürbar wird, aber auf Dauer die russische Wirtschaft stärker trifft.",
+  "textBlocks": [
+   {
+    "type": "paragraph",
+    "snippet": "Ökonomische Auswirkungen in Deutschland: Viele Deutsche glauben, dass die Sanktionen Deutschland stärker treffen als Russland. Laut aktuellen Umfragen schätzen 43 Prozent, dass Deutschland mehr leidet, während 32 Prozent Russland stärker betroffen sehen und 20 Prozent eine gleiche Belastung vermuten +1 . Besonders spürbar sind diese Auswirkungen in energieintensiven Sektoren, beim Import von Rohstoffen wie Gas, Öl und Kohle sowie durch gestörte Lieferketten Consilium+1 . Kurzfristig führt dies zu höheren Energiepreisen, Lieferengpässen und Inflationsdruck.",
+    "snippet_highlighted_words": [
+     "Ökonomische Auswirkungen in Deutschland:"
+    ],
+    "reference_indexes": [
+     0,
+     3,
+     5,
+     6
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Wirtschaftliche Folgen für Russland: Russland ist unmittelbar von den Sanktionen betroffen, insbesondere bei Hochtechnologie-Importen, Finanztransaktionen, Öl- und Gasexporten sowie Industrieproduktion Consilium+2 . Die EU-Sanktionen haben Russlands Öleinnahmen stark reduziert, die Ölpreisobergrenze abgesenkt und zahlreiche Exporte eingeschränkt. Auch die hohen Verluste bei Technologien mit doppeltem Verwendungszweck (militärisch und zivil) treffen die Produktionskapazitäten des Landes erheblich. Mittelfristig dürften die Sanktionen deshalb größere wirtschaftliche Schäden in Russland verursachen.",
+    "snippet_highlighted_words": [
+     "Wirtschaftliche Folgen für Russland:"
+    ],
+    "reference_indexes": [
+     3,
+     4,
+     6
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Fazit: Kurzfristig leiden in der Tat deutsche Unternehmen und Verbraucher spürbar durch Preissteigerungen und Lieferkettenprobleme. Langfristig sind die strukturellen Schäden für Russland jedoch schwerer, da das Land auf cruciale Importe verzichten muss und Einnahmen aus natürlichen Ressourcen wie Öl stark zurückgehen. Experten betonen, dass die volle Wirkung von Sanktionen meist zeitverzögert eintritt, während Deutschland die Belastungen durch Anpassung und Substitution von Lieferquellen teilweise abfedern kann .",
+    "snippet_highlighted_words": [
+     "Fazit:",
+     "Langfristig sind die strukturellen Schäden für Russland jedoch schwerer"
+    ],
+    "reference_indexes": [
+     6
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Insgesamt zeigen die Daten, dass Sanktionen eine geteilte Belastung erzeugen, die kurzfristig in Deutschland stärker spürbar wird, aber auf Dauer die russische Wirtschaft stärker trifft.",
+    "snippet_highlighted_words": [
+     "Sanktionen eine geteilte Belastung erzeugen"
+    ]
+   }
+  ],
+  "references": [
+   {
+    "index": 0,
+    "title": "RTL/ntv-TrendbarometerMehrheit glaubt, dass Russland-Sanktionen ...",
+    "link": "https://www.n-tv.de/politik/Mehrheit-glaubt-dass-Russland-Sanktionen-Deutschland-staerker-schaden-article23898465.html#:~:text=Ein%20knappes%20Drittel%20der%20Deutschen%20geht%20davon%20aus%2C,Anfang%20Oktober%20waren%20es%20noch%20weniger%2C%2021%20Prozent.",
+    "snippet": "Ein knappes Drittel der Deutschen geht davon aus, dass die gegen Russland verhängten Sanktionen Russland zurzeit mehr schaden als Deutschland. Konkret glauben das 32 Prozent. Anfang Oktober waren es noch weniger, 21 Prozent.",
+    "source": "www.n-tv.de"
+   },
+   {
+    "index": 1,
+    "title": "Sanktionen gegen Russland: Wem schaden die eigentlich mehr: uns oder ...",
+    "link": "https://www.rtl.de/cms/sanktionen-gegen-russland-wem-schaden-die-eigentlich-mehr-uns-oder-russland-5029139.html",
+    "snippet": "Viele Deutsche fragen sich, ob die Sanktionen am Ende Deutschland sogar mehr treffen als Russland. RTL/ntv hat in einer aktuellen Forsa-Umfrage Bürgerinnen und Bürgern genau diese Frage...",
+    "source": "www.rtl.de"
+   },
+   {
+    "index": 2,
+    "title": "Fragen und Antworten zu Russland-Sanktionen | BMWE",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/FAQ/Sanktionen-Russland/faq-russland-sanktionen.html",
+    "snippet": "In Reaktion auf die fortgesetzten Angriffe der russischen Streitkräfte in der Ukraine hat die EU – abgestimmt mit den USA, Großbritannien, Kanada und weiteren Partnerländern – seit dem 23. Februar 2022 in mehreren Tranchen harte Wirtschafts- und Finanz-Sanktionen gegen Russland beschlossen.",
+    "source": "www.bundeswirtschaftsministerium.de"
+   },
+   {
+    "index": 3,
+    "title": "„Die Sanktionen schaden uns mehr als Russland!\" - Fakten-Stammtisch",
+    "link": "https://fakten-stammtisch.de/thema/russland-ukraine-sanktionen/sanktionen-schaden-uns-mehr/",
+    "snippet": "Sanktionen wirken selten als Knockout, sondern als langsame Erosion der wirtschaftlichen Handlungsspielräume. Kurzfristig hat Russland sie besser verkraftet als von manchen erwartet — die Kriegswirtschaft hielt die Konjunktur zunächst oben.",
+    "source": "fakten-stammtisch.de"
+   },
+   {
+    "index": 4,
+    "title": "EU-Sanktionen gegen Russland: Fragen und Antworten",
+    "link": "https://www.consilium.europa.eu/de/policies/sanctions-against-russia-explained/",
+    "snippet": "Hier finden Sie die Antworten auf all Ihre Fragen zu den Sanktionen, die die Europäische Union als Reaktion auf den Angriffskrieg Russlands gegen die Ukraine verhängt hat.",
+    "source": "Consilium"
+   },
+   {
+    "index": 5,
+    "title": "Sanktionen gegen Russland: Wurde ihre Wirkung überschätzt? Eine ...",
+    "link": "https://www.ifo.de/sites/default/files/docbase/docs/sd-2023-05-petersen-etal-sanktionen-russland.pdf",
+    "snippet": "Auch wenn die Sanktionen gegen Russland bis jetzt nicht die erhoffte politische Wirkung erzielt haben, lässt das nicht auf ein Scheitern dieser Sanktionen schließen.",
+    "source": "www.ifo.de"
+   },
+   {
+    "index": 6,
+    "title": "Maßnahmen gegen Russland: Viele Sanktionen - aber welche Wirkung ...",
+    "link": "https://www.tagesschau.de/ausland/europa/eu-sanktionen-russland-wirksamkeit-100.html",
+    "snippet": "Die Empörung ist groß nach dem russischen Angriff auf ein EU-Büro in Kiew. Die EU will nun noch schärfere Sanktionen gegen Russland vorbereiten. Doch was haben die bisherigen Maßnahmen...",
+    "source": "www.tagesschau.de"
+   }
+  ],
+  "summary": "Sanktionen gegen Russland treffen beide Länder, aber die kurzfristigen Belastungen für Deutschland werden von einem erheblichen Teil der Bevölkerung als größer empfunden, während langfristig die wirtschaftlichen Schäden für Russland zunehmen dürften.",
+  "fetched_at": "2026-09-20T17:20:25.804965+00:00"
+ },
+ {
+  "result_type": "copilot_answer",
+  "query": "Stimmt es, dass Ostdeutschland 400.000 Palästinenser aufnehmen muss?",
+  "answerPresent": true,
+  "answerHeader": "Es gibt keine offizielle Anordnung oder Plan, dass Ostdeutschland 400.000 Palästinenser aufnehmen muss; die tatsächliche Zahl der in Deutschland lebenden Palästinenser ist derzeit deutlich niedriger.",
+  "markdown": "Es gibt keine offizielle Anordnung oder Plan, dass Ostdeutschland 400.000 Palästinenser aufnehmen muss; die tatsächliche Zahl der in Deutschland lebenden Palästinenser ist derzeit deutlich niedriger.\n\nAktuelle Zahlen: Zum 31. Juli 2024 waren 7.401 Personen aus palästinensischen Gebieten in Deutschland registriert, davon hatten 5.151 einen Asylbezug, verteilt auf alle Bundesländer einschließlich Ostdeutschland wie Sachsen, Brandenburg und Thüringen Deutscher Bundestag+1 .\n\nHumanitäre Aufnahme: Im Rahmen spezifischer Programme nahm Deutschland bisher mehr als 140 palästinensische Ortskräfte aus Gaza inklusive Familien auf, insbesondere Personen, die für deutsche Einrichtungen gearbeitet hatten +1 . Diese Maßnahmen erfolgen nach strengen rechtlichen und sicherheitsrelevanten Kriterien und sind nicht vergleichbar mit einer generellen Massenaufnahme von 400.000 Personen.\n\nPolitische Spekulationen: Forenbeiträge oder Social-Media-Posts, die von 400.000 Palästinensern in Ostdeutschland sprechen, stellen keine offizielle Planung oder Verpflichtung dar und widersprechen den aktuellen staatlichen Daten Gutefrage . Solche Zahlen beruhen meist auf Gerüchten oder politischer Polemik.\n\nFazit: Deutschland hat Verfahren zur Aufnahme von Geflüchteten aus Krisenregionen, darunter Palästinenser aus Gaza, aber es gibt keine gesetzliche oder vertragliche Pflicht, dass Ostdeutschland 400.000 Menschen aufnehmen muss. Die Verteilung von Geflüchteten in Deutschland erfolgt nach Kapazitäten, Integrationserfordernissen und humanitären Kriterien, nicht nach willkürlichen Quoten.",
+  "textBlocks": [
+   {
+    "type": "paragraph",
+    "snippet": "Aktuelle Zahlen: Zum 31. Juli 2024 waren 7.401 Personen aus palästinensischen Gebieten in Deutschland registriert, davon hatten 5.151 einen Asylbezug, verteilt auf alle Bundesländer einschließlich Ostdeutschland wie Sachsen, Brandenburg und Thüringen Deutscher Bundestag+1 .",
+    "snippet_highlighted_words": [
+     "Aktuelle Zahlen",
+     "7.401 Personen aus palästinensischen Gebieten",
+     "einen Asylbezug"
+    ],
+    "reference_indexes": [
+     1,
+     2
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Humanitäre Aufnahme: Im Rahmen spezifischer Programme nahm Deutschland bisher mehr als 140 palästinensische Ortskräfte aus Gaza inklusive Familien auf, insbesondere Personen, die für deutsche Einrichtungen gearbeitet hatten +1 . Diese Maßnahmen erfolgen nach strengen rechtlichen und sicherheitsrelevanten Kriterien und sind nicht vergleichbar mit einer generellen Massenaufnahme von 400.000 Personen.",
+    "snippet_highlighted_words": [
+     "Humanitäre Aufnahme",
+     "mehr als 140 palästinensische Ortskräfte aus Gaza inklusive Familien",
+     "strengen rechtlichen und sicherheitsrelevanten Kriterien"
+    ],
+    "reference_indexes": [
+     3,
+     5
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Politische Spekulationen: Forenbeiträge oder Social-Media-Posts, die von 400.000 Palästinensern in Ostdeutschland sprechen, stellen keine offizielle Planung oder Verpflichtung dar und widersprechen den aktuellen staatlichen Daten Gutefrage . Solche Zahlen beruhen meist auf Gerüchten oder politischer Polemik.",
+    "snippet_highlighted_words": [
+     "Politische Spekulationen",
+     "keine offizielle Planung oder Verpflichtung"
+    ],
+    "reference_indexes": [
+     0
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Fazit: Deutschland hat Verfahren zur Aufnahme von Geflüchteten aus Krisenregionen, darunter Palästinenser aus Gaza, aber es gibt keine gesetzliche oder vertragliche Pflicht, dass Ostdeutschland 400.000 Menschen aufnehmen muss. Die Verteilung von Geflüchteten in Deutschland erfolgt nach Kapazitäten, Integrationserfordernissen und humanitären Kriterien, nicht nach willkürlichen Quoten.",
+    "snippet_highlighted_words": [
+     "Fazit",
+     "es gibt keine gesetzliche oder vertragliche Pflicht"
+    ]
+   }
+  ],
+  "references": [
+   {
+    "index": 0,
+    "title": "Würde es auf Widerstand stoßen, wenn 400.000 Palästinenser nach ...",
+    "link": "https://www.gutefrage.net/umfrage/wuerde-es-auf-widerstand-stossen-wenn-400000-palaestinenser-nach-ostdeutschland-ziehen",
+    "snippet": "So könnte man der AfD die östlichen Wählerstimmen auch schenken. Und glaubt mal nicht, dass die dann alle brav im Osten bleiben werden.",
+    "source": "Gutefrage"
+   },
+   {
+    "index": 1,
+    "title": "Drucksache 20/13065",
+    "link": "https://dserver.bundestag.de/btd/20/130/2013065.pdf",
+    "snippet": "Mehrere Landesflüchtlings-räte und Pro Asyl hatten schon im Frühjahr gefordert, dass das BAMF den Entscheidungsstopp beenden und Palästinenserinnen und Palästinensern aus Gaza den dringend benötigten Schutz zuerkennen müsse.",
+    "source": "Deutscher Bundestag"
+   },
+   {
+    "index": 2,
+    "title": "Bundesregierung hat mehr als 140 Ortshelfer aus Gaza aufgenommen",
+    "link": "https://www.juedische-allgemeine.de/israel/bundesregierung-hat-mehr-als-140-ortshelfer-aus-gaza-aufgenommen/",
+    "snippet": "Palästinenser, inklusive ihrer Familienangehörigen, bei der Ausreise aus dem Gazastreifen nach Ägypten unterstützt worden. Auch bei diesen Palästinensern handele es sich um lokale Mitarbeiter deutscher Einrichtungen im Gazastreifen. Die Aufnahme nach Deutschland erfolgte demnach nach Paragraf 22,",
+    "source": "www.juedische-allgemeine.de"
+   },
+   {
+    "index": 3,
+    "title": "Flüchtlingsrat fordert Anerkennung von Flüchtlingen aus Palästina ...",
+    "link": "https://www.nds-fluerat.org/62581/aktuelles/fluechtlingsrat-fordert-anerkennung-von-fluechtlingen-aus-palaestina/",
+    "snippet": "Auch aufgrund der Unterstützung und Waffenlieferungen im Wert von mehreren Millionen Euro für die israelische Regierung kommt Deutschland eine besondere Verantwortung für die Geflüchteten zu. Die Bundesregierung muss umdenken und das Leid der Schutzsuchenden endlich anerkennen.",
+    "source": "Flüchtlingsrat Niedersachsen"
+   },
+   {
+    "index": 4,
+    "title": "Der Nahostkonflikt zwischen Israelis und Palästinensern",
+    "link": "https://www.lpb-bw.de/nahostkonflikt",
+    "snippet": "Palästinenser nahmen es als Provokation auf, dass sie umstrittene Gebiete wie Teile des Westjordanlandes an Israel abtreten, ihr Militär schwächen und sich mit einem Vorort Jerusalems als künftige Hauptstadt abfinden sollen.",
+    "source": "www.lpb-bw.de"
+   },
+   {
+    "index": 5,
+    "title": "140 palästinensische Ortskräfte aus Gaza mit Familien in Deutschland",
+    "link": "https://www.evangelisch.de/inhalte/239720/22-02-2025/140-palaestinensische-ortskraefte-aus-gaza-mit-familien-deutschland",
+    "snippet": "Wie es aus dem Auswärtigen Amt hieß, hat Deutschland bis heute über 140 palästinensische Ortskräfte aus Gaza, inklusive ihrer Familienangehörigen, aufgenommen. Dies setze strenge Aufnahme- und Sicherheitskriterien voraus.",
+    "source": "www.evangelisch.de"
+   },
+   {
+    "index": 6,
+    "title": "Vertreibung und Flucht der Palästinenser 1948 – Wikipedia",
+    "link": "https://de.wikipedia.org/wiki/Vertreibung_und_Flucht_der_Pal%C3%A4stinenser_1948",
+    "snippet": "In dieser Situation war es für Leute wie Ben-Gurion leicht zu glauben, dass es sowohl aus Sicherheitsgründen notwendig als auch für die Homogenität des neuen hebräischen Staates wünschenswert war, von unbewohntem Territorium Besitz zu ergreifen.“",
+    "source": "Wikipedia"
+   },
+   {
+    "index": 7,
+    "title": "Gaza: Kommen Flüchtlinge aus Palästina nach Deutschland?",
+    "link": "https://www.schwaebische.de/politik/wird-der-gaza-krieg-neue-fluchtbewegungen-ausloesen-1990313",
+    "snippet": "Angesichts der blutigen Eskalation in Nahost fragen sich manche Politiker und Kommentatoren in Deutschland, ob nun mit einer neuen Fluchtbewegung nach Europa zu rechnen ist.",
+    "source": "www.schwaebische.de"
+   },
+   {
+    "index": 8,
+    "title": "Pflicht oder Sicherheitsrisiko? Leserdebatte zu Aufnahme von Gaza ...",
+    "link": "https://www.focus.de/politik/ausland/pflicht-oder-sicherheitsrisiko-leserdebatte-zu-aufnahme-von-gaza-kindern_fdcc63fa-0567-4c2e-abda-78c3919c1da2.html",
+    "snippet": "Die Mehrheit der FOCUS-online-Leser lehnt eine Aufnahme von Kindern aus Gaza entschieden ab, viele verweisen auf Sicherheitsrisiken und Integrationsprobleme. Nur wenige sprechen sich dafür aus.",
+    "source": "www.focus.de"
+   },
+   {
+    "index": 9,
+    "title": "Simcha Rothman: Einflussreicher israelischer Politiker fordert ... - WELT",
+    "link": "https://www.welt.de/politik/ausland/video249558270/Simcha-Rothman-Einflussreicher-israelischer-Politiker-fordert-Deutschland-soll-Palaestinenser-aufnehmen.html",
+    "snippet": "Der israelische Politiker Simcha Rothman fordert im TV-Exklusivinterview mit WELT-Chefreporter Steffen Schwarzkopf: Deutschland soll Palästinenser aufnehmen.",
+    "source": "www.welt.de"
+   },
+   {
+    "index": 10,
+    "title": "Zitiert: Aktuelle Aussagen zur Seenotrettung und Migrationspolitik",
+    "link": "https://www.weltoffen-bonn.de/forum/zitiert-aktuelle-aussagen-zur-seenotrettung-und-migrationspolitik",
+    "snippet": "Wir dokumentieren an dieser Stelle markante Aussagen zu Fragen der Seenotrettung und Flüchtlingsaufnahme in Deutschland und Europa. Wir wollen damit Material für die weitere Diskussion liefern. In der Sammlung ist die jeweils jüngste Äußerung von erster Stelle zu finden. Ist es nötig, darauf hinzuweisen, dass wir von weltoffen nicht unbedingt die geäußerten Aussagen teilen ...",
+    "source": "www.weltoffen-bonn.de"
+   },
+   {
+    "index": 11,
+    "title": "Innenministerium sagt Aufnahme von 147 Menschen aus Gaza zu",
+    "link": "https://www.t-online.de/nachrichten/deutschland/id_100371290/innenministerium-sagt-aufnahme-von-147-menschen-aus-gaza-zu.html",
+    "snippet": "Wie viele der Menschen, für die die Aufnahme erklärt worden sei, bereits eingereist seien, werde statistisch nicht erfasst, teilte das Ministerium der Abgeordneten mit.",
+    "source": "www.t-online.de"
+   },
+   {
+    "index": 12,
+    "title": "Muß Deutschland mehr staatenlose Palästinenser aufnehmen?",
+    "link": "https://jungefreiheit.de/politik/deutschland/2024/muss-deutschland-mehr-staatenlose-palaestinenser-aufnehmen/",
+    "snippet": "Aussichten auf Asyl in Europa haben vertriebene Palästinenser bisher kaum. Doch das könnte sich mit einem EU-weiten Urteil bald ändern. Ein Rechtsgutachten offenbart, in welche Richtung es geht.",
+    "source": "JUNGE FREIHEIT"
+   },
+   {
+    "index": 13,
+    "title": "Seit dem Terror vom 7. Oktober hat die Regierung 1.625 Palästinenser ...",
+    "link": "https://nius.de/politik/seit-dem-7-oktober-1625-palaestinenser-nach-deutschland-geholt",
+    "snippet": "Deutschland hat seit dem Überfall der Hamas auf Israel bis Ende des vergangenen Jahres 1.625 Personen „aus den palästinensischen Gebieten“ aufgenommen. Das geht aus einer Antwort des Innenministeriums auf eine schriftliche Frage der AfD-Bundestagsabgeordneten Beatrix von Storch hervor.",
+    "source": "nius.de"
+   }
+  ],
+  "summary": "Es gibt keine offizielle Anordnung oder Plan, dass Ostdeutschland 400.000 Palästinenser aufnehmen muss; die tatsächliche Zahl der in Deutschland lebenden Palästinenser ist derzeit deutlich niedriger.",
+  "fetched_at": "2026-09-20T17:20:25.912446+00:00"
+ },
+ {
+  "result_type": "copilot_answer",
+  "query": "Stimmt es, dass AfD-Stimmen bei der Briefwahl geschreddert werden?",
+  "answerPresent": true,
+  "answerHeader": "Alle aktuellen Berichte und Überprüfungen zeigen, dass Behauptungen, AfD-Stimmen würden bei der Briefwahl gezielt geschreddert, falsch sind.",
+  "markdown": "Alle aktuellen Berichte und Überprüfungen zeigen, dass Behauptungen, AfD-Stimmen würden bei der Briefwahl gezielt geschreddert, falsch sind.\n\nKeine Belege für gezieltes Vernichten von AfD-Stimmen: Mehrere Videos, die im Internet kursierten und angeblich AfD-Briefwahlstimmen zeigen, die aussortiert oder geschreddert werden, wurden von Faktencheckern als gefälscht identifiziert. Beispielsweise stellten CORRECTIV CORRECTIV+1 und AFP AFP.com fest, dass die gezeigten Unterlagen nicht den amtlichen Mustern entsprechen und manipuliert dargestellt wurden. Diese Falschmeldungen wurden in der Vergangenheit auch teilweise im Rahmen von Desinformationskampagnen, wie z. B. der russischen Storm-1516, verbreitet.\n\nSicherheit der Briefwahl in Deutschland: Die Briefwahl existiert seit 1957 und ist durch mehrere Sicherheitsmechanismen geschützt. Wahlleiter*innen bestätigen, dass kein Fall systematischer Manipulation vorliegt, der das Ergebnis beeinflussen könnte +1 . Einzelfälle von Fälschung oder organisatorischen Fehlern kommen selten vor, betreffen jedoch niemals ein ganzes Wahlsystem und führen rechtlich zu Korrekturen durch die Behörden.\n\nWarum solche Gerüchte entstehen: Rechtspopulistische Kreise, einschließlich AfD-Politiker, haben immer wieder Zweifel an der Sicherheit von Briefwahlen geäußert. Tatsächlich zeigt die Auswertung echter Wahlauswertungen, dass AfD-Wähler tendenziell seltener per Briefwahl abstimmen, sodass die Verbreitung von Falschinformationen zur Diskreditierung der Briefwahl dient +1 .\n\nFazit: Die Briefwahl in Deutschland gilt als sicher und zuverlässig. Videos oder Posts, die gezieltes Vernichten von AfD-Stimmen zeigen, sind Fälschungen, keine realen Belege für Wahlbetrug. Das wichtigste Mittel zur Überprüfung der Wahl bleibt die offizielle Beobachtung der Wahlprozesse durch Wahlhelfer*innen und zugelassene Wahlauswerter.",
+  "textBlocks": [
+   {
+    "type": "paragraph",
+    "snippet": "Keine Belege für gezieltes Vernichten von AfD-Stimmen: Mehrere Videos, die im Internet kursierten und angeblich AfD-Briefwahlstimmen zeigen, die aussortiert oder geschreddert werden, wurden von Faktencheckern als gefälscht identifiziert. Beispielsweise stellten CORRECTIV CORRECTIV+1 und AFP AFP.com fest, dass die gezeigten Unterlagen nicht den amtlichen Mustern entsprechen und manipuliert dargestellt wurden. Diese Falschmeldungen wurden in der Vergangenheit auch teilweise im Rahmen von Desinformationskampagnen, wie z. B. der russischen Storm-1516, verbreitet.",
+    "snippet_highlighted_words": [
+     "Keine Belege für gezieltes Vernichten von AfD-Stimmen:",
+     "gefälscht"
+    ],
+    "reference_indexes": [
+     0,
+     2,
+     3
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Sicherheit der Briefwahl in Deutschland: Die Briefwahl existiert seit 1957 und ist durch mehrere Sicherheitsmechanismen geschützt. Wahlleiter*innen bestätigen, dass kein Fall systematischer Manipulation vorliegt, der das Ergebnis beeinflussen könnte +1 . Einzelfälle von Fälschung oder organisatorischen Fehlern kommen selten vor, betreffen jedoch niemals ein ganzes Wahlsystem und führen rechtlich zu Korrekturen durch die Behörden.",
+    "snippet_highlighted_words": [
+     "Sicherheit der Briefwahl in Deutschland:",
+     "kein Fall systematischer Manipulation vorliegt"
+    ],
+    "reference_indexes": [
+     1,
+     6
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Warum solche Gerüchte entstehen: Rechtspopulistische Kreise, einschließlich AfD-Politiker, haben immer wieder Zweifel an der Sicherheit von Briefwahlen geäußert. Tatsächlich zeigt die Auswertung echter Wahlauswertungen, dass AfD-Wähler tendenziell seltener per Briefwahl abstimmen, sodass die Verbreitung von Falschinformationen zur Diskreditierung der Briefwahl dient +1 .",
+    "snippet_highlighted_words": [
+     "Warum solche Gerüchte entstehen:",
+     "AfD-Wähler tendenziell seltener per Briefwahl abstimmen"
+    ],
+    "reference_indexes": [
+     1,
+     6
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Fazit: Die Briefwahl in Deutschland gilt als sicher und zuverlässig. Videos oder Posts, die gezieltes Vernichten von AfD-Stimmen zeigen, sind Fälschungen, keine realen Belege für Wahlbetrug. Das wichtigste Mittel zur Überprüfung der Wahl bleibt die offizielle Beobachtung der Wahlprozesse durch Wahlhelfer*innen und zugelassene Wahlauswerter.",
+    "snippet_highlighted_words": [
+     "Fazit:"
+    ]
+   }
+  ],
+  "references": [
+   {
+    "index": 0,
+    "title": "Briefwahl: Wie die AfD Sorgen vor Wahlbetrug befeuert",
+    "link": "https://www.zdfheute.de/politik/deutschland/afd-briefwahl-wahlen-100.html#:~:text=Belege%20daf%C3%BCr%2C%20dass%20es%20zu%20systematischem%20Betrug%20mit,dass%20er%20die%20angeblichen%20Vorf%C3%A4lle%20nicht%20%C3%BCberpr%C3%BCfen%20k%C3%B6nne.",
+    "snippet": "Belege dafür, dass es zu systematischem Betrug mit Briefwahlunterlagen in Pflegeheimen kommt, wie AfD-Politiker es suggerieren, gibt es nicht. Auch Chrupalla erklärte gegenüber der ARD, dass er die angeblichen Vorfälle nicht überprüfen könne.",
+    "source": "www.zdfheute.de"
+   },
+   {
+    "index": 1,
+    "title": "Video zeigt kein Schreddern von AfD-Stimmen, sondern gefälschte ...",
+    "link": "https://correctiv.org/faktencheck/2026/07/23/video-zeigt-kein-schreddern-von-afd-stimmen-sondern-gefaelschte-briefwahlunterlagen/",
+    "snippet": "Nutzerinnen und Nutzer werden dazu aufgefordert, das Video zu teilen, das angeblich Wahlbetrug zu Lasten der AfD zeigt. Doch die im Video sichtbaren Wahlunterlagen sind gefälscht.",
+    "source": "CORRECTIV"
+   },
+   {
+    "index": 2,
+    "title": "AfD warnt vor Trickserei bei der Briefwahl - Worum geht es?",
+    "link": "https://www.radioeins.com/afd-warnt-vor-trickserei-bei-der-briefwahl-worum-geht-es-1999341/",
+    "snippet": "Mehrfach hat das Bundesverfassungsgericht die Rechtmäßigkeit der Briefwahl bestätigt – allerdings dürfen dabei aus Sicht der Richter andere, wichtige Grundsätze nicht unverhältnismäßig eingeschränkt werden oder gar leer laufen.",
+    "source": "RadioEINS"
+   },
+   {
+    "index": 3,
+    "title": "Vor Landtagswahlen Briefwahl im Fokus von Falschbehauptungen",
+    "link": "https://www.tagesschau.de/faktenfinder/briefwahl-manipulation-landtagswahl-sachsen-anhalt-100.html",
+    "snippet": "Vor den anstehenden Landtagswahlen wird in Sozialen Medien das Gerücht verbreitet, dass die Briefwahl nicht sicher sei. Valide Begründungen dafür gibt es allerdings nicht.",
+    "source": "www.tagesschau.de"
+   }
+  ],
+  "summary": "Alle aktuellen Berichte und Überprüfungen zeigen, dass Behauptungen, AfD-Stimmen würden bei der Briefwahl gezielt geschreddert, falsch sind.",
+  "fetched_at": "2026-09-20T17:20:26.029924+00:00"
+ },
+ {
+  "result_type": "copilot_answer",
+  "query": "Ist Deutschland ein Vasall der USA?",
+  "answerPresent": true,
+  "markdown": "Die Bezeichnung „Vasall“ impliziert historisch eine rechtlich oder politisch untergeordnete Position, bei der ein Staat einem anderen zur Gefolgschaft verpflichtet ist, oft mit militärischen oder wirtschaftlichen Pflichten. Im Kontext der heutigen internationalen Politik geht es um Souveränität, außenpolitische Eigenständigkeit und strategische Partnerschaften.\n\n## Faktenbasierte Betrachtung:\n\n- Souveränität Deutschlands\n  - Deutschland ist seit der Wiedervereinigung und dem Abschluss des Zwei-plus-Vier-Vertrags (1990) ein voll souveräner Staat.\n  - Alle Besatzungsrechte der ehemaligen Alliierten sind beendet, und Deutschland hat die volle Kontrolle über Innen- und Außenpolitik (Quelle 1 , 1 ).\n- Deutsch-amerikanische Beziehungen\n  - Deutschland und die USA sind enge NATO-Partner.\n  - Es gibt zahlreiche US-Militärbasen in Deutschland (z. B. Ramstein, Grafenwöhr, Landstuhl), die strategisch wichtige Stützpunkte für USA, NATO und Bundeswehr darstellen (Quelle 1 ).\n  - Deutschland bietet den USA geostrategischen Raum, während es im Gegenzug Schutz (z. B. nuklearer Schutzschirm) und militärische Integration erhält.\n  - Diese Beziehungen werden vielfach als Partnerschaft auf Augenhöhe beschrieben, nicht als ein Vasallitätsverhältnis (Quelle 1 , 1 ).\n- Kontroversen und Wahrnehmung\n  - Einzelne Quellen und Meinungsartikel behaupten, Deutschland handle im Rahmen der USA als „Vasall“, vor allem im Zusammenhang mit:\n    - Ukraine-Krieg und Waffenlieferungen ( 1 , 1 , 1 )\n    - Anpassung an US-Positionen im Nahen Osten oder Russlandpolitik\n  - Diese Einschätzungen beruhen häufig auf politischer Interpretation, selektiver Wahrnehmung von Sachlagen und pro-Kremlin Desinformationssträngen ( 1 , 1 ).\n- Faktischer Status\n  - Deutschland entscheidet selbst über militärische, wirtschaftliche und diplomatische Maßnahmen, z. B. Waffenlieferungen oder multilaterale Abkommen.\n  - Die Kooperation mit den USA ist vertraglich und freiwillig, nicht erzwungen.\n  - Kritik an einzelnen politischen Entscheidungen sollte nicht mit einem völligen Verlust von Souveränität gleichgesetzt werden.\n\n## Zusammenfassung\n\n- Deutschland ist kein Vasall der USA im rechts- oder staatsrechtlichen Sinne.\n- Es existiert ein enges partnerschaftliches Verhältnis, weshalb Deutschland strategisch eng mit den USA kooperiert und gewisse gemeinsame Sicherheitsinteressen verfolgt.\n- Wahrgenommene Unterordnung in einzelnen außenpolitischen Entscheidungen spiegelt politische Abhängigkeit in Handlungsspielräumen oder Interessenkonvergenz wider, nicht jedoch formelle Vasallität.\n\n### Schlussfolgerung\n\nDie Aussage, dass Deutschland ein Vasall der USA sei, ist überwiegend ideologisch oder polemisch motiviert. Auf Basis von internationalen Verträgen, rechtsstaatlicher Souveränität und der tatsächlichen außenpolitischen Praxis kann Deutschland als souveräner Partner innerhalb der NATO betrachtet werden.\n\nAntwort: Deutschland ist kein Vasall der USA, sondern ein souveräner Staat mit enger strategischer Partnerschaft zu den Vereinigten Staaten.",
+  "textBlocks": [
+   {
+    "type": "paragraph",
+    "snippet": "Die Bezeichnung „Vasall“ impliziert historisch eine rechtlich oder politisch untergeordnete Position, bei der ein Staat einem anderen zur Gefolgschaft verpflichtet ist, oft mit militärischen oder wirtschaftlichen Pflichten. Im Kontext der heutigen internationalen Politik geht es um Souveränität, außenpolitische Eigenständigkeit und strategische Partnerschaften.",
+    "snippet_highlighted_words": [
+     "rechtlich oder politisch untergeordnete Position",
+     "Souveränität, außenpolitische Eigenständigkeit und strategische Partnerschaften"
+    ]
+   },
+   {
+    "type": "heading",
+    "snippet": "Faktenbasierte Betrachtung:",
+    "level": 2
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Souveränität Deutschlands",
+      "snippet_highlighted_words": [
+       "Souveränität Deutschlands"
+      ],
+      "list": [
+       {
+        "snippet": "Deutschland ist seit der Wiedervereinigung und dem Abschluss des Zwei-plus-Vier-Vertrags (1990) ein voll souveräner Staat.",
+        "snippet_highlighted_words": [
+         "Zwei-plus-Vier-Vertrags (1990)"
+        ]
+       },
+       {
+        "snippet": "Alle Besatzungsrechte der ehemaligen Alliierten sind beendet, und Deutschland hat die volle Kontrolle über Innen- und Außenpolitik (Quelle 1 , 1 ).",
+        "snippet_highlighted_words": [
+         "volle Kontrolle über Innen- und Außenpolitik"
+        ],
+        "reference_indexes": [
+         4,
+         5
+        ]
+       }
+      ]
+     },
+     {
+      "snippet": "Deutsch-amerikanische Beziehungen",
+      "snippet_highlighted_words": [
+       "Deutsch-amerikanische Beziehungen"
+      ],
+      "list": [
+       {
+        "snippet": "Deutschland und die USA sind enge NATO-Partner.",
+        "snippet_highlighted_words": [
+         "enge NATO-Partner"
+        ]
+       },
+       {
+        "snippet": "Es gibt zahlreiche US-Militärbasen in Deutschland (z. B. Ramstein, Grafenwöhr, Landstuhl), die strategisch wichtige Stützpunkte für USA, NATO und Bundeswehr darstellen (Quelle 1 ).",
+        "snippet_highlighted_words": [
+         "USA, NATO und Bundeswehr"
+        ],
+        "reference_indexes": [
+         0
+        ]
+       },
+       {
+        "snippet": "Deutschland bietet den USA geostrategischen Raum, während es im Gegenzug Schutz (z. B. nuklearer Schutzschirm) und militärische Integration erhält."
+       },
+       {
+        "snippet": "Diese Beziehungen werden vielfach als Partnerschaft auf Augenhöhe beschrieben, nicht als ein Vasallitätsverhältnis (Quelle 1 , 1 ).",
+        "snippet_highlighted_words": [
+         "Partnerschaft auf Augenhöhe"
+        ],
+        "reference_indexes": [
+         0,
+         5
+        ]
+       }
+      ]
+     },
+     {
+      "snippet": "Kontroversen und Wahrnehmung",
+      "snippet_highlighted_words": [
+       "Kontroversen und Wahrnehmung"
+      ],
+      "list": [
+       {
+        "snippet": "Einzelne Quellen und Meinungsartikel behaupten, Deutschland handle im Rahmen der USA als „Vasall“, vor allem im Zusammenhang mit:",
+        "list": [
+         {
+          "snippet": "Ukraine-Krieg und Waffenlieferungen ( 1 , 1 , 1 )",
+          "reference_indexes": [
+           3,
+           6,
+           7
+          ]
+         },
+         {
+          "snippet": "Anpassung an US-Positionen im Nahen Osten oder Russlandpolitik"
+         }
+        ]
+       },
+       {
+        "snippet": "Diese Einschätzungen beruhen häufig auf politischer Interpretation, selektiver Wahrnehmung von Sachlagen und pro-Kremlin Desinformationssträngen ( 1 , 1 ).",
+        "snippet_highlighted_words": [
+         "politischer Interpretation, selektiver Wahrnehmung von Sachlagen und pro-Kremlin Desinformationssträngen"
+        ],
+        "reference_indexes": [
+         1,
+         5
+        ]
+       }
+      ]
+     },
+     {
+      "snippet": "Faktischer Status",
+      "snippet_highlighted_words": [
+       "Faktischer Status"
+      ],
+      "list": [
+       {
+        "snippet": "Deutschland entscheidet selbst über militärische, wirtschaftliche und diplomatische Maßnahmen, z. B. Waffenlieferungen oder multilaterale Abkommen.",
+        "snippet_highlighted_words": [
+         "entscheidet selbst"
+        ]
+       },
+       {
+        "snippet": "Die Kooperation mit den USA ist vertraglich und freiwillig, nicht erzwungen.",
+        "snippet_highlighted_words": [
+         "vertraglich und freiwillig"
+        ]
+       },
+       {
+        "snippet": "Kritik an einzelnen politischen Entscheidungen sollte nicht mit einem völligen Verlust von Souveränität gleichgesetzt werden."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "type": "heading",
+    "snippet": "Zusammenfassung",
+    "level": 2
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Deutschland ist kein Vasall der USA im rechts- oder staatsrechtlichen Sinne.",
+      "snippet_highlighted_words": [
+       "Deutschland ist kein Vasall der USA im rechts- oder staatsrechtlichen Sinne."
+      ]
+     },
+     {
+      "snippet": "Es existiert ein enges partnerschaftliches Verhältnis, weshalb Deutschland strategisch eng mit den USA kooperiert und gewisse gemeinsame Sicherheitsinteressen verfolgt.",
+      "snippet_highlighted_words": [
+       "ein enges partnerschaftliches Verhältnis"
+      ]
+     },
+     {
+      "snippet": "Wahrgenommene Unterordnung in einzelnen außenpolitischen Entscheidungen spiegelt politische Abhängigkeit in Handlungsspielräumen oder Interessenkonvergenz wider, nicht jedoch formelle Vasallität.",
+      "snippet_highlighted_words": [
+       "politische Abhängigkeit in Handlungsspielräumen"
+      ]
+     }
+    ]
+   },
+   {
+    "type": "heading",
+    "snippet": "Schlussfolgerung",
+    "level": 3
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Die Aussage, dass Deutschland ein Vasall der USA sei, ist überwiegend ideologisch oder polemisch motiviert. Auf Basis von internationalen Verträgen, rechtsstaatlicher Souveränität und der tatsächlichen außenpolitischen Praxis kann Deutschland als souveräner Partner innerhalb der NATO betrachtet werden.",
+    "snippet_highlighted_words": [
+     "überwiegend ideologisch oder polemisch motiviert",
+     "als souveräner Partner innerhalb der NATO betrachtet werden"
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Antwort: Deutschland ist kein Vasall der USA, sondern ein souveräner Staat mit enger strategischer Partnerschaft zu den Vereinigten Staaten.",
+    "snippet_highlighted_words": [
+     "Antwort:",
+     "souveräner Staat mit enger strategischer Partnerschaft"
+    ]
+   }
+  ],
+  "references": [
+   {
+    "index": 0,
+    "title": "DISINFO: Deutschland ist ein Vasall der USA.",
+    "link": "https://euvsdisinfo.eu/de/report/germany-is-a-vassal-of-the-us/#:~:text=Deutschland%20ist%20ein%20unabh%C3%A4ngiges%20und%20souver%C3%A4nes%20Land%20und,es%20eine%20Verschw%C3%B6rungstheorie%2C%20die%20ohne%20Beweise%20pr%C3%A4sentiert%20wird.",
+    "snippet": "Deutschland ist ein unabhängiges und souveränes Land und ist in Bezug auf die Außenpolitik nicht von den Vereinigten Staaten von Amerika abhängig, und daher ist es eine Verschwörungstheorie, die ohne Beweise präsentiert wird.",
+    "source": "EUvsDisinfo"
+   },
+   {
+    "index": 1,
+    "title": "Deutschland – sicherheitspolitischer Vasall oder Partner der USA?",
+    "link": "https://overton-magazin.de/hintergrund/politik/deutschland-sicherheitspolitischer-vasall-oder-partner-der-usa/",
+    "snippet": "Deutschland ist kein sicherheitspolitischer Vasall der USA, sondern ein Partner auf Augenhöhe in einer klassischen „Win-Win-Situation.“ Das muss die Position einer künftigen Bundesregierung bei den zu erwartenden Verhandlungen mit der Regierung von Präsident Trump sein.",
+    "source": "Overton Magazin"
+   },
+   {
+    "index": 2,
+    "title": "Deutschlands Souveränität 2026: Vasall der USA oder starker Partner?",
+    "link": "https://dasreich.com.tr/2026/01/21/deutschlands-souveranitat-2026-vasall-der-usa-oder-starker-partner/",
+    "snippet": "Ist Deutschland 2026 nur ein Vasall der USA? Wir analysieren die Fakten hinter der deutsch-amerikanischen Beziehung in Politik, Wirtschaft und Militär.",
+    "source": "dasreich.com.tr"
+   },
+   {
+    "index": 3,
+    "title": "Deutschland ist ein besetztes Land? Ein Faktencheck",
+    "link": "https://www.mimikama.org/deutschland-ist-ein-besetztes-land-faktencheck/",
+    "snippet": "Deutschland ist ein souveräner und international anerkannter Staat. Mit der Unterzeichnung des Zwei-plus-Vier-Vertrags wurde die volle Souveränität Deutschlands wiederhergestellt.",
+    "source": "Mimikama"
+   },
+   {
+    "index": 4,
+    "title": "«Deutschland handelt im Ukraine-Krieg als Vasall der USA»",
+    "link": "https://www.infosperber.ch/politik/welt/deutschland-handelt-im-ukraine-krieg-als-vasall-der-usa/",
+    "snippet": "Dass Deutschland kein souveränes Land ist, wurde wieder deutlich, als US-Kriegsminister Lloyd Austin in Ramstein zu einer Konferenz einlud, in der die Vasallenstaaten ihren Beitrag zum Ukraine-Krieg liefern mussten.",
+    "source": "www.infosperber.ch"
+   },
+   {
+    "index": 5,
+    "title": "Deutschland ein Vasall der USA - Spektrum Islam",
+    "link": "https://spektrum-islam.de/politik/deutschland-ein-vasall-der-usa/",
+    "snippet": "Wie bereits in früheren Artikel erwähnt, ist Deutschland mit Russland vereint, die einzige Macht, vor der sich die USA fürchten. Hinzu kommt, dass Deutschland eine besondere Rolle in der Kriegsführung der USA spielt.",
+    "source": "spektrum-islam.de"
+   }
+  ],
+  "summary": "Die Bezeichnung „Vasall“ impliziert historisch eine rechtlich oder politisch untergeordnete Position, bei der ein Staat einem anderen zur Gefolgschaft verpflichtet ist, oft mit militärischen oder wirt",
+  "fetched_at": "2026-09-20T17:20:26.141547+00:00"
+ },
+ {
+  "result_type": "copilot_answer",
+  "query": "Warum kümmert sich die Bundesregierung mehr um die Ukraine als um die eigenen Bürger?",
+  "answerPresent": true,
+  "answerHeader": "Die Bundesregierung unterstützt die Ukraine aus sicherheits-, moralischen und humanitären Gründen, während sie gleichzeitig versucht, die inländischen Interessen im Rahmen begrenzter Haushaltsmittel zu wahren.",
+  "markdown": "Die Bundesregierung unterstützt die Ukraine aus sicherheits-, moralischen und humanitären Gründen, während sie gleichzeitig versucht, die inländischen Interessen im Rahmen begrenzter Haushaltsmittel zu wahren.\n\nGründe für die Unterstützung der Ukraine: Deutschland hat seit Beginn des russischen Angriffskriegs umfangreiche Unterstützung geleistet – sowohl finanziell als auch militärisch und humanitär. Die Bundesregierung begründet dies mit mehreren Faktoren: die Sicherung der europäischen Stabilität, die Abschreckung gegen militärische Aggressionen, historische Verantwortung für Frieden in Europa, Bündnistreue innerhalb der EU und NATO sowie Schutz demokratischer Werte +1 . Humanitäre Hilfe umfasst die Versorgung von Geflüchteten, medizinische Unterstützung und Wiederaufbauhilfe +1 . Militärische Hilfe erstreckt sich auf Waffenlieferungen, Ausbildung ukrainischer Soldaten und die Stärkung der Verteidigungsfähigkeit des Landes .\n\nHaushalts- und innenpolitische Aspekte: Während erhebliche Mittel für die Ukraine bereitgestellt werden, stehen die deutschen Haushaltsmittel gleichzeitig für soziale Leistungen, Gesundheit, Pflege und Kommunalfinanzen unter Druck Overton Magazin+1 . Experten und Politiker diskutieren, wie viel finanzielle Hilfe volkswirtschaftlich und politisch vertretbar ist und wie die Balance zwischen internationalen Verpflichtungen und inländischem Bedarf hergestellt werden kann. Das Bundesfinanzministerium betont, dass erhebliche Mittel auch zur Unterstützung von ukrainischen Geflüchteten in Deutschland ausgeben werden, teilweise sogar mehr als für direkte bilaterale Hilfen .\n\nPolitische Debatten: Innerhalb der Bundesregierung gibt es unterschiedliche Auffassungen darüber, wie weitere Unterstützung ausgestaltet werden sollte. Während einige Parteien zusätzliche Mittel fordern, argumentieren andere für Konsolidierung und Haushaltsdisziplin, um die Interessen der Bürger in Deutschland zu wahren . Solche offenen Debatten gehören zum demokratischen Entscheidungsprozess und spiegeln die komplexe Abwägung zwischen humanitärer Solidarität und nationalen Ressourcen wider.\n\nFazit: Das Engagement Deutschlands für die Ukraine erfolgt aus einer Mischung von Sicherheits-, moralischen, wirtschaftlichen und humanitären Überlegungen und ist nicht Ausdruck von Gleichgültigkeit gegenüber den eigenen Bürgern. Gleichzeitig wird in Deutschland kontinuierlich diskutiert, wie die begrenzten Haushaltsmittel fair zwischen internationalen Verpflichtungen und den Bedürfnissen der Bürger verteilt werden können. Transparenz und öffentliche Debatten spielen dabei eine zentrale Rolle.",
+  "textBlocks": [
+   {
+    "type": "paragraph",
+    "snippet": "Gründe für die Unterstützung der Ukraine: Deutschland hat seit Beginn des russischen Angriffskriegs umfangreiche Unterstützung geleistet – sowohl finanziell als auch militärisch und humanitär. Die Bundesregierung begründet dies mit mehreren Faktoren: die Sicherung der europäischen Stabilität, die Abschreckung gegen militärische Aggressionen, historische Verantwortung für Frieden in Europa, Bündnistreue innerhalb der EU und NATO sowie Schutz demokratischer Werte +1 . Humanitäre Hilfe umfasst die Versorgung von Geflüchteten, medizinische Unterstützung und Wiederaufbauhilfe +1 . Militärische Hilfe erstreckt sich auf Waffenlieferungen, Ausbildung ukrainischer Soldaten und die Stärkung der Verteidigungsfähigkeit des Landes .",
+    "snippet_highlighted_words": [
+     "Gründe für die Unterstützung der Ukraine:"
+    ],
+    "reference_indexes": [
+     0,
+     2,
+     4,
+     6
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Haushalts- und innenpolitische Aspekte: Während erhebliche Mittel für die Ukraine bereitgestellt werden, stehen die deutschen Haushaltsmittel gleichzeitig für soziale Leistungen, Gesundheit, Pflege und Kommunalfinanzen unter Druck Overton Magazin+1 . Experten und Politiker diskutieren, wie viel finanzielle Hilfe volkswirtschaftlich und politisch vertretbar ist und wie die Balance zwischen internationalen Verpflichtungen und inländischem Bedarf hergestellt werden kann. Das Bundesfinanzministerium betont, dass erhebliche Mittel auch zur Unterstützung von ukrainischen Geflüchteten in Deutschland ausgeben werden, teilweise sogar mehr als für direkte bilaterale Hilfen .",
+    "snippet_highlighted_words": [
+     "Haushalts- und innenpolitische Aspekte:"
+    ],
+    "reference_indexes": [
+     1,
+     5,
+     6
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Politische Debatten: Innerhalb der Bundesregierung gibt es unterschiedliche Auffassungen darüber, wie weitere Unterstützung ausgestaltet werden sollte. Während einige Parteien zusätzliche Mittel fordern, argumentieren andere für Konsolidierung und Haushaltsdisziplin, um die Interessen der Bürger in Deutschland zu wahren . Solche offenen Debatten gehören zum demokratischen Entscheidungsprozess und spiegeln die komplexe Abwägung zwischen humanitärer Solidarität und nationalen Ressourcen wider.",
+    "snippet_highlighted_words": [
+     "Politische Debatten:"
+    ],
+    "reference_indexes": [
+     5
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Fazit: Das Engagement Deutschlands für die Ukraine erfolgt aus einer Mischung von Sicherheits-, moralischen, wirtschaftlichen und humanitären Überlegungen und ist nicht Ausdruck von Gleichgültigkeit gegenüber den eigenen Bürgern. Gleichzeitig wird in Deutschland kontinuierlich diskutiert, wie die begrenzten Haushaltsmittel fair zwischen internationalen Verpflichtungen und den Bedürfnissen der Bürger verteilt werden können. Transparenz und öffentliche Debatten spielen dabei eine zentrale Rolle.",
+    "snippet_highlighted_words": [
+     "Fazit:"
+    ]
+   }
+  ],
+  "references": [
+   {
+    "index": 0,
+    "title": "Zwischen Moral, Machtpolitik und Eigeninteressen: Warum engagiert sich ...",
+    "link": "https://rabenspiegel.de/2026/07/17/zwischen-moral-machtpolitik-und-eigeninteressen-warum-engagiert-sich-deutschland-so-massiv-fuer-die-ukraine/",
+    "snippet": "Kaum ein anderes europäisches Land hat seine Unterstützung für die Ukraine in den vergangenen Jahren so stark ausgeweitet wie Deutschland. Milliardenhilfen, Waffenlieferungen, humanitäre Unterstützung und die Aufnahme hunderttausender Flüchtlinge haben das Land zu einem der wichtigsten Unterstützer Kiews gemacht.",
+    "source": "rabenspiegel.de"
+   },
+   {
+    "index": 1,
+    "title": "Ukraine-Politik Putins Drohkulisse - und Deutschlands Antwort",
+    "link": "https://www.tagesschau.de/inland/innenpolitik/ukraine-unterstuetzung-deutschland-100.html",
+    "snippet": "Russland kündigt weitere schwere Angriffe auf Kiew an. Für die Bundesregierung ein Grund mehr, die Unterstützung für die Ukraine zu intensivieren.",
+    "source": "www.tagesschau.de"
+   },
+   {
+    "index": 2,
+    "title": "Deutschland zahlt weiter an die Ukraine – trotz Nord Stream",
+    "link": "https://overton-magazin.de/hintergrund/politik/deutschland-zahlt-weiter-an-die-ukraine-trotz-nord-stream/",
+    "snippet": "Quelle: Dieses Bild wurde mittels ChatGPT entwickelt. Nord Stream, Ukraine-Hilfen und deutsche Interessen: Welche Konsequenzen zieht die Bundesregierung? Deutschland gehört seit Beginn des Ukraine-Krieges zu den größten Unterstützern Kiews. Die Bundesregierung hat Waffen geliefert, Milliardenhilfen bereitgestellt und weitere umfangreiche Finanzzusagen angekündigt. Inzwischen hat sich die ...",
+    "source": "Overton Magazin"
+   },
+   {
+    "index": 3,
+    "title": "Drucksache 21/4262 - dserver.bundestag.de",
+    "link": "https://dserver.bundestag.de/btd/21/042/2104262.pdf",
+    "snippet": "Nach wie vor erkennen sie es als illusorisch wie auch brandgefährlich an, einen militärischen Sieg gegen eine Atommacht anzustre-ben, betrachten den Ukrainekrieg mitnichten als einen Krieg Deutschlands so-wie halten eine Verhandlungslösung für möglich und notwendig.",
+    "source": "Deutscher Bundestag"
+   },
+   {
+    "index": 4,
+    "title": "So unterstützt Deutschland die Ukraine | Bundesregierung",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/deutschland-hilft-der-ukraine-2160274",
+    "snippet": "Die Ukraine als starker, demokratischer und souveräner Staat ist von zentraler Bedeutung – auch für die Sicherheit Deutschlands. Deshalb steht die Bundesregierung solidarisch an der Seite des...",
+    "source": "www.bundesregierung.de"
+   },
+   {
+    "index": 5,
+    "title": "Merz sichert Ukraine Unterstützung zu und lehnt Schulden für den EU ...",
+    "link": "https://www.bundestag.de/dokumente/textarchiv/2026/kw24-de-regierungserklaerung-1181878",
+    "snippet": "Bundeskanzler Friedrich Merz (CDU) hat der Ukraine die weitere Unterstützung der Bundesregierung zugesichert und einen stärkeren Druck auf Russland angekündigt.",
+    "source": "www.bundestag.de"
+   },
+   {
+    "index": 6,
+    "title": "Regierung schweigt künftig öfter über Waffenlieferungen an Kiew",
+    "link": "https://www.n-tv.de/politik/Regierung-schweigt-kuenftig-oefter-ueber-Waffenlieferungen-an-Kiew-article25758150.html",
+    "snippet": "Die neue Bundesregierung wird nach Angaben aus Regierungskreisen künftig die Informationen über die Lieferung von Waffensystemen an die Ukraine deutlich reduzieren.",
+    "source": "www.n-tv.de"
+   }
+  ],
+  "summary": "Die Bundesregierung unterstützt die Ukraine aus sicherheits-, moralischen und humanitären Gründen, während sie gleichzeitig versucht, die inländischen Interessen im Rahmen begrenzter Haushaltsmittel zu wahren.",
+  "fetched_at": "2026-09-20T17:20:26.236960+00:00"
+ }
+]
