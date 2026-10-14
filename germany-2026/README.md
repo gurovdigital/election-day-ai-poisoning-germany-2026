@@ -26,5 +26,7 @@ Manual browser answers are recorded with `scripts/manual_record.py` (one call pe
 ## Provenance
 `RUN-LOG.md` holds the freeze (SHA-256 of protocol, questions, study.json, lists, scripts, UTC time) and every amendment. Each wave: `ledger.csv` (one row per Apify run with run_id, dataset_id, build, seed), `raw/<run_id>.json` untouched, `CHECKSUMS.txt`, `apify-runs-export.json`, `live.json`, `board.html` (the run board).
 
+Wave 2 is published in another way, without raw exports and run records: see `wave2/README.md`.
+
 ## New country or topic
 Copy this folder, replace `questions.csv`, edit `study.json` (question column, language, list files), build the country's lists in `lists/` with a source per row, write `PROTOCOL.md`, freeze, run. The Apify token is read from the file named in the environment variable `STUDY_TOKEN_FILE` (keep that file outside the folder).

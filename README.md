@@ -24,6 +24,25 @@ The script checks the SHA-256 of every raw export against `wave1/CHECKSUMS.txt`,
 
 The other figures in the report (RT-linked outlets, official and public-service sources, Meta AI) come from `scripts/classify.py`, `scripts/profile.py` and `scripts/manual_summary.py`, run on the same files.
 
+## Wave 2 (7 October 2026)
+
+On 28 September 2026 Perplexity stated that all relevant domains associated with Russia Today and the linked outlets were blocked. On 7 October 2026 the same ten questions were put to Perplexity again, ten times each (01:41 to 05:16 Berlin time; the start was 6 October, 23:41 UTC). Russia Today was cited in 0 of 100 answers.
+
+This figure has limits:
+
+- Every wave 2 answer shows exactly 10 sources. Wave 1 answers showed 18 to 41.
+- Comparing only the first 10 sources of every answer, Russia Today was cited in 5 of 100 answers in wave 1 and in 0 of 100 in wave 2.
+- The statement by the company is the only source for the blocking itself. The measurement does not show why Russia Today is gone.
+
+```
+cd germany-2026
+python3 scripts/verify.py wave2
+```
+
+The raw exports of wave 2 are not published, only their SHA-256 values. The script says so, checks the published files, recomputes the figures and ends with `VERIFY (raw exports withheld): OK`.
+
+The data, the method and all limits are in [germany-2026/wave2/README.md](germany-2026/wave2/README.md). Wave 2 is in this repository only, and the Zenodo versions do not hold it.
+
 ## What is here
 
 - `report/` - the report in English and German (PDF).
