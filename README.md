@@ -10,6 +10,8 @@ On 20 September 2026, election day in Berlin and Mecklenburg-Vorpommern, ten pol
 
 - English: [Election-Day AI Poisoning in Germany](report/Election-Day-AI-Poisoning-Germany-2026-EN.pdf)
 - German: [KI-Vergiftung am Wahltag in Deutschland](report/Election-Day-AI-Poisoning-Germany-2026-DE.pdf)
+- Online, English: [dosimeteraudit.org/research/election-day-ai-poisoning-germany](https://dosimeteraudit.org/research/election-day-ai-poisoning-germany)
+- Online, German: [dosimeteraudit.org/research/ki-vergiftung-am-wahltag-deutschland](https://dosimeteraudit.org/research/ki-vergiftung-am-wahltag-deutschland)
 
 ## Check the numbers
 
@@ -64,4 +66,4 @@ Scripts: MIT OR EUPL-1.2, at your choice ([LICENSE-MIT](LICENSE-MIT), [LICENSE](
 
 ## Contact
 
-Pavel Gurov, Berlin: [gurovdigital.com/about](https://gurovdigital.com/about)
+Pavel Gurov, Dosimeter, Berlin: [dosimeteraudit.org](https://dosimeteraudit.org), contact@dosimeteraudit.org
