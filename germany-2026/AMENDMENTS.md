@@ -4,7 +4,7 @@
 
 Version 4, October 2026. Technical identifiers removed. The measurements, the counts and the findings are the same as in the earlier versions.
 
-`python3 scripts/verify.py wave1` gives the same output on versions 3 and 4, line for line, and ends with `VERIFY: OK`.
+`python3 scripts/verify.py wave1` gives the same output on versions 3 and 4, line for line, and ends with `VERIFY: OK`. `python3 scripts/verify.py wave2` does the same and ends with `VERIFY (raw exports withheld): OK`.
 
 Files in this package that changed in version 4 (paths relative to `germany-2026/`):
 
@@ -12,8 +12,8 @@ Files in this package that changed in version 4 (paths relative to `germany-2026
 |---|---|---|
 | `FINDINGS.md` | `3a07f130ac201f6a7bb3268976ffc7505aec54f012e3a85abfb64fc154043129` | `7be64ccff1b656f8485d581aeb574e360f4733774c2a0cc327f8d990fffab3a6` |
 | `PROTOCOL.md` | `c4317cd809b24474d0a94fc286652edfaa521eb51f2cef47c767a4fc0cd346f1` | `993f8f84618cdae7ac1a16aa13da16a2c03f9f3b45f324749187c5db75dd0944` |
-| `README.md` | `bb4b91ccab50e3140c739720943308dcdd2001b801511f6691bb3cb8ccd70b9a` | `2328c460b83d492345baf0361a8733f7c9578449e935a1c2219f3ccbee988f94` |
-| `RUN-LOG.md` | `4a1c2d79f865671e46ca6536748e64755dbff811f7c71b98d270074f507f795e` | `7f484bbdfd69f302491f78f055a6357d28bbfc2e90c9977cf3144f08827f2468` |
+| `README.md` | `dc46ed427dbbae91415aaa62a38bcba80e39c01c430c2d66d03b12eb2691d0a7` | `dfcfa0718a0d5f8773f46d374f9040bc37e0765a78f271bc4a888068ea1f6222` |
+| `RUN-LOG.md` | `17824a82156a39d0bcfebd247d33d5a39d6682cf3d3e3e7b050104398d3e7cd6` | `95bc2d63a8a2072c17592a2896ba6b74884723df6003d8c9dc409ff2f4639fa4` |
 | `pilot/answers_classified.jsonl` | `45b02d3a2e496759bfecd4d9bcecdc8ca23a5e23b00c57c6c6c2d7aec326835c` | `9531aa0fb7c38b785a68631d68aef2c57defc1b66289e8e7463afb116f657c47` |
 | `pilot/ledger.csv` | `039bd0cfbf2428913d0ca9522f9cb39d322289b92c32fd4e1197ac1db19b09fd` | `6fa1ad9431537d7c746de5d131bcaf261b7d60360c357520dcd18b7bed52ce7d` |
 | `pilot/responses.jsonl` | `30af4b7acc5e171f063a8c1ca7a98674a93325dd3809c35365c7df5efc76b4c3` | `69a85861f619b420559fb1212ea51287160f2f2eb5778708dd20636892e30792` |
@@ -31,7 +31,7 @@ Files in the repository outside this folder:
 | File | SHA-256 before (version 3) | SHA-256 after |
 |---|---|---|
 | `CITATION.cff` | `820eb90e61305e6c44bdcda63fa92199451f1e37b1754db90483f53634f479df` | `8a1d9d540b6b0b614e74faf62de69e8a079a8057000448aa0100ff16fa5b8fc1` |
-| `README.md` | `ebee1038e520a87ea9fa3a7af5fb69c568c2fc9c9e05a41d2e08bd452b692c27` | `9dd7c2c8e01dd254408c0ca3b9ece9d107306235540f69c839b27353f7c65ac7` |
+| `README.md` | `8a470477d37ebb3e6fdb40fc1f78064e77fde98e80dc413cc2e22395021f8a42` | `b571732e840cad3cf03ab462d7b73fa6a5d43dad9fe7625fd2bb227d8c716dbd` |
 
 ## Version 3
 

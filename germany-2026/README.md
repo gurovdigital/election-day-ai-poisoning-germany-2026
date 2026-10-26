@@ -25,5 +25,7 @@ Manual browser answers are recorded with `scripts/manual_record.py` (one call pe
 ## Provenance
 `RUN-LOG.md` holds the freeze (SHA-256 of protocol, questions, study.json, lists, scripts, UTC time) and every amendment. Each wave: `ledger.csv` (one row per collection run with run_id, dataset_id, build, seed), `raw/<run_id>.json` untouched, `CHECKSUMS.txt`, `live.json`, `board.html` (the run board).
 
+Wave 2 is published in another way, without raw exports and run records: see `wave2/README.md`.
+
 ## New country or topic
 Copy this folder, replace `questions.csv`, edit `study.json` (question column, language, list files), build the country's lists in `lists/` with a source per row, write `PROTOCOL.md`, freeze, collect the answers into `<wave>/raw/` with a `ledger.csv`, then run the scripts above. The scripts that ran the collection are not part of this package.

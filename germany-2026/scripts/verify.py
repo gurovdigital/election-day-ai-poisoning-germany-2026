@@ -2,25 +2,36 @@
 """verify.py - third-party recomputation of the published numbers from the stored rows and the frozen Russian-source lists only.
 Usage: python3 scripts/verify.py wave1
 Checks: (1) raw export hashes vs CHECKSUMS.txt; (2) run counts vs ledger; (3) recomputes headline numbers 1-3 from responses.jsonl
-using ONLY lists/ru_* (independent minimal re-implementation); (4) prints RESULTS.md fractions for comparison."""
+using ONLY lists/ru_* (independent minimal re-implementation); (4) prints RESULTS.md fractions and fails if they differ from (3).
+A wave folder that holds RAW-CHECKSUMS.txt (wave2) is published without raw exports and ledger: (1) then checks the published
+files listed in CHECKSUMS.txt, (2) only counts rows, and the output says that the raw exports were not checked. Exit code 1 on FAIL."""
 import sys, json, csv, hashlib, pathlib, re, collections
 ROOT = pathlib.Path(__file__).resolve().parent.parent; wave = sys.argv[1] if len(sys.argv) > 1 else "wave1"; W = ROOT / wave
 STUDY = json.loads((ROOT / "study.json").read_text(encoding="utf-8")); LC = STUDY["lists"]; L = ROOT / "lists"
 ok = True
-sums = dict(l.split()[::-1] for l in (W / "CHECKSUMS.txt").read_text().splitlines() if l.strip())
+sums = dict(reversed(l.split()) for l in (W / "CHECKSUMS.txt").read_text().splitlines() if l.strip())
 for rel, h in sums.items():
     p = W / rel
     if not p.exists() or hashlib.sha256(p.read_bytes()).hexdigest() != h: print("HASH MISMATCH", rel); ok = False
-print(f"[1] {len(sums)} raw exports hash-verified: {'OK' if ok else 'FAIL'}")
-ledger = list(csv.DictReader(open(W / "ledger.csv", encoding="utf-8")))
+RAW = W / "RAW-CHECKSUMS.txt"; withheld = RAW.exists()   # a wave published without its raw exports: only their SHA-256 values are in this file
+print(f"[1] {len(sums)} {'published files' if withheld else 'raw exports'} hash-verified: {'OK' if ok else 'FAIL'}")
 rows = [json.loads(l) for l in open(W / "responses.jsonl", encoding="utf-8")]
-runs_in_rows = collections.Counter(r["run_id"] for r in rows)
-print(f"[2] ledger runs: {len(ledger)} (SUCCEEDED {sum(1 for l in ledger if l['status']=='SUCCEEDED')}); runs in responses: {len(runs_in_rows)}; rows: {len(rows)}; "
-      f"per surface: {dict(collections.Counter(r['surface'] for r in rows))}; runs with <10 items: {[k for k, v in runs_in_rows.items() if v < 10]}")
-missing = [l["run_id"] for l in ledger if l["status"] == "SUCCEEDED" and int(l.get("items") or 0) > 0 and l["run_id"] not in runs_in_rows]
-empty = [l["run_id"] for l in ledger if l["status"] == "SUCCEEDED" and int(l.get("items") or 0) == 0]
-if empty: print(f"   runs that legitimately returned 0 items (no AI Overview on Google's side): {len(empty)}")
-if missing: print("   SUCCEEDED ledger runs without rows:", missing); ok = False
+if withheld:
+    print(f"    RAW EXPORTS WITHHELD: the raw exports and the run ledger of {wave} are not published. Only the SHA-256 of each raw export is published "
+          f"({sum(1 for l in RAW.read_text().splitlines() if l.strip())} values in RAW-CHECKSUMS.txt). They were NOT checked here, and nothing here shows that responses.jsonl matches them.")
+    if "responses.jsonl" not in sums: print("   responses.jsonl is not listed in CHECKSUMS.txt"); ok = False
+    reps = collections.Counter((r["surface"], r["rep"]) for r in rows)
+    print(f"[2] no ledger to compare; repetitions in responses: {len(reps)}; rows: {len(rows)}; "
+          f"per surface: {dict(collections.Counter(r['surface'] for r in rows))}; repetitions with <10 answers: {[k for k, v in reps.items() if v < 10]}")
+else:
+    ledger = list(csv.DictReader(open(W / "ledger.csv", encoding="utf-8")))
+    runs_in_rows = collections.Counter(r["run_id"] for r in rows)
+    print(f"[2] ledger runs: {len(ledger)} (SUCCEEDED {sum(1 for l in ledger if l['status']=='SUCCEEDED')}); runs in responses: {len(runs_in_rows)}; rows: {len(rows)}; "
+          f"per surface: {dict(collections.Counter(r['surface'] for r in rows))}; runs with <10 items: {[k for k, v in runs_in_rows.items() if v < 10]}")
+    missing = [l["run_id"] for l in ledger if l["status"] == "SUCCEEDED" and int(l.get("items") or 0) > 0 and l["run_id"] not in runs_in_rows]
+    empty = [l["run_id"] for l in ledger if l["status"] == "SUCCEEDED" and int(l.get("items") or 0) == 0]
+    if empty: print(f"   runs that legitimately returned 0 items (no AI Overview on Google's side): {len(empty)}")
+    if missing: print("   SUCCEEDED ledger runs without rows:", missing); ok = False
 def reg(host):
     host = host.lower()
     if host.startswith("www."): host = host[4:]
@@ -50,4 +61,6 @@ print(f"[3] recomputed: (1) answers citing ru_state/ru_network = {n1}/{N}; (2) r
 res = (W / "RESULTS.md").read_text(encoding="utf-8") if (W / "RESULTS.md").exists() else ""
 fractions = re.findall(r"\*\*(\d+)/(\d+) = ", res)[:4]              # outside the f-string: Python 3.9-3.11 reject backslashes there
 print(f"[4] RESULTS.md headline fractions found: {fractions}")
-print("VERIFY:", "OK" if ok else "FAIL")
+if res and [(int(a), int(b)) for a, b in fractions] != [(n1, N), (k2, C), (d2, len(doms)), (n3, N)]: print("   RESULTS.md differs from the recomputed figures"); ok = False
+print("VERIFY (raw exports withheld):" if withheld else "VERIFY:", "OK" if ok else "FAIL")
+sys.exit(0 if ok else 1)
