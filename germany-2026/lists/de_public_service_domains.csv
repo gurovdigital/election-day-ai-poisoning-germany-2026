@@ -1,0 +1,31 @@
+domain,company,basis,source_url
+ard.de,"ARD (Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland)",ARD's own official site; umbrella organisation of the Landesrundfunkanstalten,https://www.ard.de/die-ard/
+br.de,Bayerischer Rundfunk (BR),Linked as a Landesrundfunkanstalt on ARD's official site; own Impressum schema.org publisher field states "Bayerischer Rundfunk",https://www.ard.de/die-ard/ | https://www.br.de/unternehmen/service/impressum/index.html
+hr.de,Hessischer Rundfunk (hr),Linked as a Landesrundfunkanstalt on ARD's official site,https://www.ard.de/die-ard/
+mdr.de,Mitteldeutscher Rundfunk (MDR),Linked as a Landesrundfunkanstalt on ARD's official site,https://www.ard.de/die-ard/
+ndr.de,Norddeutscher Rundfunk (NDR),Linked as a Landesrundfunkanstalt on ARD's official site,https://www.ard.de/die-ard/
+radiobremen.de,Radio Bremen,Linked as a Landesrundfunkanstalt on ARD's official site,https://www.ard.de/die-ard/
+rbb24.de,Rundfunk Berlin-Brandenburg (rbb),"ARD's site links rbb-online.de, which now redirects (HTTP 301) to rbb24.de; rbb-online.de's own Impressum states ""Rundfunk Berlin-Brandenburg (rbb), Anstalt des öffentlichen Rechts""",https://www.ard.de/die-ard/ | https://www.rbb-online.de/impressum/index.html
+sr.de,Saarländischer Rundfunk (SR),Linked as a Landesrundfunkanstalt on ARD's official site,https://www.ard.de/die-ard/
+swr.de,Südwestrundfunk (SWR),Linked as a Landesrundfunkanstalt on ARD's official site,https://www.ard.de/die-ard/
+wdr.de,Westdeutscher Rundfunk (WDR),Linked as a Landesrundfunkanstalt on ARD's official site,https://www.ard.de/die-ard/
+zdf.de,Zweites Deutsches Fernsehen (ZDF),Linked from ARD's official site as the sister national public broadcaster,https://www.ard.de/die-ard/
+deutschlandradio.de,Deutschlandradio,"Linked from ARD's official site; own site lists Deutschlandfunk, Deutschlandfunk Kultur and Deutschlandfunk Nova as its programmes",https://www.ard.de/die-ard/ | https://www.deutschlandradio.de/impressum-120.html
+deutschlandfunk.de,Deutschlandradio (Deutschlandfunk programme),"Footer Impressum link on the site points to deutschlandradio.de's Impressum, confirming it is a Deutschlandradio programme",https://www.deutschlandfunk.de/ | https://www.deutschlandradio.de/impressum-120.html
+deutschlandfunkkultur.de,Deutschlandradio (Deutschlandfunk Kultur programme),Listed as a Deutschlandradio programme on deutschlandradio.de,https://www.deutschlandradio.de/impressum-120.html
+deutschlandfunknova.de,Deutschlandradio (Deutschlandfunk Nova programme),Listed as a Deutschlandradio programme on deutschlandradio.de,https://www.deutschlandradio.de/impressum-120.html
+dw.com,Deutsche Welle (DW),Linked from ARD's official site,https://www.ard.de/die-ard/
+tagesschau.de,"ARD (Gemeinschaftsredaktion, editorially produced at NDR)",Linked as an ARD joint offering (Gemeinschaftseinrichtung) on ARD's official site,https://www.ard.de/die-ard/
+sportschau.de,ARD / Westdeutscher Rundfunk (WDR),Linked as an ARD joint offering on ARD's official site,https://www.ard.de/die-ard/
+ardmediathek.de,ARD,Linked as ARD's joint media library (Gemeinschaftseinrichtung) on ARD's official site,https://www.ard.de/die-ard/
+ardsounds.de,ARD,"Linked as ARD's joint offering; ardaudiothek.de now redirects (HTTP 301) to ardsounds.de; own Impressum reads ""Impressum von ARD Online""",https://www.ard.de/die-ard/ | https://www.ardsounds.de/impressum
+daserste.de,ARD (Das Erste),"Domain resolves and redirects (HTTP 301) to ardmediathek.de/daserste, ARD's own Mediathek, whose Impressum reads ""Impressum von ARD Online""",https://www.ardmediathek.de/impressum
+kika.de,KiKA (Der Kinderkanal von ARD und ZDF),"Linked as an ARD/ZDF joint offering on ARD's official site; own Impressum/schema.org data states ""Der Kinderkanal von ARD und ZDF"" is a Gemeinschaftsprogramm of ARD and ZDF",https://www.ard.de/die-ard/ | https://www.kika.de/eltern/impressum/impressum-100.html
+funk.net,funk (Content-Netzwerk von ARD und ZDF),Linked as an ARD/ZDF joint offering on ARD's official site,https://www.ard.de/die-ard/
+phoenix.de,phoenix (ARD/ZDF Ereignis- und Dokumentationskanal),Linked as an ARD/ZDF joint offering on ARD's official site,https://www.ard.de/die-ard/
+3sat.de,3sat (ARD/ZDF/ORF/SRG Gemeinschaftssender),Linked as an ARD joint offering on ARD's official site,https://www.ard.de/die-ard/
+arte.tv,ARTE (ARTE G.E.I.E.; joint ARD/ZDF and France Télévisions European channel),Linked as an ARD joint offering on ARD's official site,https://www.ard.de/die-ard/
+zdfheute.de,ZDF,"Own site's footer Impressum link points to zdf.de/impressum, confirming ZDF ownership",https://www.zdfheute.de/
+butenunbinnen.de,Radio Bremen,"Own Impressum states ""Radio Bremen, Anstalt des öffentlichen Rechts""",https://www.butenunbinnen.de/info/impressum/impressum100.html
+br24.de,Bayerischer Rundfunk (BR),"Domain redirects (HTTP 301) to br.de/nachrichten/, BR's own news section",https://www.br.de/ | https://www.br.de/unternehmen/service/impressum/index.html
+hessenschau.de,Hessischer Rundfunk (hr),"Own site's footer Impressum link points to hr.de/impressum, confirming hr ownership",https://www.hessenschau.de/ | https://www.hr.de/impressum/index.html

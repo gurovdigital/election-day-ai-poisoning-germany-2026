@@ -1,0 +1,2 @@
+wave,surface,rep,run_id,dataset_id,build,seed,question_order,started_utc,finished_utc,duration_s,status,items,note
+pilot,copilot,1,fdSIR679KtbFev1lG,h9nDgc97byCamE6fN,0.0.77,-,Q06,2026-09-20T16:02:01.424Z,2026-09-20T16:02:25.334Z,23,SUCCEEDED,1,pilot single question Q06

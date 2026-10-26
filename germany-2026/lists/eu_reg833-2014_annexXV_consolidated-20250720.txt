@@ -1,0 +1,35 @@
+# Council Regulation (EU) No 833/2014, ANNEX XV — "List of legal persons, entities or bodies referred to in Article 2f" (broadcasting ban)
+# Source: EUR-Lex consolidated text CELEX:02014R0833-20250720 (fetched 2026-09-02). Amendment markers as in the consolidated text.
+# Later packages (19th, Oct 2025; 20th, Apr 2026) extended the ban to "mirror" entities but, per the summaries checked, added no new named outlets.
+RT- Russia Today English
+RT- Russia Today UK
+RT - Russia Today Germany
+RT - Russia Today France
+RT- Russia Today Spanish
+Sputnik
+Rossiya RTR / RTR Planeta   (M15)
+Rossiya 24 / Russia 24   (M15)
+TV Centre International   (M15)
+NTV/NTV Mir   (M20)
+Rossiya 1   (M20)
+REN TV   (M20)
+Pervyi Kanal   (M20)
+RT Arabic   (M24)
+Sputnik Arabic   (M24)
+RT Balkan   (M25)
+Oriental Review   (M25)
+Tsargrad   (M25)
+New Eastern Outlook   (M25)
+Katehon   (M25)
+Voice of Europe   (M29)
+RIA Novosti   (M29)
+Izvestija   (M29)
+Rossiiskaja Gazeta   (M29)
+EADaily / Eurasia Daily   (M35)
+Fondsk   (M35)
+Lenta   (M35)
+NewsFront   (M35)
+RuBaltic   (M35)
+SouthFront   (M35)
+Strategic Culture Foundation   (M35)
+Krasnaya Zvezda / Tvzvezda   (M35)

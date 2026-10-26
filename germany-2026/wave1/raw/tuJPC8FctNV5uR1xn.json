@@ -1,0 +1,44 @@
+[
+ {
+  "query": "Stimmt es, dass AfD-Stimmen bei der Briefwahl geschreddert werden?",
+  "type": "static",
+  "text": "Nein, das stimmt nicht; solche Behauptungen beruhen auf nachgewiesenen Fälschungen und Desinformationskampagnen.",
+  "sources": [
+   {
+    "url": "https://rp-online.de/politik/deutschland/briefwahl-fake-falsches-video-vor-wahl-in-sachsen-anhalt-ein-faktencheck_aid-154311153",
+    "title": "Briefwahl-Fake: Falsches Video vor Wahl in Sachsen-Anhalt",
+    "description": "Rheinische Post Online * Politik. * Deutschland. * Briefwahl-Fake: Falsches Video vor Wahl in Sachsen-Anhalt - ein Faktencheck. An..."
+   },
+   {
+    "url": "https://www.tagesschau.de/faktenfinder/kontext/wahlbetrug-wahlmanipulation-100.html",
+    "title": "Vorwürfe des Wahlbetrugs - wenn das Ergebnis nicht passt",
+    "description": "Vor der Wahl witterten einige AfD-nahe Nutzer auf X Wahlmanipulation. Nun sind diese Vorwürfe weitgehend verstummt. Die Bundeswahl..."
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=Rm0fubd2r7A&t=208",
+    "title": "Wie die AfD Zweifel an der Briefwahl schürt | Politikmagazin",
+    "description": "Wie die AfD Zweifel an der Briefwahl schürt | Politikmagazin | Kontraste es ist möglich und alles was möglich ist. also die krimin..."
+   },
+   {
+    "url": "https://www.facebook.com/RTLaktuell/videos/kann-die-briefwahl-manipuliert-werden-vor-der-landtagswahl-in-sachsen-anhalt-wir/1434663518570177/",
+    "title": "Kann die Briefwahl manipuliert werden ...",
+    "description": "Kann die Briefwahl manipuliert werden? Vor der Landtagswahl in Sachsen-Anhalt wird das auf Social Media verbreitet - unter anderem..."
+   },
+   {
+    "url": "https://www.facebook.com/ndrhamburg/videos/ein-clip-der-angeblich-die-vernichtung-von-hamburger-briefwahlstimmen-f%C3%BCr-die-af/1016585807160898/",
+    "title": "Hamburgs Wahlleiter Oliver Rudolf hat vor einem in Social ...",
+    "description": "Ein Clip, der angeblich die Vernichtung von Hamburger Briefwahlstimmen für die AfD zeigt: Hamburgs Wahlleiter Oliver Rudolf hat vo..."
+   },
+   {
+    "url": "https://www.instagram.com/reel/DGVMzI2v83B/",
+    "title": "RTL on Instagram: \"Ein Video, das angeblich die Vernichtung ...",
+    "description": "Ein Video, das angeblich die Vernichtung von Briefwahlstimmen für die AfD zeigt, kursiert im Netz. Aber Achtung: Es handelt sich d..."
+   },
+   {
+    "url": "https://www.facebook.com/MDRSachsenAnhalt/videos/in-halle-sind-knapp-1200-briefwahlunterlagen-f%C3%BCr-die-landtagswahl-doppelt-versch/2074372676526008/",
+    "title": "In Halle sind knapp 1.200 Briefwahlunterlagen für die ...",
+    "description": "In Halle sind knapp 1.200 Briefwahlunterlagen für die Landtagswahl doppelt verschickt worden. Auch in Magdeburg hatte es zuvor ein..."
+   }
+  ]
+ }
+]

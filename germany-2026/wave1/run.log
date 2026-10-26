@@ -1,0 +1,110 @@
+2026-09-20T16:40:09Z google_ai_overviews rep 1: started 7AfAf1bh89zA1FKcc seed=wave1-google_ai_overviews-rep1
+2026-09-20T16:40:12Z chatgpt_search rep 1: started eCCxij5uLqDIkZZ4Q seed=wave1-chatgpt_search-rep1
+2026-09-20T16:40:14Z gemini rep 1: started Y7n2pXlHV4FnGXeHI seed=wave1-gemini-rep1
+2026-09-20T16:40:17Z perplexity rep 1: started vSFErfRuy9Ak2PesE seed=wave1-perplexity-rep1
+2026-09-20T16:40:20Z copilot rep 1: started UoHXxdG4nC7j2yysT seed=wave1-copilot-rep1
+2026-09-20T16:42:58Z google_ai_overviews rep 1: SUCCEEDED items=9
+2026-09-20T16:43:45Z chatgpt_search rep 1: SUCCEEDED items=10
+2026-09-20T16:43:46Z gemini rep 1: SUCCEEDED items=10
+2026-09-20T16:43:47Z perplexity rep 1: SUCCEEDED items=10
+2026-09-20T16:43:49Z copilot rep 1: SUCCEEDED items=10
+2026-09-20T16:43:49Z spacing: waiting 379 s before rep 2
+2026-09-20T16:50:09Z google_ai_overviews rep 2: started EymlH9VVmYKFt4Hs7 seed=wave1-google_ai_overviews-rep2
+2026-09-20T16:50:11Z chatgpt_search rep 2: started oFuuZZWsUcH81A9ic seed=wave1-chatgpt_search-rep2
+2026-09-20T16:50:14Z gemini rep 2: started nyCrD36MC2iiNL2Kd seed=wave1-gemini-rep2
+2026-09-20T16:50:17Z perplexity rep 2: started 2jkAKGN8Jzd5PtBFu seed=wave1-perplexity-rep2
+2026-09-20T16:50:19Z copilot rep 2: started wZghgg9oYxxzKbak6 seed=wave1-copilot-rep2
+2026-09-20T16:52:57Z google_ai_overviews rep 2: SUCCEEDED items=9
+2026-09-20T16:53:29Z chatgpt_search rep 2: SUCCEEDED items=10
+2026-09-20T16:53:30Z gemini rep 2: SUCCEEDED items=10
+2026-09-20T16:53:31Z perplexity rep 2: SUCCEEDED items=10
+2026-09-20T16:53:32Z copilot rep 2: SUCCEEDED items=10
+2026-09-20T16:53:32Z spacing: waiting 395 s before rep 3
+2026-09-20T17:00:09Z google_ai_overviews rep 3: started sbzMxV6FcAzTJWMnF seed=wave1-google_ai_overviews-rep3
+2026-09-20T17:00:12Z chatgpt_search rep 3: started cQp6G6OXtAqaTPQl7 seed=wave1-chatgpt_search-rep3
+2026-09-20T17:00:14Z gemini rep 3: started MueCYCkqRKzuTOZVe seed=wave1-gemini-rep3
+2026-09-20T17:00:17Z perplexity rep 3: started erMa7cr4rBdSBhNYD seed=wave1-perplexity-rep3
+2026-09-20T17:00:20Z copilot rep 3: started pHwC9aw8lP83usPYt seed=wave1-copilot-rep3
+2026-09-20T17:03:44Z google_ai_overviews rep 3: SUCCEEDED items=8
+2026-09-20T17:04:31Z chatgpt_search rep 3: SUCCEEDED items=10
+2026-09-20T17:04:32Z gemini rep 3: SUCCEEDED items=10
+2026-09-20T17:04:34Z perplexity rep 3: SUCCEEDED items=10
+2026-09-20T17:04:35Z copilot rep 3: SUCCEEDED items=10
+2026-09-20T17:04:35Z spacing: waiting 333 s before rep 4
+2026-09-20T17:10:09Z google_ai_overviews rep 4: started ByN0qGWTHPVw2Q9oI seed=wave1-google_ai_overviews-rep4
+2026-09-20T17:10:12Z chatgpt_search rep 4: started Capiji8WM2uLkpVSa seed=wave1-chatgpt_search-rep4
+2026-09-20T17:10:14Z gemini rep 4: started lsXaDQ1e0yXlI1ai5 seed=wave1-gemini-rep4
+2026-09-20T17:10:17Z perplexity rep 4: started qVBcbV7hm9jSz3A13 seed=wave1-perplexity-rep4
+2026-09-20T17:10:19Z copilot rep 4: started rDPjrspP3Pb94oMST seed=wave1-copilot-rep4
+2026-09-20T17:12:11Z google_ai_overviews rep 4: SUCCEEDED items=9
+2026-09-20T17:16:03Z chatgpt_search rep 4: SUCCEEDED items=10
+2026-09-20T17:16:04Z gemini rep 4: SUCCEEDED items=10
+2026-09-20T17:16:05Z perplexity rep 4: SUCCEEDED items=10
+2026-09-20T17:16:06Z copilot rep 4: SUCCEEDED items=10
+2026-09-20T17:16:06Z spacing: waiting 241 s before rep 5
+2026-09-20T17:20:09Z google_ai_overviews rep 5: started FgxPjCeGFT0Lv6YID seed=wave1-google_ai_overviews-rep5
+2026-09-20T17:20:12Z chatgpt_search rep 5: started hIi8R5fGnNPbiCCb5 seed=wave1-chatgpt_search-rep5
+2026-09-20T17:20:14Z gemini rep 5: started cpiLI0t55E7gElXOy seed=wave1-gemini-rep5
+2026-09-20T17:20:17Z perplexity rep 5: started cmLz1yBBgybHjLc4G seed=wave1-perplexity-rep5
+2026-09-20T17:20:20Z copilot rep 5: started 1gzqxm9kIi7PyCF18 seed=wave1-copilot-rep5
+2026-09-20T17:22:11Z google_ai_overviews rep 5: SUCCEEDED items=9
+2026-09-20T17:25:33Z chatgpt_search rep 5: SUCCEEDED items=10
+2026-09-20T17:25:34Z gemini rep 5: SUCCEEDED items=10
+2026-09-20T17:25:35Z perplexity rep 5: SUCCEEDED items=10
+2026-09-20T17:25:36Z copilot rep 5: SUCCEEDED items=10
+2026-09-20T17:25:36Z spacing: waiting 271 s before rep 6
+2026-09-20T17:30:09Z google_ai_overviews rep 6: started zggHWaeiRURO2ZzFx seed=wave1-google_ai_overviews-rep6
+2026-09-20T17:30:12Z chatgpt_search rep 6: started 5VnseDdlrtT45khnA seed=wave1-chatgpt_search-rep6
+2026-09-20T17:30:14Z gemini rep 6: started 1vQt6Zhvk9ZJ0HOdG seed=wave1-gemini-rep6
+2026-09-20T17:30:17Z perplexity rep 6: started 7hluoPMfqjCR6Ui83 seed=wave1-perplexity-rep6
+2026-09-20T17:30:20Z copilot rep 6: started 2LNxPD23GyWq8UsAf seed=wave1-copilot-rep6
+2026-09-20T17:32:26Z google_ai_overviews rep 6: SUCCEEDED items=8
+2026-09-20T17:32:27Z chatgpt_search rep 6: SUCCEEDED items=10
+2026-09-20T17:32:28Z gemini rep 6: SUCCEEDED items=10
+2026-09-20T17:32:29Z perplexity rep 6: SUCCEEDED items=10
+2026-09-20T17:32:30Z copilot rep 6: SUCCEEDED items=10
+2026-09-20T17:32:30Z spacing: waiting 457 s before rep 7
+2026-09-20T17:40:09Z google_ai_overviews rep 7: started LnUWvnw7hN4d0TGD8 seed=wave1-google_ai_overviews-rep7
+2026-09-20T17:40:11Z chatgpt_search rep 7: started aqiojlVY9hh1hG3TG seed=wave1-chatgpt_search-rep7
+2026-09-20T17:40:14Z gemini rep 7: started ufWmlU3TOptEAuWaM seed=wave1-gemini-rep7
+2026-09-20T17:40:17Z perplexity rep 7: started lS1RaVcFgcgA4GfgH seed=wave1-perplexity-rep7
+2026-09-20T17:40:19Z copilot rep 7: started IK9sMltNic7ka1h7X seed=wave1-copilot-rep7
+2026-09-20T17:41:55Z google_ai_overviews rep 7: SUCCEEDED items=6
+2026-09-20T17:46:34Z chatgpt_search rep 7: SUCCEEDED items=10
+2026-09-20T17:46:35Z gemini rep 7: SUCCEEDED items=10
+2026-09-20T17:46:36Z perplexity rep 7: SUCCEEDED items=10
+2026-09-20T17:46:37Z copilot rep 7: SUCCEEDED items=10
+2026-09-20T17:46:37Z spacing: waiting 210 s before rep 8
+2026-09-20T17:50:09Z google_ai_overviews rep 8: started V9rjBv8GAf9PM7Xzj seed=wave1-google_ai_overviews-rep8
+2026-09-20T17:50:11Z chatgpt_search rep 8: started GAbTOExNDNaYBxa0N seed=wave1-chatgpt_search-rep8
+2026-09-20T17:50:14Z gemini rep 8: started XJpwGuxcdRDp7I6Tc seed=wave1-gemini-rep8
+2026-09-20T17:50:17Z perplexity rep 8: started l05JWBVfqnnNGe8hp seed=wave1-perplexity-rep8
+2026-09-20T17:50:20Z copilot rep 8: started YVZgLdYvMeE78Oqv2 seed=wave1-copilot-rep8
+2026-09-20T17:51:55Z google_ai_overviews rep 8: SUCCEEDED items=10
+2026-09-20T17:55:47Z chatgpt_search rep 8: SUCCEEDED items=10
+2026-09-20T17:55:48Z gemini rep 8: SUCCEEDED items=10
+2026-09-20T17:55:50Z perplexity rep 8: SUCCEEDED items=10
+2026-09-20T17:55:51Z copilot rep 8: SUCCEEDED items=10
+2026-09-20T17:55:51Z spacing: waiting 257 s before rep 9
+2026-09-20T18:00:09Z google_ai_overviews rep 9: started Hlr8Xwtb6efoyHgF1 seed=wave1-google_ai_overviews-rep9
+2026-09-20T18:00:13Z chatgpt_search rep 9: started JqhrNevNBRCjKUE3t seed=wave1-chatgpt_search-rep9
+2026-09-20T18:00:16Z gemini rep 9: started M1RgZliOZUvsSWQDQ seed=wave1-gemini-rep9
+2026-09-20T18:00:19Z perplexity rep 9: started s5ch728xJckicqV14 seed=wave1-perplexity-rep9
+2026-09-20T18:00:22Z copilot rep 9: started Hy6sEZBkMVcQD4G3f seed=wave1-copilot-rep9
+2026-09-20T18:02:29Z google_ai_overviews rep 9: SUCCEEDED items=9
+2026-09-20T18:05:20Z chatgpt_search rep 9: SUCCEEDED items=10
+2026-09-20T18:05:21Z gemini rep 9: SUCCEEDED items=10
+2026-09-20T18:05:22Z perplexity rep 9: SUCCEEDED items=10
+2026-09-20T18:05:23Z copilot rep 9: SUCCEEDED items=10
+2026-09-20T18:05:23Z spacing: waiting 285 s before rep 10
+2026-09-20T18:10:09Z google_ai_overviews rep 10: started s5J95j9oUyG66NVpR seed=wave1-google_ai_overviews-rep10
+2026-09-20T18:10:12Z chatgpt_search rep 10: started HIWTa9hOAc0QcPPFx seed=wave1-chatgpt_search-rep10
+2026-09-20T18:10:14Z gemini rep 10: started ukrwOy06cMND9ptOU seed=wave1-gemini-rep10
+2026-09-20T18:10:17Z perplexity rep 10: started gO9N1D6G7GPx2xeXo seed=wave1-perplexity-rep10
+2026-09-20T18:10:19Z copilot rep 10: started FV1unhHcZDf2l1mpu seed=wave1-copilot-rep10
+2026-09-20T18:12:56Z google_ai_overviews rep 10: SUCCEEDED items=9
+2026-09-20T18:14:45Z chatgpt_search rep 10: SUCCEEDED items=10
+2026-09-20T18:14:46Z gemini rep 10: SUCCEEDED items=10
+2026-09-20T18:14:48Z perplexity rep 10: SUCCEEDED items=10
+2026-09-20T18:14:49Z copilot rep 10: SUCCEEDED items=10
+2026-09-20T18:14:49Z wave wave1 finished: {'answers': 486, 'runs_done': 50, 'runs_planned': 50, 'manual_planned': 60, 'manual_done': 0}
